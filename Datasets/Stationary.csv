@@ -1,0 +1,1902 @@
+﻿Transaction_ID,Trans Number,Date,Year,Region,Customer_Type,Category,Product,Units,Unit_Price,Dollars,Payment_Method
+SO-201901-0001,10001,2019-01-01,2019,West,Online Customer,School Bags,Backpack,6,28,168,E-Wallet
+SO-201901-0002,10002,2019-01-01,2019,West,Online Customer,Paper Products,Notebook,3,3.5,10.5,Cash
+SO-201901-0003,10003,2019-01-01,2019,East,Retail Customer,Art Supplies,Glue Sticks,5,4.5,22.5,Cash
+SO-201901-0004,10004,2019-01-01,2019,South,Retail Customer,School Bags,Backpack,15,28,420,Cash
+SO-201901-0005,10005,2019-01-02,2019,Central,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,E-Wallet
+SO-201901-0006,10006,2019-01-07,2019,East,Online Customer,Writing Supplies,Highlighters,8,6.5,52,Credit Card
+SO-201901-0007,10007,2019-01-07,2019,North,Wholesale,School Bags,Backpack,58,28,1624,E-Wallet
+SO-201901-0008,10008,2019-01-10,2019,South,Retail Customer,Desk Supplies,Scissors,13,7,91,E-Wallet
+SO-201901-0009,10009,2019-01-11,2019,North,Wholesale,Desk Supplies,Scissors,70,7,490,Cash
+SO-201901-0010,10010,2019-01-11,2019,South,Wholesale,Writing Supplies,Highlighters,41,6.5,266.5,E-Wallet
+SO-201901-0011,10011,2019-01-13,2019,Central,Wholesale,Art Supplies,Glue Sticks,47,4.5,211.5,Cash
+SO-201901-0012,10012,2019-01-14,2019,West,Retail Customer,Writing Supplies,Erasers Pack,14,3,42,E-Wallet
+SO-201901-0013,10013,2019-01-15,2019,Central,Retail Customer,Desk Supplies,Scissors,14,7,98,Credit Card
+SO-201901-0014,10014,2019-01-16,2019,North,Online Customer,Writing Supplies,Pencils Pack,7,4,28,Credit Card
+SO-201901-0015,10015,2019-01-18,2019,Central,Wholesale,Paper Products,Notebook,51,3.5,178.5,Cash
+SO-201901-0016,10016,2019-01-19,2019,North,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Cash
+SO-201901-0017,10017,2019-01-20,2019,West,Wholesale,Writing Supplies,Erasers Pack,45,3,135,E-Wallet
+SO-201901-0018,10018,2019-01-20,2019,West,Online Customer,Writing Supplies,Erasers Pack,4,3,12,Cash
+SO-201901-0019,10019,2019-01-21,2019,South,Wholesale,Art Supplies,Glue Sticks,37,4.5,166.5,E-Wallet
+SO-201901-0020,10020,2019-01-21,2019,East,Online Customer,Writing Supplies,Pencils Pack,2,4,8,Cash
+SO-201901-0021,10021,2019-01-24,2019,East,Online Customer,Writing Supplies,Erasers Pack,4,3,12,E-Wallet
+SO-201901-0022,10022,2019-01-28,2019,West,Retail Customer,Paper Products,Notebook,12,3.5,42,E-Wallet
+SO-201901-0023,10023,2019-01-28,2019,North,Retail Customer,Writing Supplies,Ballpoint Pens,18,5,90,E-Wallet
+SO-201902-0001,10024,2019-02-02,2019,South,Wholesale,School Bags,Backpack,40,28,1120,Credit Card
+SO-201902-0002,10025,2019-02-03,2019,South,Retail Customer,Writing Supplies,Pencils Pack,17,4,68,Credit Card
+SO-201902-0003,10026,2019-02-03,2019,North,Wholesale,Writing Supplies,Whiteboard Markers,44,8,352,Cash
+SO-201902-0004,10027,2019-02-06,2019,North,Retail Customer,Desk Supplies,Scissors,17,7,119,Credit Card
+SO-201902-0005,10028,2019-02-06,2019,North,Wholesale,Desk Supplies,Scissors,71,7,497,E-Wallet
+SO-201902-0006,10029,2019-02-07,2019,Central,Online Customer,Desk Supplies,Scissors,10,7,70,E-Wallet
+SO-201902-0007,10030,2019-02-07,2019,South,Retail Customer,Paper Products,Notebook,20,3.5,70,E-Wallet
+SO-201902-0008,10031,2019-02-08,2019,West,Retail Customer,Writing Supplies,Ballpoint Pens,6,5,30,E-Wallet
+SO-201902-0009,10032,2019-02-08,2019,East,Retail Customer,Writing Supplies,Erasers Pack,5,3,15,Credit Card
+SO-201902-0010,10033,2019-02-09,2019,Central,Online Customer,School Bags,Backpack,10,28,280,Cash
+SO-201902-0011,10034,2019-02-13,2019,South,Wholesale,Art Supplies,Glue Sticks,65,4.5,292.5,Cash
+SO-201902-0012,10035,2019-02-13,2019,Central,Wholesale,Writing Supplies,Pencils Pack,43,4,172,Cash
+SO-201902-0013,10036,2019-02-16,2019,Central,Retail Customer,Paper Products,Notebook,7,3.5,24.5,Cash
+SO-201902-0014,10037,2019-02-16,2019,Central,Wholesale,Writing Supplies,Whiteboard Markers,34,8,272,Credit Card
+SO-201902-0015,10038,2019-02-16,2019,North,Wholesale,Art Supplies,Glue Sticks,27,4.5,121.5,Credit Card
+SO-201902-0016,10039,2019-02-16,2019,South,Retail Customer,Writing Supplies,Whiteboard Markers,6,8,48,Cash
+SO-201902-0017,10040,2019-02-18,2019,West,Wholesale,Writing Supplies,Whiteboard Markers,56,8,448,E-Wallet
+SO-201902-0018,10041,2019-02-19,2019,East,Online Customer,Desk Supplies,Stapler,2,9.5,19,Cash
+SO-201902-0019,10042,2019-02-20,2019,North,Online Customer,Paper Products,Notebook,9,3.5,31.5,E-Wallet
+SO-201902-0020,10043,2019-02-20,2019,Central,Wholesale,Writing Supplies,Ballpoint Pens,43,5,215,E-Wallet
+SO-201902-0021,10044,2019-02-21,2019,Central,Wholesale,Paper Products,Notebook,21,3.5,73.5,E-Wallet
+SO-201902-0022,10045,2019-02-22,2019,North,Wholesale,Desk Supplies,Scissors,35,7,245,Cash
+SO-201902-0023,10046,2019-02-23,2019,Central,Online Customer,School Bags,Backpack,8,28,224,Cash
+SO-201902-0024,10047,2019-02-27,2019,East,Online Customer,Writing Supplies,Erasers Pack,7,3,21,Cash
+SO-201903-0001,10048,2019-03-01,2019,South,Retail Customer,Desk Supplies,Stapler,14,9.5,133,E-Wallet
+SO-201903-0002,10049,2019-03-02,2019,West,Online Customer,Writing Supplies,Whiteboard Markers,4,8,32,Cash
+SO-201903-0003,10050,2019-03-02,2019,South,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Cash
+SO-201903-0004,10051,2019-03-03,2019,Central,Retail Customer,Art Supplies,Glue Sticks,18,4.5,81,E-Wallet
+SO-201903-0005,10052,2019-03-04,2019,East,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,Credit Card
+SO-201903-0006,10053,2019-03-05,2019,Central,Online Customer,Writing Supplies,Highlighters,3,6.5,19.5,Credit Card
+SO-201903-0007,10054,2019-03-06,2019,West,Retail Customer,Writing Supplies,Whiteboard Markers,20,8,160,E-Wallet
+SO-201903-0008,10055,2019-03-08,2019,Central,Online Customer,Writing Supplies,Whiteboard Markers,5,8,40,Cash
+SO-201903-0009,10056,2019-03-10,2019,North,Retail Customer,Writing Supplies,Highlighters,9,6.5,58.5,Credit Card
+SO-201903-0010,10057,2019-03-12,2019,West,Wholesale,Writing Supplies,Ballpoint Pens,70,5,350,Credit Card
+SO-201903-0011,10058,2019-03-13,2019,East,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,Credit Card
+SO-201903-0012,10059,2019-03-14,2019,West,Retail Customer,Desk Supplies,Stapler,15,9.5,142.5,E-Wallet
+SO-201903-0013,10060,2019-03-15,2019,Central,Wholesale,Desk Supplies,Stapler,20,9.5,190,Cash
+SO-201903-0014,10061,2019-03-15,2019,South,Retail Customer,Writing Supplies,Highlighters,13,6.5,84.5,Credit Card
+SO-201903-0015,10062,2019-03-18,2019,East,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,Credit Card
+SO-201903-0016,10063,2019-03-18,2019,Central,Online Customer,Writing Supplies,Whiteboard Markers,5,8,40,E-Wallet
+SO-201903-0017,10064,2019-03-18,2019,West,Online Customer,Writing Supplies,Erasers Pack,1,3,3,E-Wallet
+SO-201903-0018,10065,2019-03-19,2019,Central,Online Customer,Desk Supplies,Scissors,2,7,14,E-Wallet
+SO-201903-0019,10066,2019-03-19,2019,East,Wholesale,Writing Supplies,Pencils Pack,44,4,176,E-Wallet
+SO-201903-0020,10067,2019-03-21,2019,South,Retail Customer,Art Supplies,Glue Sticks,6,4.5,27,E-Wallet
+SO-201903-0021,10068,2019-03-21,2019,East,Retail Customer,Writing Supplies,Whiteboard Markers,18,8,144,Credit Card
+SO-201903-0022,10069,2019-03-23,2019,North,Retail Customer,Desk Supplies,Stapler,15,9.5,142.5,E-Wallet
+SO-201903-0023,10070,2019-03-24,2019,South,Retail Customer,Writing Supplies,Whiteboard Markers,7,8,56,Cash
+SO-201903-0024,10071,2019-03-26,2019,East,Online Customer,Writing Supplies,Pencils Pack,10,4,40,E-Wallet
+SO-201903-0025,10072,2019-03-29,2019,West,Wholesale,Writing Supplies,Whiteboard Markers,36,8,288,Credit Card
+SO-201904-0001,10073,2019-04-01,2019,North,Retail Customer,Desk Supplies,Stapler,7,9.5,66.5,E-Wallet
+SO-201904-0002,10074,2019-04-04,2019,West,Retail Customer,Desk Supplies,Scissors,11,7,77,Credit Card
+SO-201904-0003,10075,2019-04-06,2019,East,Retail Customer,Paper Products,Notebook,8,3.5,28,Cash
+SO-201904-0004,10076,2019-04-07,2019,East,Wholesale,Writing Supplies,Highlighters,26,6.5,169,E-Wallet
+SO-201904-0005,10077,2019-04-13,2019,South,Wholesale,Paper Products,Notebook,26,3.5,91,E-Wallet
+SO-201904-0006,10078,2019-04-14,2019,South,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,Cash
+SO-201904-0007,10079,2019-04-15,2019,West,Retail Customer,Writing Supplies,Highlighters,12,6.5,78,Cash
+SO-201904-0008,10080,2019-04-17,2019,East,Online Customer,Desk Supplies,Scissors,1,7,7,Credit Card
+SO-201904-0009,10081,2019-04-18,2019,South,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,Credit Card
+SO-201904-0010,10082,2019-04-18,2019,North,Retail Customer,Writing Supplies,Whiteboard Markers,12,8,96,E-Wallet
+SO-201904-0011,10083,2019-04-18,2019,Central,Wholesale,Paper Products,Notebook,63,3.5,220.5,E-Wallet
+SO-201904-0012,10084,2019-04-19,2019,East,Wholesale,Writing Supplies,Highlighters,46,6.5,299,E-Wallet
+SO-201904-0013,10085,2019-04-20,2019,West,Wholesale,Writing Supplies,Ballpoint Pens,72,5,360,Credit Card
+SO-201904-0014,10086,2019-04-21,2019,South,Retail Customer,Writing Supplies,Erasers Pack,18,3,54,Cash
+SO-201904-0015,10087,2019-04-22,2019,East,Wholesale,Writing Supplies,Erasers Pack,39,3,117,Credit Card
+SO-201904-0016,10088,2019-04-25,2019,West,Online Customer,Writing Supplies,Ballpoint Pens,3,5,15,Cash
+SO-201904-0017,10089,2019-04-28,2019,North,Wholesale,School Bags,Backpack,40,28,1120,Credit Card
+SO-201905-0001,10090,2019-05-03,2019,East,Wholesale,Writing Supplies,Highlighters,28,6.5,182,Cash
+SO-201905-0002,10091,2019-05-04,2019,Central,Wholesale,Writing Supplies,Pencils Pack,22,4,88,E-Wallet
+SO-201905-0003,10092,2019-05-05,2019,North,Retail Customer,Desk Supplies,Stapler,6,9.5,57,Cash
+SO-201905-0004,10093,2019-05-09,2019,Central,Retail Customer,Writing Supplies,Pencils Pack,17,4,68,Cash
+SO-201905-0005,10094,2019-05-10,2019,West,Retail Customer,Desk Supplies,Stapler,17,9.5,161.5,Credit Card
+SO-201905-0006,10095,2019-05-11,2019,South,Wholesale,Writing Supplies,Ballpoint Pens,73,5,365,Cash
+SO-201905-0007,10096,2019-05-11,2019,Central,Online Customer,Art Supplies,Glue Sticks,10,4.5,45,Cash
+SO-201905-0008,10097,2019-05-12,2019,East,Wholesale,Writing Supplies,Erasers Pack,41,3,123,Cash
+SO-201905-0009,10098,2019-05-13,2019,North,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,Credit Card
+SO-201905-0010,10099,2019-05-15,2019,Central,Wholesale,Writing Supplies,Whiteboard Markers,72,8,576,E-Wallet
+SO-201905-0011,10100,2019-05-15,2019,West,Retail Customer,Writing Supplies,Whiteboard Markers,16,8,128,Credit Card
+SO-201905-0012,10101,2019-05-16,2019,West,Wholesale,Writing Supplies,Ballpoint Pens,36,5,180,Cash
+SO-201905-0013,10102,2019-05-18,2019,East,Retail Customer,Paper Products,Notebook,16,3.5,56,E-Wallet
+SO-201905-0014,10103,2019-05-19,2019,Central,Retail Customer,Desk Supplies,Scissors,16,7,112,E-Wallet
+SO-201905-0015,10104,2019-05-19,2019,South,Wholesale,Paper Products,Notebook,32,3.5,112,Credit Card
+SO-201905-0016,10105,2019-05-20,2019,North,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,E-Wallet
+SO-201905-0017,10106,2019-05-20,2019,South,Wholesale,Writing Supplies,Pencils Pack,35,4,140,Credit Card
+SO-201905-0018,10107,2019-05-25,2019,South,Wholesale,Writing Supplies,Erasers Pack,30,3,90,Credit Card
+SO-201905-0019,10108,2019-05-25,2019,East,Retail Customer,Desk Supplies,Scissors,19,7,133,Credit Card
+SO-201905-0020,10109,2019-05-27,2019,Central,Online Customer,Desk Supplies,Stapler,1,9.5,9.5,Cash
+SO-201905-0021,10110,2019-05-27,2019,North,Online Customer,Writing Supplies,Erasers Pack,7,3,21,E-Wallet
+SO-201905-0022,10111,2019-05-30,2019,East,Online Customer,Writing Supplies,Whiteboard Markers,8,8,64,E-Wallet
+SO-201905-0023,10112,2019-05-30,2019,South,Online Customer,Writing Supplies,Pencils Pack,5,4,20,Cash
+SO-201905-0024,10113,2019-05-30,2019,Central,Retail Customer,Art Supplies,Glue Sticks,15,4.5,67.5,Credit Card
+SO-201905-0025,10114,2019-05-31,2019,South,Online Customer,Writing Supplies,Whiteboard Markers,7,8,56,E-Wallet
+SO-201905-0026,10115,2019-05-31,2019,South,Online Customer,Writing Supplies,Whiteboard Markers,10,8,80,E-Wallet
+SO-201905-0027,10116,2019-05-31,2019,East,Wholesale,Writing Supplies,Whiteboard Markers,27,8,216,E-Wallet
+SO-201906-0001,10117,2019-06-03,2019,West,Wholesale,School Bags,Backpack,44,28,1232,Credit Card
+SO-201906-0002,10118,2019-06-07,2019,South,Retail Customer,Writing Supplies,Whiteboard Markers,17,8,136,Cash
+SO-201906-0003,10119,2019-06-07,2019,North,Retail Customer,School Bags,Backpack,15,28,420,E-Wallet
+SO-201906-0004,10120,2019-06-08,2019,South,Online Customer,Art Supplies,Glue Sticks,5,4.5,22.5,E-Wallet
+SO-201906-0005,10121,2019-06-08,2019,West,Online Customer,Art Supplies,Glue Sticks,10,4.5,45,E-Wallet
+SO-201906-0006,10122,2019-06-08,2019,East,Online Customer,Writing Supplies,Highlighters,2,6.5,13,Credit Card
+SO-201906-0007,10123,2019-06-08,2019,South,Online Customer,School Bags,Backpack,8,28,224,Credit Card
+SO-201906-0008,10124,2019-06-09,2019,West,Online Customer,Writing Supplies,Erasers Pack,10,3,30,Cash
+SO-201906-0009,10125,2019-06-09,2019,West,Retail Customer,Desk Supplies,Stapler,20,9.5,190,E-Wallet
+SO-201906-0010,10126,2019-06-11,2019,North,Wholesale,Desk Supplies,Stapler,38,9.5,361,Cash
+SO-201906-0011,10127,2019-06-11,2019,West,Retail Customer,Writing Supplies,Pencils Pack,7,4,28,Cash
+SO-201906-0012,10128,2019-06-12,2019,East,Retail Customer,Writing Supplies,Erasers Pack,18,3,54,E-Wallet
+SO-201906-0013,10129,2019-06-12,2019,North,Wholesale,Desk Supplies,Stapler,69,9.5,655.5,Credit Card
+SO-201906-0014,10130,2019-06-13,2019,West,Online Customer,Writing Supplies,Ballpoint Pens,2,5,10,Credit Card
+SO-201906-0015,10131,2019-06-14,2019,South,Wholesale,School Bags,Backpack,33,28,924,Credit Card
+SO-201906-0016,10132,2019-06-15,2019,East,Wholesale,Paper Products,Notebook,48,3.5,168,Credit Card
+SO-201906-0017,10133,2019-06-15,2019,North,Retail Customer,Writing Supplies,Ballpoint Pens,11,5,55,E-Wallet
+SO-201906-0018,10134,2019-06-15,2019,West,Retail Customer,Desk Supplies,Scissors,9,7,63,Credit Card
+SO-201906-0019,10135,2019-06-16,2019,Central,Wholesale,Writing Supplies,Whiteboard Markers,35,8,280,E-Wallet
+SO-201906-0020,10136,2019-06-16,2019,West,Wholesale,School Bags,Backpack,60,28,1680,E-Wallet
+SO-201906-0021,10137,2019-06-17,2019,West,Retail Customer,Art Supplies,Glue Sticks,14,4.5,63,Cash
+SO-201906-0022,10138,2019-06-17,2019,North,Wholesale,Writing Supplies,Highlighters,36,6.5,234,E-Wallet
+SO-201906-0023,10139,2019-06-18,2019,North,Retail Customer,Paper Products,Notebook,7,3.5,24.5,E-Wallet
+SO-201906-0024,10140,2019-06-18,2019,East,Retail Customer,Writing Supplies,Whiteboard Markers,13,8,104,Cash
+SO-201906-0025,10141,2019-06-20,2019,South,Online Customer,Writing Supplies,Whiteboard Markers,1,8,8,Cash
+SO-201906-0026,10142,2019-06-20,2019,North,Wholesale,Art Supplies,Glue Sticks,77,4.5,346.5,Credit Card
+SO-201906-0027,10143,2019-06-22,2019,Central,Online Customer,School Bags,Backpack,3,28,84,Cash
+SO-201906-0028,10144,2019-06-24,2019,Central,Online Customer,Writing Supplies,Highlighters,6,6.5,39,E-Wallet
+SO-201906-0029,10145,2019-06-24,2019,North,Wholesale,Desk Supplies,Stapler,51,9.5,484.5,Credit Card
+SO-201906-0030,10146,2019-06-26,2019,East,Wholesale,Writing Supplies,Highlighters,43,6.5,279.5,E-Wallet
+SO-201906-0031,10147,2019-06-26,2019,Central,Online Customer,Writing Supplies,Erasers Pack,2,3,6,E-Wallet
+SO-201906-0032,10148,2019-06-26,2019,East,Retail Customer,Writing Supplies,Highlighters,5,6.5,32.5,Credit Card
+SO-201906-0033,10149,2019-06-27,2019,South,Wholesale,Writing Supplies,Highlighters,45,6.5,292.5,Cash
+SO-201906-0034,10150,2019-06-29,2019,South,Wholesale,Art Supplies,Glue Sticks,60,4.5,270,Cash
+SO-201907-0001,10151,2019-07-03,2019,East,Wholesale,Writing Supplies,Highlighters,63,6.5,409.5,Credit Card
+SO-201907-0002,10152,2019-07-03,2019,Central,Online Customer,Paper Products,Notebook,7,3.5,24.5,Credit Card
+SO-201907-0003,10153,2019-07-04,2019,South,Wholesale,Writing Supplies,Erasers Pack,32,3,96,Credit Card
+SO-201907-0004,10154,2019-07-04,2019,North,Retail Customer,Paper Products,Notebook,20,3.5,70,Credit Card
+SO-201907-0005,10155,2019-07-06,2019,Central,Wholesale,Writing Supplies,Highlighters,36,6.5,234,Cash
+SO-201907-0006,10156,2019-07-07,2019,West,Retail Customer,Writing Supplies,Pencils Pack,6,4,24,E-Wallet
+SO-201907-0007,10157,2019-07-08,2019,North,Wholesale,Writing Supplies,Whiteboard Markers,76,8,608,E-Wallet
+SO-201907-0008,10158,2019-07-09,2019,South,Retail Customer,Art Supplies,Glue Sticks,10,4.5,45,E-Wallet
+SO-201907-0009,10159,2019-07-10,2019,West,Online Customer,Writing Supplies,Highlighters,6,6.5,39,Credit Card
+SO-201907-0010,10160,2019-07-11,2019,Central,Online Customer,Writing Supplies,Pencils Pack,4,4,16,Credit Card
+SO-201907-0011,10161,2019-07-11,2019,West,Retail Customer,Writing Supplies,Pencils Pack,7,4,28,Cash
+SO-201907-0012,10162,2019-07-13,2019,South,Wholesale,Writing Supplies,Pencils Pack,75,4,300,E-Wallet
+SO-201907-0013,10163,2019-07-14,2019,South,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Cash
+SO-201907-0014,10164,2019-07-16,2019,North,Online Customer,Writing Supplies,Whiteboard Markers,7,8,56,Cash
+SO-201907-0015,10165,2019-07-18,2019,South,Retail Customer,Art Supplies,Glue Sticks,6,4.5,27,Credit Card
+SO-201907-0016,10166,2019-07-19,2019,East,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,Credit Card
+SO-201907-0017,10167,2019-07-19,2019,North,Wholesale,School Bags,Backpack,54,28,1512,Cash
+SO-201907-0018,10168,2019-07-20,2019,South,Retail Customer,Desk Supplies,Scissors,18,7,126,Credit Card
+SO-201907-0019,10169,2019-07-21,2019,North,Retail Customer,Writing Supplies,Whiteboard Markers,20,8,160,E-Wallet
+SO-201907-0020,10170,2019-07-21,2019,South,Wholesale,Art Supplies,Glue Sticks,64,4.5,288,E-Wallet
+SO-201907-0021,10171,2019-07-23,2019,South,Retail Customer,Writing Supplies,Erasers Pack,8,3,24,Credit Card
+SO-201907-0022,10172,2019-07-23,2019,South,Wholesale,Desk Supplies,Stapler,55,9.5,522.5,Credit Card
+SO-201907-0023,10173,2019-07-26,2019,East,Retail Customer,Writing Supplies,Ballpoint Pens,12,5,60,Cash
+SO-201907-0024,10174,2019-07-27,2019,East,Wholesale,Writing Supplies,Ballpoint Pens,32,5,160,E-Wallet
+SO-201907-0025,10175,2019-07-28,2019,West,Retail Customer,School Bags,Backpack,8,28,224,Credit Card
+SO-201907-0026,10176,2019-07-29,2019,East,Retail Customer,Writing Supplies,Pencils Pack,5,4,20,Cash
+SO-201907-0027,10177,2019-07-29,2019,North,Retail Customer,Writing Supplies,Erasers Pack,17,3,51,Cash
+SO-201907-0028,10178,2019-07-29,2019,West,Wholesale,Writing Supplies,Ballpoint Pens,45,5,225,Credit Card
+SO-201907-0029,10179,2019-07-29,2019,West,Wholesale,Writing Supplies,Pencils Pack,30,4,120,Credit Card
+SO-201907-0030,10180,2019-07-30,2019,Central,Online Customer,Paper Products,Notebook,9,3.5,31.5,Cash
+SO-201907-0031,10181,2019-07-30,2019,West,Retail Customer,Writing Supplies,Whiteboard Markers,15,8,120,Cash
+SO-201907-0032,10182,2019-07-30,2019,West,Retail Customer,Writing Supplies,Pencils Pack,19,4,76,E-Wallet
+SO-201908-0001,10183,2019-08-02,2019,Central,Wholesale,School Bags,Backpack,45,28,1260,Credit Card
+SO-201908-0002,10184,2019-08-02,2019,East,Wholesale,Art Supplies,Glue Sticks,62,4.5,279,E-Wallet
+SO-201908-0003,10185,2019-08-03,2019,West,Retail Customer,Paper Products,Notebook,9,3.5,31.5,E-Wallet
+SO-201908-0004,10186,2019-08-05,2019,North,Wholesale,School Bags,Backpack,28,28,784,Cash
+SO-201908-0005,10187,2019-08-12,2019,Central,Retail Customer,Desk Supplies,Scissors,5,7,35,Cash
+SO-201908-0006,10188,2019-08-13,2019,West,Wholesale,School Bags,Backpack,62,28,1736,E-Wallet
+SO-201908-0007,10189,2019-08-17,2019,South,Wholesale,Art Supplies,Glue Sticks,49,4.5,220.5,E-Wallet
+SO-201908-0008,10190,2019-08-18,2019,Central,Wholesale,Desk Supplies,Stapler,73,9.5,693.5,E-Wallet
+SO-201908-0009,10191,2019-08-19,2019,East,Retail Customer,Writing Supplies,Erasers Pack,17,3,51,Cash
+SO-201908-0010,10192,2019-08-19,2019,North,Wholesale,Writing Supplies,Erasers Pack,46,3,138,E-Wallet
+SO-201908-0011,10193,2019-08-20,2019,West,Retail Customer,Writing Supplies,Pencils Pack,6,4,24,Cash
+SO-201908-0012,10194,2019-08-21,2019,South,Wholesale,Art Supplies,Glue Sticks,68,4.5,306,E-Wallet
+SO-201908-0013,10195,2019-08-22,2019,South,Retail Customer,Desk Supplies,Stapler,15,9.5,142.5,E-Wallet
+SO-201908-0014,10196,2019-08-25,2019,West,Retail Customer,School Bags,Backpack,8,28,224,E-Wallet
+SO-201908-0015,10197,2019-08-25,2019,North,Retail Customer,Writing Supplies,Highlighters,6,6.5,39,Cash
+SO-201908-0016,10198,2019-08-26,2019,West,Wholesale,Writing Supplies,Pencils Pack,64,4,256,E-Wallet
+SO-201908-0017,10199,2019-08-26,2019,South,Online Customer,Writing Supplies,Highlighters,9,6.5,58.5,Credit Card
+SO-201908-0018,10200,2019-08-27,2019,Central,Retail Customer,Writing Supplies,Ballpoint Pens,6,5,30,Cash
+SO-201908-0019,10201,2019-08-29,2019,West,Wholesale,Writing Supplies,Highlighters,69,6.5,448.5,Cash
+SO-201908-0020,10202,2019-08-30,2019,South,Online Customer,Paper Products,Notebook,9,3.5,31.5,Credit Card
+SO-201908-0021,10203,2019-08-30,2019,West,Online Customer,Desk Supplies,Scissors,10,7,70,E-Wallet
+SO-201908-0022,10204,2019-08-31,2019,West,Retail Customer,Writing Supplies,Ballpoint Pens,8,5,40,E-Wallet
+SO-201909-0001,10205,2019-09-01,2019,Central,Retail Customer,Writing Supplies,Erasers Pack,17,3,51,E-Wallet
+SO-201909-0002,10206,2019-09-01,2019,West,Retail Customer,Writing Supplies,Highlighters,19,6.5,123.5,E-Wallet
+SO-201909-0003,10207,2019-09-02,2019,Central,Retail Customer,Writing Supplies,Whiteboard Markers,5,8,40,Cash
+SO-201909-0004,10208,2019-09-02,2019,South,Wholesale,Art Supplies,Glue Sticks,33,4.5,148.5,Credit Card
+SO-201909-0005,10209,2019-09-05,2019,West,Retail Customer,Writing Supplies,Whiteboard Markers,16,8,128,Credit Card
+SO-201909-0006,10210,2019-09-06,2019,Central,Wholesale,Desk Supplies,Stapler,20,9.5,190,E-Wallet
+SO-201909-0007,10211,2019-09-07,2019,East,Wholesale,Desk Supplies,Scissors,32,7,224,E-Wallet
+SO-201909-0008,10212,2019-09-09,2019,West,Wholesale,Paper Products,Notebook,67,3.5,234.5,Credit Card
+SO-201909-0009,10213,2019-09-11,2019,Central,Wholesale,Desk Supplies,Stapler,20,9.5,190,E-Wallet
+SO-201909-0010,10214,2019-09-11,2019,North,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,E-Wallet
+SO-201909-0011,10215,2019-09-12,2019,West,Wholesale,Desk Supplies,Scissors,35,7,245,Cash
+SO-201909-0012,10216,2019-09-13,2019,Central,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,E-Wallet
+SO-201909-0013,10217,2019-09-13,2019,East,Wholesale,Desk Supplies,Scissors,65,7,455,Cash
+SO-201909-0014,10218,2019-09-13,2019,Central,Retail Customer,Writing Supplies,Whiteboard Markers,17,8,136,Cash
+SO-201909-0015,10219,2019-09-16,2019,North,Online Customer,Desk Supplies,Stapler,8,9.5,76,Cash
+SO-201909-0016,10220,2019-09-18,2019,East,Online Customer,Paper Products,Notebook,10,3.5,35,Cash
+SO-201909-0017,10221,2019-09-18,2019,East,Wholesale,Writing Supplies,Erasers Pack,35,3,105,Credit Card
+SO-201909-0018,10222,2019-09-18,2019,Central,Wholesale,Art Supplies,Glue Sticks,33,4.5,148.5,E-Wallet
+SO-201909-0019,10223,2019-09-21,2019,East,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,Cash
+SO-201909-0020,10224,2019-09-24,2019,East,Retail Customer,Paper Products,Notebook,9,3.5,31.5,E-Wallet
+SO-201909-0021,10225,2019-09-25,2019,Central,Online Customer,Writing Supplies,Whiteboard Markers,9,8,72,Cash
+SO-201909-0022,10226,2019-09-26,2019,Central,Wholesale,Writing Supplies,Whiteboard Markers,77,8,616,E-Wallet
+SO-201909-0023,10227,2019-09-27,2019,West,Online Customer,Paper Products,Notebook,5,3.5,17.5,Cash
+SO-201909-0024,10228,2019-09-27,2019,Central,Wholesale,School Bags,Backpack,28,28,784,Cash
+SO-201909-0025,10229,2019-09-28,2019,West,Online Customer,School Bags,Backpack,10,28,280,E-Wallet
+SO-201909-0026,10230,2019-09-30,2019,Central,Retail Customer,School Bags,Backpack,18,28,504,E-Wallet
+SO-201910-0001,10231,2019-10-03,2019,Central,Online Customer,Paper Products,Notebook,7,3.5,24.5,E-Wallet
+SO-201910-0002,10232,2019-10-04,2019,Central,Wholesale,Desk Supplies,Scissors,69,7,483,Credit Card
+SO-201910-0003,10233,2019-10-05,2019,Central,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,E-Wallet
+SO-201910-0004,10234,2019-10-06,2019,West,Wholesale,Paper Products,Notebook,32,3.5,112,Credit Card
+SO-201910-0005,10235,2019-10-07,2019,South,Retail Customer,Desk Supplies,Stapler,12,9.5,114,E-Wallet
+SO-201910-0006,10236,2019-10-07,2019,West,Wholesale,Desk Supplies,Scissors,56,7,392,Cash
+SO-201910-0007,10237,2019-10-09,2019,North,Retail Customer,Art Supplies,Glue Sticks,6,4.5,27,Credit Card
+SO-201910-0008,10238,2019-10-10,2019,North,Online Customer,Writing Supplies,Highlighters,10,6.5,65,Credit Card
+SO-201910-0009,10239,2019-10-10,2019,Central,Wholesale,School Bags,Backpack,75,28,2100,E-Wallet
+SO-201910-0010,10240,2019-10-10,2019,East,Retail Customer,School Bags,Backpack,13,28,364,Credit Card
+SO-201910-0011,10241,2019-10-12,2019,West,Online Customer,Writing Supplies,Erasers Pack,1,3,3,E-Wallet
+SO-201910-0012,10242,2019-10-12,2019,East,Wholesale,Desk Supplies,Stapler,62,9.5,589,Credit Card
+SO-201910-0013,10243,2019-10-12,2019,Central,Online Customer,Writing Supplies,Pencils Pack,8,4,32,Cash
+SO-201910-0014,10244,2019-10-14,2019,North,Retail Customer,Writing Supplies,Whiteboard Markers,13,8,104,E-Wallet
+SO-201910-0015,10245,2019-10-14,2019,West,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,E-Wallet
+SO-201910-0016,10246,2019-10-14,2019,North,Wholesale,Writing Supplies,Ballpoint Pens,59,5,295,Credit Card
+SO-201910-0017,10247,2019-10-15,2019,South,Online Customer,Writing Supplies,Pencils Pack,6,4,24,Credit Card
+SO-201910-0018,10248,2019-10-18,2019,North,Retail Customer,Desk Supplies,Scissors,20,7,140,E-Wallet
+SO-201910-0019,10249,2019-10-18,2019,North,Online Customer,School Bags,Backpack,8,28,224,Credit Card
+SO-201910-0020,10250,2019-10-18,2019,North,Retail Customer,Art Supplies,Glue Sticks,9,4.5,40.5,Cash
+SO-201910-0021,10251,2019-10-19,2019,East,Wholesale,Writing Supplies,Pencils Pack,55,4,220,Credit Card
+SO-201910-0022,10252,2019-10-22,2019,Central,Retail Customer,Desk Supplies,Scissors,6,7,42,Cash
+SO-201910-0023,10253,2019-10-24,2019,North,Online Customer,Desk Supplies,Scissors,1,7,7,Cash
+SO-201910-0024,10254,2019-10-25,2019,North,Online Customer,Desk Supplies,Stapler,3,9.5,28.5,E-Wallet
+SO-201910-0025,10255,2019-10-26,2019,Central,Online Customer,Writing Supplies,Pencils Pack,3,4,12,E-Wallet
+SO-201910-0026,10256,2019-10-26,2019,North,Online Customer,Art Supplies,Glue Sticks,6,4.5,27,E-Wallet
+SO-201910-0027,10257,2019-10-26,2019,Central,Online Customer,Paper Products,Notebook,4,3.5,14,Cash
+SO-201910-0028,10258,2019-10-27,2019,Central,Online Customer,Writing Supplies,Pencils Pack,8,4,32,Cash
+SO-201910-0029,10259,2019-10-27,2019,North,Online Customer,Desk Supplies,Scissors,9,7,63,Credit Card
+SO-201910-0030,10260,2019-10-30,2019,East,Retail Customer,Writing Supplies,Erasers Pack,12,3,36,E-Wallet
+SO-201910-0031,10261,2019-10-31,2019,South,Wholesale,Desk Supplies,Scissors,29,7,203,Credit Card
+SO-201911-0001,10262,2019-11-02,2019,East,Wholesale,Art Supplies,Glue Sticks,34,4.5,153,E-Wallet
+SO-201911-0002,10263,2019-11-03,2019,South,Wholesale,Writing Supplies,Highlighters,75,6.5,487.5,E-Wallet
+SO-201911-0003,10264,2019-11-03,2019,East,Online Customer,Writing Supplies,Highlighters,3,6.5,19.5,Cash
+SO-201911-0004,10265,2019-11-04,2019,West,Retail Customer,Desk Supplies,Stapler,10,9.5,95,E-Wallet
+SO-201911-0005,10266,2019-11-04,2019,South,Retail Customer,Writing Supplies,Pencils Pack,14,4,56,E-Wallet
+SO-201911-0006,10267,2019-11-05,2019,East,Retail Customer,Writing Supplies,Ballpoint Pens,12,5,60,E-Wallet
+SO-201911-0007,10268,2019-11-06,2019,North,Online Customer,Writing Supplies,Highlighters,1,6.5,6.5,Credit Card
+SO-201911-0008,10269,2019-11-06,2019,Central,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Cash
+SO-201911-0009,10270,2019-11-07,2019,East,Online Customer,Writing Supplies,Highlighters,7,6.5,45.5,Cash
+SO-201911-0010,10271,2019-11-08,2019,Central,Wholesale,Writing Supplies,Ballpoint Pens,49,5,245,Credit Card
+SO-201911-0011,10272,2019-11-09,2019,Central,Retail Customer,Writing Supplies,Pencils Pack,10,4,40,E-Wallet
+SO-201911-0012,10273,2019-11-09,2019,Central,Retail Customer,Art Supplies,Glue Sticks,5,4.5,22.5,Cash
+SO-201911-0013,10274,2019-11-14,2019,West,Retail Customer,Desk Supplies,Scissors,17,7,119,Cash
+SO-201911-0014,10275,2019-11-15,2019,South,Wholesale,Writing Supplies,Pencils Pack,26,4,104,Credit Card
+SO-201911-0015,10276,2019-11-15,2019,North,Online Customer,Writing Supplies,Highlighters,9,6.5,58.5,E-Wallet
+SO-201911-0016,10277,2019-11-17,2019,East,Retail Customer,School Bags,Backpack,7,28,196,Credit Card
+SO-201911-0017,10278,2019-11-20,2019,North,Online Customer,School Bags,Backpack,1,28,28,E-Wallet
+SO-201911-0018,10279,2019-11-24,2019,South,Wholesale,Art Supplies,Glue Sticks,25,4.5,112.5,Cash
+SO-201911-0019,10280,2019-11-25,2019,East,Retail Customer,School Bags,Backpack,7,28,196,E-Wallet
+SO-201911-0020,10281,2019-11-27,2019,West,Wholesale,Writing Supplies,Pencils Pack,29,4,116,Credit Card
+SO-201911-0021,10282,2019-11-27,2019,South,Wholesale,Writing Supplies,Whiteboard Markers,58,8,464,Credit Card
+SO-201911-0022,10283,2019-11-27,2019,Central,Retail Customer,Paper Products,Notebook,15,3.5,52.5,Credit Card
+SO-201911-0023,10284,2019-11-28,2019,Central,Online Customer,Desk Supplies,Stapler,3,9.5,28.5,E-Wallet
+SO-201911-0024,10285,2019-11-28,2019,East,Retail Customer,Paper Products,Notebook,11,3.5,38.5,Credit Card
+SO-201911-0025,10286,2019-11-29,2019,South,Wholesale,Writing Supplies,Pencils Pack,65,4,260,E-Wallet
+SO-201912-0001,10287,2019-12-02,2019,East,Retail Customer,Desk Supplies,Stapler,6,9.5,57,Cash
+SO-201912-0002,10288,2019-12-03,2019,West,Wholesale,Desk Supplies,Scissors,71,7,497,E-Wallet
+SO-201912-0003,10289,2019-12-03,2019,Central,Wholesale,Writing Supplies,Erasers Pack,53,3,159,Credit Card
+SO-201912-0004,10290,2019-12-03,2019,South,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,E-Wallet
+SO-201912-0005,10291,2019-12-06,2019,North,Retail Customer,Art Supplies,Glue Sticks,14,4.5,63,E-Wallet
+SO-201912-0006,10292,2019-12-10,2019,West,Online Customer,Writing Supplies,Ballpoint Pens,1,5,5,Cash
+SO-201912-0007,10293,2019-12-10,2019,East,Retail Customer,Writing Supplies,Erasers Pack,10,3,30,Credit Card
+SO-201912-0008,10294,2019-12-10,2019,South,Online Customer,Writing Supplies,Highlighters,6,6.5,39,Credit Card
+SO-201912-0009,10295,2019-12-13,2019,North,Wholesale,Writing Supplies,Highlighters,39,6.5,253.5,Cash
+SO-201912-0010,10296,2019-12-15,2019,North,Wholesale,Paper Products,Notebook,50,3.5,175,E-Wallet
+SO-201912-0011,10297,2019-12-15,2019,North,Online Customer,Paper Products,Notebook,7,3.5,24.5,E-Wallet
+SO-201912-0012,10298,2019-12-18,2019,Central,Wholesale,Art Supplies,Glue Sticks,73,4.5,328.5,E-Wallet
+SO-201912-0013,10299,2019-12-18,2019,Central,Retail Customer,Writing Supplies,Highlighters,17,6.5,110.5,Credit Card
+SO-201912-0014,10300,2019-12-19,2019,West,Retail Customer,Desk Supplies,Scissors,7,7,49,E-Wallet
+SO-201912-0015,10301,2019-12-20,2019,East,Wholesale,Writing Supplies,Erasers Pack,40,3,120,Credit Card
+SO-201912-0016,10302,2019-12-20,2019,East,Retail Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Credit Card
+SO-201912-0017,10303,2019-12-22,2019,South,Online Customer,Desk Supplies,Scissors,2,7,14,Credit Card
+SO-201912-0018,10304,2019-12-22,2019,Central,Online Customer,Desk Supplies,Scissors,10,7,70,Cash
+SO-201912-0019,10305,2019-12-24,2019,North,Wholesale,Writing Supplies,Ballpoint Pens,60,5,300,Credit Card
+SO-201912-0020,10306,2019-12-24,2019,West,Online Customer,Writing Supplies,Erasers Pack,8,3,24,Credit Card
+SO-201912-0021,10307,2019-12-26,2019,North,Online Customer,Writing Supplies,Whiteboard Markers,4,8,32,Cash
+SO-201912-0022,10308,2019-12-26,2019,West,Retail Customer,Writing Supplies,Erasers Pack,8,3,24,E-Wallet
+SO-201912-0023,10309,2019-12-29,2019,North,Retail Customer,Writing Supplies,Ballpoint Pens,10,5,50,E-Wallet
+SO-201912-0024,10310,2019-12-29,2019,South,Wholesale,Writing Supplies,Erasers Pack,37,3,111,E-Wallet
+SO-201912-0025,10311,2019-12-30,2019,South,Wholesale,Writing Supplies,Ballpoint Pens,70,5,350,E-Wallet
+SO-201912-0026,10312,2019-12-30,2019,South,Retail Customer,School Bags,Backpack,11,28,308,Credit Card
+SO-201912-0027,10313,2019-12-31,2019,Central,Online Customer,Writing Supplies,Erasers Pack,10,3,30,Credit Card
+SO-202001-0001,10314,2020-01-01,2020,North,Retail Customer,School Bags,Backpack,20,28,560,Credit Card
+SO-202001-0002,10315,2020-01-01,2020,Central,Retail Customer,Writing Supplies,Pencils Pack,18,4,72,E-Wallet
+SO-202001-0003,10316,2020-01-02,2020,South,Retail Customer,Paper Products,Notebook,9,3.5,31.5,Cash
+SO-202001-0004,10317,2020-01-02,2020,West,Retail Customer,Desk Supplies,Stapler,14,9.5,133,Cash
+SO-202001-0005,10318,2020-01-03,2020,North,Retail Customer,Desk Supplies,Stapler,7,9.5,66.5,E-Wallet
+SO-202001-0006,10319,2020-01-04,2020,Central,Retail Customer,Writing Supplies,Ballpoint Pens,20,5,100,E-Wallet
+SO-202001-0007,10320,2020-01-07,2020,Central,Wholesale,Desk Supplies,Stapler,58,9.5,551,Credit Card
+SO-202001-0008,10321,2020-01-10,2020,East,Wholesale,Art Supplies,Glue Sticks,53,4.5,238.5,Credit Card
+SO-202001-0009,10322,2020-01-10,2020,South,Wholesale,Writing Supplies,Whiteboard Markers,50,8,400,Credit Card
+SO-202001-0010,10323,2020-01-11,2020,East,Wholesale,Writing Supplies,Highlighters,24,6.5,156,E-Wallet
+SO-202001-0011,10324,2020-01-13,2020,East,Retail Customer,Writing Supplies,Erasers Pack,5,3,15,E-Wallet
+SO-202001-0012,10325,2020-01-14,2020,East,Online Customer,Writing Supplies,Highlighters,4,6.5,26,Cash
+SO-202001-0013,10326,2020-01-17,2020,Central,Online Customer,Writing Supplies,Ballpoint Pens,5,5,25,Cash
+SO-202001-0014,10327,2020-01-17,2020,West,Retail Customer,Writing Supplies,Whiteboard Markers,6,8,48,E-Wallet
+SO-202001-0015,10328,2020-01-19,2020,Central,Retail Customer,Writing Supplies,Pencils Pack,7,4,28,Cash
+SO-202001-0016,10329,2020-01-19,2020,East,Wholesale,Writing Supplies,Highlighters,58,6.5,377,Credit Card
+SO-202001-0017,10330,2020-01-19,2020,West,Retail Customer,Writing Supplies,Erasers Pack,5,3,15,Credit Card
+SO-202001-0018,10331,2020-01-20,2020,South,Online Customer,Desk Supplies,Scissors,1,7,7,Credit Card
+SO-202001-0019,10332,2020-01-21,2020,West,Retail Customer,Writing Supplies,Whiteboard Markers,14,8,112,E-Wallet
+SO-202001-0020,10333,2020-01-22,2020,West,Retail Customer,Desk Supplies,Scissors,20,7,140,Cash
+SO-202001-0021,10334,2020-01-30,2020,South,Retail Customer,Writing Supplies,Ballpoint Pens,5,5,25,Cash
+SO-202001-0022,10335,2020-01-30,2020,West,Online Customer,Writing Supplies,Pencils Pack,4,4,16,E-Wallet
+SO-202001-0023,10336,2020-01-31,2020,South,Wholesale,Paper Products,Notebook,32,3.5,112,E-Wallet
+SO-202001-0024,10337,2020-01-31,2020,West,Online Customer,Writing Supplies,Whiteboard Markers,8,8,64,E-Wallet
+SO-202002-0001,10338,2020-02-02,2020,North,Online Customer,Art Supplies,Glue Sticks,2,4.5,9,Credit Card
+SO-202002-0002,10339,2020-02-04,2020,South,Retail Customer,Writing Supplies,Erasers Pack,5,3,15,Credit Card
+SO-202002-0003,10340,2020-02-06,2020,West,Wholesale,Paper Products,Notebook,31,3.5,108.5,Credit Card
+SO-202002-0004,10341,2020-02-10,2020,South,Wholesale,Desk Supplies,Stapler,26,9.5,247,E-Wallet
+SO-202002-0005,10342,2020-02-12,2020,Central,Retail Customer,Desk Supplies,Scissors,15,7,105,Credit Card
+SO-202002-0006,10343,2020-02-12,2020,Central,Online Customer,Writing Supplies,Pencils Pack,6,4,24,Cash
+SO-202002-0007,10344,2020-02-13,2020,West,Retail Customer,Writing Supplies,Pencils Pack,7,4,28,Credit Card
+SO-202002-0008,10345,2020-02-13,2020,South,Wholesale,Desk Supplies,Scissors,55,7,385,Credit Card
+SO-202002-0009,10346,2020-02-18,2020,Central,Retail Customer,Paper Products,Notebook,5,3.5,17.5,E-Wallet
+SO-202002-0010,10347,2020-02-20,2020,West,Wholesale,Desk Supplies,Scissors,47,7,329,Credit Card
+SO-202002-0011,10348,2020-02-21,2020,East,Online Customer,Writing Supplies,Whiteboard Markers,7,8,56,Cash
+SO-202002-0012,10349,2020-02-24,2020,North,Online Customer,Paper Products,Notebook,6,3.5,21,Credit Card
+SO-202002-0013,10350,2020-02-25,2020,Central,Online Customer,Writing Supplies,Erasers Pack,4,3,12,Cash
+SO-202002-0014,10351,2020-02-26,2020,Central,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,E-Wallet
+SO-202002-0015,10352,2020-02-27,2020,East,Retail Customer,School Bags,Backpack,5,28,140,Credit Card
+SO-202002-0016,10353,2020-02-27,2020,North,Online Customer,School Bags,Backpack,8,28,224,Credit Card
+SO-202002-0017,10354,2020-02-28,2020,Central,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Cash
+SO-202002-0018,10355,2020-02-29,2020,West,Wholesale,Paper Products,Notebook,33,3.5,115.5,Cash
+SO-202003-0001,10356,2020-03-01,2020,Central,Retail Customer,Art Supplies,Glue Sticks,11,4.5,49.5,Cash
+SO-202003-0002,10357,2020-03-02,2020,Central,Retail Customer,Writing Supplies,Whiteboard Markers,12,8,96,Credit Card
+SO-202003-0003,10358,2020-03-02,2020,West,Wholesale,Writing Supplies,Ballpoint Pens,37,5,185,Credit Card
+SO-202003-0004,10359,2020-03-04,2020,South,Retail Customer,Art Supplies,Glue Sticks,17,4.5,76.5,E-Wallet
+SO-202003-0005,10360,2020-03-05,2020,Central,Wholesale,Writing Supplies,Pencils Pack,64,4,256,Cash
+SO-202003-0006,10361,2020-03-06,2020,West,Retail Customer,School Bags,Backpack,8,28,224,E-Wallet
+SO-202003-0007,10362,2020-03-10,2020,North,Wholesale,Writing Supplies,Whiteboard Markers,80,8,640,Cash
+SO-202003-0008,10363,2020-03-10,2020,South,Wholesale,Writing Supplies,Erasers Pack,44,3,132,Cash
+SO-202003-0009,10364,2020-03-10,2020,South,Online Customer,Writing Supplies,Erasers Pack,8,3,24,Cash
+SO-202003-0010,10365,2020-03-11,2020,South,Online Customer,Writing Supplies,Highlighters,7,6.5,45.5,Cash
+SO-202003-0011,10366,2020-03-12,2020,West,Online Customer,School Bags,Backpack,8,28,224,Credit Card
+SO-202003-0012,10367,2020-03-14,2020,North,Wholesale,Desk Supplies,Stapler,65,9.5,617.5,E-Wallet
+SO-202003-0013,10368,2020-03-15,2020,South,Wholesale,Writing Supplies,Pencils Pack,72,4,288,Cash
+SO-202003-0014,10369,2020-03-15,2020,South,Wholesale,Desk Supplies,Stapler,80,9.5,760,E-Wallet
+SO-202003-0015,10370,2020-03-18,2020,North,Online Customer,Writing Supplies,Pencils Pack,8,4,32,Credit Card
+SO-202003-0016,10371,2020-03-19,2020,East,Wholesale,Writing Supplies,Ballpoint Pens,55,5,275,Credit Card
+SO-202003-0017,10372,2020-03-21,2020,East,Retail Customer,Paper Products,Notebook,16,3.5,56,Credit Card
+SO-202003-0018,10373,2020-03-21,2020,East,Retail Customer,Paper Products,Notebook,20,3.5,70,Cash
+SO-202003-0019,10374,2020-03-22,2020,South,Retail Customer,Paper Products,Notebook,18,3.5,63,Credit Card
+SO-202003-0020,10375,2020-03-24,2020,West,Wholesale,Writing Supplies,Pencils Pack,44,4,176,Credit Card
+SO-202003-0021,10376,2020-03-25,2020,North,Retail Customer,Paper Products,Notebook,9,3.5,31.5,E-Wallet
+SO-202003-0022,10377,2020-03-29,2020,North,Retail Customer,Writing Supplies,Pencils Pack,20,4,80,E-Wallet
+SO-202004-0001,10378,2020-04-02,2020,South,Online Customer,School Bags,Backpack,9,28,252,Credit Card
+SO-202004-0002,10379,2020-04-04,2020,Central,Wholesale,Desk Supplies,Scissors,31,7,217,Credit Card
+SO-202004-0003,10380,2020-04-05,2020,Central,Wholesale,Paper Products,Notebook,23,3.5,80.5,E-Wallet
+SO-202004-0004,10381,2020-04-06,2020,Central,Retail Customer,Writing Supplies,Whiteboard Markers,6,8,48,Credit Card
+SO-202004-0005,10382,2020-04-07,2020,West,Online Customer,Desk Supplies,Scissors,7,7,49,E-Wallet
+SO-202004-0006,10383,2020-04-10,2020,West,Retail Customer,School Bags,Backpack,16,28,448,E-Wallet
+SO-202004-0007,10384,2020-04-11,2020,North,Wholesale,Writing Supplies,Pencils Pack,56,4,224,Credit Card
+SO-202004-0008,10385,2020-04-13,2020,East,Online Customer,School Bags,Backpack,1,28,28,Credit Card
+SO-202004-0009,10386,2020-04-13,2020,West,Online Customer,School Bags,Backpack,3,28,84,E-Wallet
+SO-202004-0010,10387,2020-04-14,2020,West,Online Customer,Writing Supplies,Whiteboard Markers,3,8,24,Cash
+SO-202004-0011,10388,2020-04-14,2020,West,Wholesale,Desk Supplies,Scissors,45,7,315,Credit Card
+SO-202004-0012,10389,2020-04-15,2020,Central,Wholesale,Writing Supplies,Whiteboard Markers,55,8,440,Cash
+SO-202004-0013,10390,2020-04-15,2020,East,Online Customer,Desk Supplies,Stapler,10,9.5,95,Cash
+SO-202004-0014,10391,2020-04-16,2020,North,Wholesale,Paper Products,Notebook,40,3.5,140,Credit Card
+SO-202004-0015,10392,2020-04-16,2020,South,Retail Customer,Paper Products,Notebook,14,3.5,49,Credit Card
+SO-202004-0016,10393,2020-04-17,2020,Central,Wholesale,Desk Supplies,Scissors,79,7,553,Cash
+SO-202004-0017,10394,2020-04-17,2020,West,Online Customer,Desk Supplies,Stapler,9,9.5,85.5,E-Wallet
+SO-202004-0018,10395,2020-04-18,2020,East,Wholesale,Paper Products,Notebook,66,3.5,231,Credit Card
+SO-202004-0019,10396,2020-04-18,2020,East,Retail Customer,Writing Supplies,Erasers Pack,6,3,18,Cash
+SO-202004-0020,10397,2020-04-18,2020,West,Retail Customer,Art Supplies,Glue Sticks,15,4.5,67.5,Cash
+SO-202004-0021,10398,2020-04-18,2020,Central,Retail Customer,Writing Supplies,Highlighters,15,6.5,97.5,Credit Card
+SO-202004-0022,10399,2020-04-21,2020,South,Wholesale,School Bags,Backpack,29,28,812,E-Wallet
+SO-202004-0023,10400,2020-04-22,2020,North,Online Customer,School Bags,Backpack,10,28,280,Credit Card
+SO-202004-0024,10401,2020-04-28,2020,South,Wholesale,Desk Supplies,Scissors,80,7,560,E-Wallet
+SO-202004-0025,10402,2020-04-28,2020,West,Wholesale,Art Supplies,Glue Sticks,64,4.5,288,Credit Card
+SO-202004-0026,10403,2020-04-29,2020,West,Wholesale,School Bags,Backpack,36,28,1008,Credit Card
+SO-202004-0027,10404,2020-04-30,2020,West,Wholesale,Art Supplies,Glue Sticks,26,4.5,117,E-Wallet
+SO-202005-0001,10405,2020-05-02,2020,West,Wholesale,Art Supplies,Glue Sticks,76,4.5,342,Cash
+SO-202005-0002,10406,2020-05-03,2020,South,Online Customer,School Bags,Backpack,3,28,84,Credit Card
+SO-202005-0003,10407,2020-05-05,2020,East,Wholesale,Paper Products,Notebook,42,3.5,147,Cash
+SO-202005-0004,10408,2020-05-06,2020,Central,Wholesale,Desk Supplies,Stapler,72,9.5,684,E-Wallet
+SO-202005-0005,10409,2020-05-06,2020,East,Retail Customer,Writing Supplies,Highlighters,16,6.5,104,E-Wallet
+SO-202005-0006,10410,2020-05-07,2020,South,Wholesale,Writing Supplies,Ballpoint Pens,77,5,385,Credit Card
+SO-202005-0007,10411,2020-05-08,2020,West,Retail Customer,School Bags,Backpack,5,28,140,E-Wallet
+SO-202005-0008,10412,2020-05-08,2020,South,Online Customer,Writing Supplies,Erasers Pack,5,3,15,E-Wallet
+SO-202005-0009,10413,2020-05-09,2020,South,Wholesale,Writing Supplies,Pencils Pack,29,4,116,Cash
+SO-202005-0010,10414,2020-05-09,2020,East,Retail Customer,Writing Supplies,Whiteboard Markers,18,8,144,Credit Card
+SO-202005-0011,10415,2020-05-10,2020,Central,Online Customer,Paper Products,Notebook,5,3.5,17.5,E-Wallet
+SO-202005-0012,10416,2020-05-11,2020,South,Online Customer,Writing Supplies,Pencils Pack,10,4,40,Cash
+SO-202005-0013,10417,2020-05-12,2020,East,Online Customer,Writing Supplies,Pencils Pack,6,4,24,Cash
+SO-202005-0014,10418,2020-05-12,2020,South,Retail Customer,Paper Products,Notebook,12,3.5,42,Cash
+SO-202005-0015,10419,2020-05-18,2020,South,Retail Customer,Art Supplies,Glue Sticks,20,4.5,90,E-Wallet
+SO-202005-0016,10420,2020-05-18,2020,East,Online Customer,Writing Supplies,Erasers Pack,7,3,21,Credit Card
+SO-202005-0017,10421,2020-05-18,2020,East,Wholesale,Paper Products,Notebook,55,3.5,192.5,Cash
+SO-202005-0018,10422,2020-05-21,2020,Central,Online Customer,School Bags,Backpack,4,28,112,Credit Card
+SO-202005-0019,10423,2020-05-22,2020,South,Wholesale,Writing Supplies,Erasers Pack,48,3,144,Cash
+SO-202005-0020,10424,2020-05-23,2020,West,Wholesale,Writing Supplies,Whiteboard Markers,34,8,272,E-Wallet
+SO-202005-0021,10425,2020-05-23,2020,South,Online Customer,Paper Products,Notebook,7,3.5,24.5,Credit Card
+SO-202005-0022,10426,2020-05-24,2020,East,Retail Customer,Paper Products,Notebook,6,3.5,21,Credit Card
+SO-202005-0023,10427,2020-05-24,2020,North,Retail Customer,Writing Supplies,Erasers Pack,19,3,57,E-Wallet
+SO-202005-0024,10428,2020-05-25,2020,East,Online Customer,Art Supplies,Glue Sticks,10,4.5,45,Credit Card
+SO-202005-0025,10429,2020-05-27,2020,North,Wholesale,Desk Supplies,Scissors,36,7,252,Cash
+SO-202005-0026,10430,2020-05-27,2020,Central,Online Customer,Writing Supplies,Ballpoint Pens,3,5,15,E-Wallet
+SO-202005-0027,10431,2020-05-27,2020,South,Retail Customer,Desk Supplies,Scissors,19,7,133,E-Wallet
+SO-202005-0028,10432,2020-05-30,2020,East,Retail Customer,School Bags,Backpack,12,28,336,Cash
+SO-202005-0029,10433,2020-05-31,2020,East,Online Customer,Desk Supplies,Scissors,7,7,49,E-Wallet
+SO-202006-0001,10434,2020-06-03,2020,Central,Wholesale,Writing Supplies,Pencils Pack,57,4,228,Cash
+SO-202006-0002,10435,2020-06-05,2020,South,Retail Customer,Art Supplies,Glue Sticks,14,4.5,63,Cash
+SO-202006-0003,10436,2020-06-06,2020,East,Online Customer,School Bags,Backpack,3,28,84,Cash
+SO-202006-0004,10437,2020-06-06,2020,South,Online Customer,Paper Products,Notebook,2,3.5,7,E-Wallet
+SO-202006-0005,10438,2020-06-07,2020,Central,Wholesale,Art Supplies,Glue Sticks,37,4.5,166.5,Credit Card
+SO-202006-0006,10439,2020-06-07,2020,East,Retail Customer,Writing Supplies,Highlighters,13,6.5,84.5,E-Wallet
+SO-202006-0007,10440,2020-06-10,2020,East,Online Customer,Writing Supplies,Highlighters,2,6.5,13,Credit Card
+SO-202006-0008,10441,2020-06-10,2020,South,Retail Customer,Desk Supplies,Stapler,15,9.5,142.5,E-Wallet
+SO-202006-0009,10442,2020-06-15,2020,North,Retail Customer,Writing Supplies,Pencils Pack,15,4,60,Credit Card
+SO-202006-0010,10443,2020-06-16,2020,Central,Online Customer,School Bags,Backpack,7,28,196,Credit Card
+SO-202006-0011,10444,2020-06-16,2020,East,Online Customer,Desk Supplies,Scissors,8,7,56,Cash
+SO-202006-0012,10445,2020-06-18,2020,Central,Wholesale,Writing Supplies,Pencils Pack,52,4,208,E-Wallet
+SO-202006-0013,10446,2020-06-18,2020,East,Retail Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Credit Card
+SO-202006-0014,10447,2020-06-20,2020,South,Wholesale,Desk Supplies,Scissors,71,7,497,E-Wallet
+SO-202006-0015,10448,2020-06-22,2020,Central,Wholesale,Writing Supplies,Erasers Pack,35,3,105,Cash
+SO-202006-0016,10449,2020-06-22,2020,North,Wholesale,Desk Supplies,Scissors,28,7,196,Credit Card
+SO-202006-0017,10450,2020-06-23,2020,East,Online Customer,Writing Supplies,Pencils Pack,1,4,4,Credit Card
+SO-202006-0018,10451,2020-06-23,2020,South,Wholesale,Desk Supplies,Stapler,55,9.5,522.5,E-Wallet
+SO-202006-0019,10452,2020-06-26,2020,North,Wholesale,Art Supplies,Glue Sticks,73,4.5,328.5,E-Wallet
+SO-202006-0020,10453,2020-06-26,2020,North,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,E-Wallet
+SO-202006-0021,10454,2020-06-28,2020,South,Retail Customer,Art Supplies,Glue Sticks,19,4.5,85.5,E-Wallet
+SO-202006-0022,10455,2020-06-28,2020,West,Wholesale,Paper Products,Notebook,54,3.5,189,Cash
+SO-202006-0023,10456,2020-06-29,2020,North,Retail Customer,Writing Supplies,Pencils Pack,10,4,40,Cash
+SO-202006-0024,10457,2020-06-30,2020,East,Wholesale,Writing Supplies,Pencils Pack,22,4,88,Credit Card
+SO-202007-0001,10458,2020-07-01,2020,East,Online Customer,Desk Supplies,Stapler,3,9.5,28.5,Credit Card
+SO-202007-0002,10459,2020-07-01,2020,North,Wholesale,Desk Supplies,Scissors,72,7,504,Credit Card
+SO-202007-0003,10460,2020-07-02,2020,South,Online Customer,School Bags,Backpack,8,28,224,Credit Card
+SO-202007-0004,10461,2020-07-02,2020,Central,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,Cash
+SO-202007-0005,10462,2020-07-02,2020,North,Retail Customer,School Bags,Backpack,17,28,476,E-Wallet
+SO-202007-0006,10463,2020-07-02,2020,South,Wholesale,Writing Supplies,Highlighters,57,6.5,370.5,Credit Card
+SO-202007-0007,10464,2020-07-03,2020,East,Wholesale,Writing Supplies,Ballpoint Pens,20,5,100,E-Wallet
+SO-202007-0008,10465,2020-07-03,2020,Central,Retail Customer,Desk Supplies,Stapler,13,9.5,123.5,Credit Card
+SO-202007-0009,10466,2020-07-06,2020,East,Wholesale,Writing Supplies,Highlighters,44,6.5,286,Cash
+SO-202007-0010,10467,2020-07-07,2020,North,Retail Customer,Art Supplies,Glue Sticks,10,4.5,45,Cash
+SO-202007-0011,10468,2020-07-07,2020,East,Online Customer,Writing Supplies,Erasers Pack,5,3,15,Cash
+SO-202007-0012,10469,2020-07-08,2020,Central,Wholesale,School Bags,Backpack,75,28,2100,Credit Card
+SO-202007-0013,10470,2020-07-09,2020,North,Wholesale,Desk Supplies,Scissors,69,7,483,Cash
+SO-202007-0014,10471,2020-07-13,2020,South,Retail Customer,Writing Supplies,Whiteboard Markers,8,8,64,Cash
+SO-202007-0015,10472,2020-07-14,2020,North,Retail Customer,Writing Supplies,Erasers Pack,11,3,33,Credit Card
+SO-202007-0016,10473,2020-07-17,2020,North,Online Customer,Paper Products,Notebook,2,3.5,7,Cash
+SO-202007-0017,10474,2020-07-18,2020,South,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,Cash
+SO-202007-0018,10475,2020-07-19,2020,Central,Wholesale,Writing Supplies,Highlighters,24,6.5,156,E-Wallet
+SO-202007-0019,10476,2020-07-20,2020,East,Retail Customer,Desk Supplies,Scissors,14,7,98,Credit Card
+SO-202007-0020,10477,2020-07-20,2020,West,Wholesale,Writing Supplies,Whiteboard Markers,47,8,376,Credit Card
+SO-202007-0021,10478,2020-07-21,2020,North,Retail Customer,Paper Products,Notebook,8,3.5,28,E-Wallet
+SO-202007-0022,10479,2020-07-23,2020,West,Retail Customer,Desk Supplies,Stapler,5,9.5,47.5,Cash
+SO-202007-0023,10480,2020-07-25,2020,Central,Wholesale,Desk Supplies,Scissors,23,7,161,E-Wallet
+SO-202007-0024,10481,2020-07-26,2020,East,Wholesale,Writing Supplies,Whiteboard Markers,58,8,464,Cash
+SO-202007-0025,10482,2020-07-27,2020,South,Online Customer,Writing Supplies,Erasers Pack,8,3,24,Credit Card
+SO-202007-0026,10483,2020-07-28,2020,North,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Credit Card
+SO-202007-0027,10484,2020-07-28,2020,South,Online Customer,Art Supplies,Glue Sticks,5,4.5,22.5,Credit Card
+SO-202007-0028,10485,2020-07-28,2020,South,Wholesale,Writing Supplies,Ballpoint Pens,42,5,210,Cash
+SO-202007-0029,10486,2020-07-29,2020,East,Wholesale,Writing Supplies,Pencils Pack,20,4,80,Cash
+SO-202007-0030,10487,2020-07-31,2020,North,Retail Customer,Writing Supplies,Ballpoint Pens,15,5,75,E-Wallet
+SO-202008-0001,10488,2020-08-06,2020,South,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,E-Wallet
+SO-202008-0002,10489,2020-08-07,2020,Central,Retail Customer,School Bags,Backpack,14,28,392,E-Wallet
+SO-202008-0003,10490,2020-08-07,2020,West,Online Customer,Desk Supplies,Stapler,9,9.5,85.5,Cash
+SO-202008-0004,10491,2020-08-08,2020,East,Wholesale,Writing Supplies,Pencils Pack,38,4,152,E-Wallet
+SO-202008-0005,10492,2020-08-08,2020,South,Online Customer,Writing Supplies,Ballpoint Pens,1,5,5,Cash
+SO-202008-0006,10493,2020-08-14,2020,North,Retail Customer,School Bags,Backpack,16,28,448,Cash
+SO-202008-0007,10494,2020-08-14,2020,North,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,E-Wallet
+SO-202008-0008,10495,2020-08-14,2020,South,Retail Customer,Writing Supplies,Erasers Pack,5,3,15,Cash
+SO-202008-0009,10496,2020-08-14,2020,South,Retail Customer,Desk Supplies,Scissors,11,7,77,Cash
+SO-202008-0010,10497,2020-08-16,2020,South,Wholesale,Desk Supplies,Stapler,25,9.5,237.5,Cash
+SO-202008-0011,10498,2020-08-16,2020,Central,Retail Customer,Writing Supplies,Whiteboard Markers,19,8,152,Credit Card
+SO-202008-0012,10499,2020-08-17,2020,South,Online Customer,Writing Supplies,Pencils Pack,8,4,32,E-Wallet
+SO-202008-0013,10500,2020-08-17,2020,North,Wholesale,Writing Supplies,Highlighters,23,6.5,149.5,E-Wallet
+SO-202008-0014,10501,2020-08-17,2020,Central,Retail Customer,Desk Supplies,Stapler,19,9.5,180.5,Cash
+SO-202008-0015,10502,2020-08-18,2020,Central,Online Customer,Writing Supplies,Highlighters,1,6.5,6.5,Cash
+SO-202008-0016,10503,2020-08-19,2020,East,Retail Customer,School Bags,Backpack,11,28,308,E-Wallet
+SO-202008-0017,10504,2020-08-20,2020,South,Wholesale,Desk Supplies,Stapler,67,9.5,636.5,Cash
+SO-202008-0018,10505,2020-08-22,2020,North,Online Customer,School Bags,Backpack,7,28,196,E-Wallet
+SO-202008-0019,10506,2020-08-23,2020,South,Retail Customer,Writing Supplies,Pencils Pack,6,4,24,Credit Card
+SO-202008-0020,10507,2020-08-23,2020,East,Online Customer,Writing Supplies,Highlighters,9,6.5,58.5,E-Wallet
+SO-202008-0021,10508,2020-08-23,2020,Central,Retail Customer,Writing Supplies,Ballpoint Pens,17,5,85,Credit Card
+SO-202008-0022,10509,2020-08-24,2020,South,Online Customer,Writing Supplies,Ballpoint Pens,4,5,20,Cash
+SO-202008-0023,10510,2020-08-24,2020,South,Retail Customer,School Bags,Backpack,17,28,476,Credit Card
+SO-202008-0024,10511,2020-08-25,2020,North,Online Customer,Writing Supplies,Highlighters,10,6.5,65,Cash
+SO-202008-0025,10512,2020-08-26,2020,Central,Online Customer,School Bags,Backpack,3,28,84,Cash
+SO-202008-0026,10513,2020-08-28,2020,East,Retail Customer,Writing Supplies,Pencils Pack,11,4,44,Credit Card
+SO-202008-0027,10514,2020-08-30,2020,East,Wholesale,School Bags,Backpack,80,28,2240,E-Wallet
+SO-202008-0028,10515,2020-08-30,2020,Central,Wholesale,Paper Products,Notebook,37,3.5,129.5,Cash
+SO-202008-0029,10516,2020-08-31,2020,Central,Online Customer,Writing Supplies,Pencils Pack,2,4,8,E-Wallet
+SO-202008-0030,10517,2020-08-31,2020,Central,Wholesale,School Bags,Backpack,54,28,1512,Credit Card
+SO-202008-0031,10518,2020-08-31,2020,South,Retail Customer,Writing Supplies,Whiteboard Markers,18,8,144,Cash
+SO-202009-0001,10519,2020-09-05,2020,West,Wholesale,Writing Supplies,Highlighters,23,6.5,149.5,Credit Card
+SO-202009-0002,10520,2020-09-05,2020,South,Wholesale,Writing Supplies,Erasers Pack,42,3,126,Cash
+SO-202009-0003,10521,2020-09-06,2020,East,Wholesale,Writing Supplies,Whiteboard Markers,49,8,392,Cash
+SO-202009-0004,10522,2020-09-07,2020,North,Wholesale,Paper Products,Notebook,35,3.5,122.5,Credit Card
+SO-202009-0005,10523,2020-09-08,2020,North,Retail Customer,Writing Supplies,Ballpoint Pens,8,5,40,E-Wallet
+SO-202009-0006,10524,2020-09-08,2020,North,Online Customer,Desk Supplies,Scissors,9,7,63,E-Wallet
+SO-202009-0007,10525,2020-09-09,2020,Central,Online Customer,Writing Supplies,Whiteboard Markers,8,8,64,E-Wallet
+SO-202009-0008,10526,2020-09-09,2020,South,Online Customer,Desk Supplies,Stapler,10,9.5,95,Cash
+SO-202009-0009,10527,2020-09-10,2020,Central,Online Customer,Writing Supplies,Pencils Pack,4,4,16,Cash
+SO-202009-0010,10528,2020-09-11,2020,East,Online Customer,School Bags,Backpack,1,28,28,E-Wallet
+SO-202009-0011,10529,2020-09-13,2020,West,Retail Customer,Art Supplies,Glue Sticks,18,4.5,81,E-Wallet
+SO-202009-0012,10530,2020-09-14,2020,South,Online Customer,Writing Supplies,Whiteboard Markers,9,8,72,Cash
+SO-202009-0013,10531,2020-09-14,2020,North,Retail Customer,Writing Supplies,Ballpoint Pens,15,5,75,E-Wallet
+SO-202009-0014,10532,2020-09-16,2020,East,Retail Customer,Writing Supplies,Whiteboard Markers,7,8,56,E-Wallet
+SO-202009-0015,10533,2020-09-16,2020,East,Wholesale,Writing Supplies,Erasers Pack,29,3,87,Credit Card
+SO-202009-0016,10534,2020-09-17,2020,Central,Online Customer,Writing Supplies,Whiteboard Markers,6,8,48,E-Wallet
+SO-202009-0017,10535,2020-09-18,2020,South,Wholesale,Desk Supplies,Stapler,23,9.5,218.5,Credit Card
+SO-202009-0018,10536,2020-09-20,2020,South,Retail Customer,Desk Supplies,Scissors,16,7,112,Cash
+SO-202009-0019,10537,2020-09-20,2020,East,Retail Customer,Writing Supplies,Whiteboard Markers,20,8,160,Cash
+SO-202009-0020,10538,2020-09-21,2020,Central,Wholesale,Art Supplies,Glue Sticks,56,4.5,252,Credit Card
+SO-202009-0021,10539,2020-09-21,2020,South,Retail Customer,Writing Supplies,Pencils Pack,10,4,40,Cash
+SO-202009-0022,10540,2020-09-23,2020,East,Retail Customer,Paper Products,Notebook,20,3.5,70,Credit Card
+SO-202009-0023,10541,2020-09-23,2020,Central,Wholesale,Writing Supplies,Erasers Pack,26,3,78,Cash
+SO-202009-0024,10542,2020-09-24,2020,West,Wholesale,Writing Supplies,Erasers Pack,66,3,198,Cash
+SO-202009-0025,10543,2020-09-26,2020,West,Wholesale,Writing Supplies,Pencils Pack,57,4,228,E-Wallet
+SO-202009-0026,10544,2020-09-27,2020,West,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,E-Wallet
+SO-202010-0001,10545,2020-10-01,2020,North,Wholesale,Art Supplies,Glue Sticks,42,4.5,189,Credit Card
+SO-202010-0002,10546,2020-10-01,2020,Central,Online Customer,Desk Supplies,Scissors,10,7,70,Cash
+SO-202010-0003,10547,2020-10-06,2020,West,Wholesale,Art Supplies,Glue Sticks,61,4.5,274.5,Cash
+SO-202010-0004,10548,2020-10-06,2020,East,Wholesale,Desk Supplies,Stapler,62,9.5,589,Credit Card
+SO-202010-0005,10549,2020-10-08,2020,East,Retail Customer,Writing Supplies,Highlighters,5,6.5,32.5,E-Wallet
+SO-202010-0006,10550,2020-10-08,2020,West,Retail Customer,Art Supplies,Glue Sticks,16,4.5,72,E-Wallet
+SO-202010-0007,10551,2020-10-09,2020,Central,Wholesale,Art Supplies,Glue Sticks,25,4.5,112.5,Cash
+SO-202010-0008,10552,2020-10-12,2020,West,Wholesale,Paper Products,Notebook,61,3.5,213.5,Credit Card
+SO-202010-0009,10553,2020-10-16,2020,East,Retail Customer,Art Supplies,Glue Sticks,5,4.5,22.5,Credit Card
+SO-202010-0010,10554,2020-10-18,2020,Central,Retail Customer,School Bags,Backpack,7,28,196,Cash
+SO-202010-0011,10555,2020-10-18,2020,North,Wholesale,Art Supplies,Glue Sticks,30,4.5,135,E-Wallet
+SO-202010-0012,10556,2020-10-20,2020,East,Online Customer,Writing Supplies,Highlighters,6,6.5,39,E-Wallet
+SO-202010-0013,10557,2020-10-20,2020,East,Online Customer,Writing Supplies,Whiteboard Markers,7,8,56,Credit Card
+SO-202010-0014,10558,2020-10-21,2020,East,Wholesale,Writing Supplies,Pencils Pack,32,4,128,E-Wallet
+SO-202010-0015,10559,2020-10-22,2020,West,Wholesale,Paper Products,Notebook,56,3.5,196,Cash
+SO-202010-0016,10560,2020-10-23,2020,Central,Retail Customer,Art Supplies,Glue Sticks,5,4.5,22.5,Cash
+SO-202010-0017,10561,2020-10-24,2020,East,Retail Customer,Art Supplies,Glue Sticks,13,4.5,58.5,Cash
+SO-202010-0018,10562,2020-10-25,2020,Central,Retail Customer,Writing Supplies,Whiteboard Markers,18,8,144,Cash
+SO-202010-0019,10563,2020-10-25,2020,North,Wholesale,Writing Supplies,Erasers Pack,22,3,66,Credit Card
+SO-202010-0020,10564,2020-10-26,2020,North,Online Customer,Paper Products,Notebook,3,3.5,10.5,Credit Card
+SO-202010-0021,10565,2020-10-26,2020,North,Wholesale,School Bags,Backpack,62,28,1736,Credit Card
+SO-202010-0022,10566,2020-10-26,2020,North,Online Customer,Writing Supplies,Highlighters,9,6.5,58.5,Cash
+SO-202010-0023,10567,2020-10-26,2020,South,Online Customer,Writing Supplies,Pencils Pack,8,4,32,Credit Card
+SO-202010-0024,10568,2020-10-27,2020,Central,Online Customer,Desk Supplies,Stapler,3,9.5,28.5,Credit Card
+SO-202010-0025,10569,2020-10-27,2020,West,Wholesale,Writing Supplies,Whiteboard Markers,65,8,520,Credit Card
+SO-202010-0026,10570,2020-10-28,2020,North,Online Customer,Art Supplies,Glue Sticks,5,4.5,22.5,E-Wallet
+SO-202011-0001,10571,2020-11-01,2020,South,Online Customer,Desk Supplies,Scissors,5,7,35,Cash
+SO-202011-0002,10572,2020-11-02,2020,North,Retail Customer,Art Supplies,Glue Sticks,7,4.5,31.5,E-Wallet
+SO-202011-0003,10573,2020-11-03,2020,Central,Retail Customer,Paper Products,Notebook,20,3.5,70,E-Wallet
+SO-202011-0004,10574,2020-11-05,2020,West,Wholesale,Desk Supplies,Stapler,51,9.5,484.5,Credit Card
+SO-202011-0005,10575,2020-11-05,2020,Central,Retail Customer,Paper Products,Notebook,10,3.5,35,E-Wallet
+SO-202011-0006,10576,2020-11-07,2020,West,Wholesale,Writing Supplies,Pencils Pack,68,4,272,Credit Card
+SO-202011-0007,10577,2020-11-09,2020,South,Retail Customer,Writing Supplies,Ballpoint Pens,12,5,60,Credit Card
+SO-202011-0008,10578,2020-11-09,2020,Central,Wholesale,Writing Supplies,Ballpoint Pens,74,5,370,E-Wallet
+SO-202011-0009,10579,2020-11-11,2020,West,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Cash
+SO-202011-0010,10580,2020-11-14,2020,South,Wholesale,Writing Supplies,Pencils Pack,52,4,208,E-Wallet
+SO-202011-0011,10581,2020-11-14,2020,North,Retail Customer,Writing Supplies,Whiteboard Markers,18,8,144,E-Wallet
+SO-202011-0012,10582,2020-11-15,2020,Central,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,Credit Card
+SO-202011-0013,10583,2020-11-16,2020,West,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Credit Card
+SO-202011-0014,10584,2020-11-16,2020,Central,Retail Customer,Writing Supplies,Whiteboard Markers,8,8,64,E-Wallet
+SO-202011-0015,10585,2020-11-17,2020,South,Online Customer,School Bags,Backpack,3,28,84,Credit Card
+SO-202011-0016,10586,2020-11-19,2020,Central,Wholesale,Writing Supplies,Pencils Pack,59,4,236,Cash
+SO-202011-0017,10587,2020-11-20,2020,South,Wholesale,Writing Supplies,Pencils Pack,51,4,204,E-Wallet
+SO-202011-0018,10588,2020-11-22,2020,West,Retail Customer,Desk Supplies,Stapler,17,9.5,161.5,Credit Card
+SO-202011-0019,10589,2020-11-22,2020,West,Online Customer,School Bags,Backpack,6,28,168,Credit Card
+SO-202011-0020,10590,2020-11-27,2020,East,Retail Customer,School Bags,Backpack,9,28,252,E-Wallet
+SO-202011-0021,10591,2020-11-27,2020,East,Online Customer,Writing Supplies,Ballpoint Pens,10,5,50,E-Wallet
+SO-202012-0001,10592,2020-12-01,2020,Central,Online Customer,Desk Supplies,Stapler,2,9.5,19,Credit Card
+SO-202012-0002,10593,2020-12-01,2020,East,Online Customer,Writing Supplies,Erasers Pack,8,3,24,E-Wallet
+SO-202012-0003,10594,2020-12-02,2020,East,Wholesale,Paper Products,Notebook,42,3.5,147,E-Wallet
+SO-202012-0004,10595,2020-12-03,2020,Central,Retail Customer,Writing Supplies,Whiteboard Markers,5,8,40,Credit Card
+SO-202012-0005,10596,2020-12-04,2020,East,Wholesale,Writing Supplies,Pencils Pack,35,4,140,Credit Card
+SO-202012-0006,10597,2020-12-04,2020,North,Retail Customer,Writing Supplies,Ballpoint Pens,17,5,85,Credit Card
+SO-202012-0007,10598,2020-12-05,2020,South,Online Customer,School Bags,Backpack,4,28,112,E-Wallet
+SO-202012-0008,10599,2020-12-06,2020,East,Online Customer,School Bags,Backpack,7,28,196,Cash
+SO-202012-0009,10600,2020-12-06,2020,Central,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Cash
+SO-202012-0010,10601,2020-12-06,2020,Central,Retail Customer,Writing Supplies,Pencils Pack,10,4,40,Cash
+SO-202012-0011,10602,2020-12-06,2020,Central,Retail Customer,Desk Supplies,Scissors,20,7,140,Cash
+SO-202012-0012,10603,2020-12-07,2020,East,Online Customer,Paper Products,Notebook,1,3.5,3.5,Cash
+SO-202012-0013,10604,2020-12-08,2020,Central,Retail Customer,Desk Supplies,Scissors,5,7,35,E-Wallet
+SO-202012-0014,10605,2020-12-09,2020,West,Retail Customer,Art Supplies,Glue Sticks,18,4.5,81,Cash
+SO-202012-0015,10606,2020-12-09,2020,Central,Online Customer,Writing Supplies,Highlighters,8,6.5,52,Credit Card
+SO-202012-0016,10607,2020-12-11,2020,Central,Online Customer,Desk Supplies,Stapler,10,9.5,95,Credit Card
+SO-202012-0017,10608,2020-12-12,2020,West,Online Customer,School Bags,Backpack,9,28,252,Cash
+SO-202012-0018,10609,2020-12-12,2020,Central,Retail Customer,Writing Supplies,Whiteboard Markers,13,8,104,Cash
+SO-202012-0019,10610,2020-12-13,2020,Central,Wholesale,Art Supplies,Glue Sticks,67,4.5,301.5,Credit Card
+SO-202012-0020,10611,2020-12-13,2020,West,Retail Customer,Writing Supplies,Ballpoint Pens,11,5,55,E-Wallet
+SO-202012-0021,10612,2020-12-15,2020,South,Wholesale,Writing Supplies,Highlighters,68,6.5,442,E-Wallet
+SO-202012-0022,10613,2020-12-16,2020,Central,Wholesale,Writing Supplies,Erasers Pack,71,3,213,E-Wallet
+SO-202012-0023,10614,2020-12-16,2020,North,Online Customer,School Bags,Backpack,10,28,280,Cash
+SO-202012-0024,10615,2020-12-17,2020,Central,Online Customer,School Bags,Backpack,5,28,140,E-Wallet
+SO-202012-0025,10616,2020-12-17,2020,North,Retail Customer,Paper Products,Notebook,19,3.5,66.5,Cash
+SO-202012-0026,10617,2020-12-18,2020,West,Wholesale,Writing Supplies,Pencils Pack,53,4,212,E-Wallet
+SO-202012-0027,10618,2020-12-20,2020,South,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,E-Wallet
+SO-202012-0028,10619,2020-12-21,2020,South,Retail Customer,Desk Supplies,Stapler,8,9.5,76,E-Wallet
+SO-202012-0029,10620,2020-12-22,2020,Central,Online Customer,Writing Supplies,Pencils Pack,4,4,16,Credit Card
+SO-202012-0030,10621,2020-12-22,2020,North,Wholesale,Writing Supplies,Pencils Pack,28,4,112,Credit Card
+SO-202012-0031,10622,2020-12-22,2020,West,Online Customer,Writing Supplies,Ballpoint Pens,9,5,45,E-Wallet
+SO-202012-0032,10623,2020-12-23,2020,West,Wholesale,Art Supplies,Glue Sticks,43,4.5,193.5,Cash
+SO-202012-0033,10624,2020-12-23,2020,North,Wholesale,Desk Supplies,Scissors,76,7,532,Cash
+SO-202012-0034,10625,2020-12-24,2020,South,Wholesale,Writing Supplies,Erasers Pack,26,3,78,Cash
+SO-202012-0035,10626,2020-12-26,2020,North,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,E-Wallet
+SO-202012-0036,10627,2020-12-29,2020,North,Wholesale,Writing Supplies,Highlighters,26,6.5,169,Credit Card
+SO-202101-0001,10628,2021-01-02,2021,West,Wholesale,Art Supplies,Glue Sticks,50,4.5,225,Cash
+SO-202101-0002,10629,2021-01-03,2021,North,Retail Customer,Writing Supplies,Ballpoint Pens,8,5,40,Credit Card
+SO-202101-0003,10630,2021-01-03,2021,South,Online Customer,Desk Supplies,Scissors,5,7,35,Cash
+SO-202101-0004,10631,2021-01-06,2021,Central,Retail Customer,Writing Supplies,Whiteboard Markers,9,8,72,Credit Card
+SO-202101-0005,10632,2021-01-08,2021,Central,Wholesale,Paper Products,Notebook,50,3.5,175,Credit Card
+SO-202101-0006,10633,2021-01-08,2021,South,Online Customer,Desk Supplies,Scissors,8,7,56,E-Wallet
+SO-202101-0007,10634,2021-01-08,2021,Central,Retail Customer,Writing Supplies,Whiteboard Markers,19,8,152,Credit Card
+SO-202101-0008,10635,2021-01-08,2021,North,Wholesale,Writing Supplies,Pencils Pack,56,4,224,Cash
+SO-202101-0009,10636,2021-01-10,2021,West,Online Customer,Writing Supplies,Erasers Pack,7,3,21,Credit Card
+SO-202101-0010,10637,2021-01-10,2021,East,Online Customer,Desk Supplies,Scissors,1,7,7,Cash
+SO-202101-0011,10638,2021-01-10,2021,Central,Online Customer,Writing Supplies,Whiteboard Markers,7,8,56,Credit Card
+SO-202101-0012,10639,2021-01-11,2021,West,Online Customer,Art Supplies,Glue Sticks,8,4.5,36,Cash
+SO-202101-0013,10640,2021-01-12,2021,West,Online Customer,Desk Supplies,Scissors,1,7,7,Credit Card
+SO-202101-0014,10641,2021-01-12,2021,North,Wholesale,Writing Supplies,Pencils Pack,42,4,168,Cash
+SO-202101-0015,10642,2021-01-13,2021,West,Retail Customer,Writing Supplies,Ballpoint Pens,6,5,30,Credit Card
+SO-202101-0016,10643,2021-01-13,2021,West,Wholesale,Writing Supplies,Erasers Pack,32,3,96,Cash
+SO-202101-0017,10644,2021-01-16,2021,Central,Online Customer,Writing Supplies,Highlighters,10,6.5,65,E-Wallet
+SO-202101-0018,10645,2021-01-18,2021,North,Retail Customer,Writing Supplies,Pencils Pack,11,4,44,Cash
+SO-202101-0019,10646,2021-01-22,2021,West,Online Customer,Paper Products,Notebook,4,3.5,14,Cash
+SO-202101-0020,10647,2021-01-22,2021,South,Wholesale,Writing Supplies,Pencils Pack,80,4,320,Credit Card
+SO-202101-0021,10648,2021-01-23,2021,East,Online Customer,Desk Supplies,Scissors,3,7,21,E-Wallet
+SO-202101-0022,10649,2021-01-23,2021,South,Online Customer,Writing Supplies,Highlighters,3,6.5,19.5,Credit Card
+SO-202101-0023,10650,2021-01-23,2021,West,Online Customer,School Bags,Backpack,10,28,280,Credit Card
+SO-202101-0024,10651,2021-01-24,2021,West,Wholesale,Writing Supplies,Erasers Pack,48,3,144,E-Wallet
+SO-202101-0025,10652,2021-01-28,2021,South,Online Customer,Writing Supplies,Ballpoint Pens,10,5,50,Cash
+SO-202101-0026,10653,2021-01-29,2021,Central,Wholesale,Writing Supplies,Highlighters,40,6.5,260,Credit Card
+SO-202101-0027,10654,2021-01-30,2021,Central,Wholesale,Desk Supplies,Stapler,70,9.5,665,Cash
+SO-202101-0028,10655,2021-01-31,2021,Central,Retail Customer,Writing Supplies,Highlighters,11,6.5,71.5,Credit Card
+SO-202102-0001,10656,2021-02-02,2021,North,Retail Customer,Writing Supplies,Highlighters,15,6.5,97.5,Credit Card
+SO-202102-0002,10657,2021-02-03,2021,Central,Retail Customer,Writing Supplies,Whiteboard Markers,13,8,104,Cash
+SO-202102-0003,10658,2021-02-03,2021,West,Retail Customer,Desk Supplies,Stapler,18,9.5,171,E-Wallet
+SO-202102-0004,10659,2021-02-04,2021,North,Online Customer,Desk Supplies,Scissors,9,7,63,Credit Card
+SO-202102-0005,10660,2021-02-04,2021,South,Retail Customer,Writing Supplies,Whiteboard Markers,9,8,72,E-Wallet
+SO-202102-0006,10661,2021-02-04,2021,Central,Wholesale,Writing Supplies,Erasers Pack,55,3,165,Cash
+SO-202102-0007,10662,2021-02-04,2021,North,Online Customer,Desk Supplies,Stapler,7,9.5,66.5,Credit Card
+SO-202102-0008,10663,2021-02-06,2021,North,Online Customer,Writing Supplies,Highlighters,6,6.5,39,E-Wallet
+SO-202102-0009,10664,2021-02-08,2021,West,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,E-Wallet
+SO-202102-0010,10665,2021-02-13,2021,South,Wholesale,School Bags,Backpack,53,28,1484,Credit Card
+SO-202102-0011,10666,2021-02-13,2021,West,Wholesale,Paper Products,Notebook,77,3.5,269.5,E-Wallet
+SO-202102-0012,10667,2021-02-16,2021,North,Wholesale,Writing Supplies,Erasers Pack,60,3,180,Cash
+SO-202102-0013,10668,2021-02-16,2021,North,Wholesale,School Bags,Backpack,30,28,840,Cash
+SO-202102-0014,10669,2021-02-20,2021,West,Online Customer,Writing Supplies,Ballpoint Pens,2,5,10,E-Wallet
+SO-202102-0015,10670,2021-02-20,2021,West,Online Customer,Art Supplies,Glue Sticks,6,4.5,27,Cash
+SO-202102-0016,10671,2021-02-21,2021,East,Retail Customer,Paper Products,Notebook,7,3.5,24.5,Cash
+SO-202102-0017,10672,2021-02-22,2021,East,Online Customer,Writing Supplies,Highlighters,2,6.5,13,Cash
+SO-202102-0018,10673,2021-02-22,2021,Central,Retail Customer,Writing Supplies,Pencils Pack,16,4,64,Credit Card
+SO-202102-0019,10674,2021-02-23,2021,West,Online Customer,Desk Supplies,Scissors,3,7,21,Credit Card
+SO-202102-0020,10675,2021-02-24,2021,West,Retail Customer,Writing Supplies,Highlighters,19,6.5,123.5,Credit Card
+SO-202102-0021,10676,2021-02-24,2021,South,Wholesale,Writing Supplies,Whiteboard Markers,71,8,568,Cash
+SO-202102-0022,10677,2021-02-25,2021,Central,Wholesale,Writing Supplies,Pencils Pack,62,4,248,E-Wallet
+SO-202103-0001,10678,2021-03-03,2021,North,Retail Customer,School Bags,Backpack,6,28,168,E-Wallet
+SO-202103-0002,10679,2021-03-04,2021,South,Online Customer,Desk Supplies,Scissors,5,7,35,Credit Card
+SO-202103-0003,10680,2021-03-05,2021,East,Wholesale,Desk Supplies,Scissors,37,7,259,Credit Card
+SO-202103-0004,10681,2021-03-06,2021,North,Wholesale,Desk Supplies,Scissors,74,7,518,Credit Card
+SO-202103-0005,10682,2021-03-06,2021,West,Wholesale,Writing Supplies,Pencils Pack,66,4,264,Credit Card
+SO-202103-0006,10683,2021-03-07,2021,West,Online Customer,Writing Supplies,Erasers Pack,8,3,24,Cash
+SO-202103-0007,10684,2021-03-09,2021,Central,Wholesale,Desk Supplies,Scissors,57,7,399,Cash
+SO-202103-0008,10685,2021-03-11,2021,East,Retail Customer,Writing Supplies,Pencils Pack,17,4,68,Credit Card
+SO-202103-0009,10686,2021-03-12,2021,South,Retail Customer,Desk Supplies,Scissors,14,7,98,E-Wallet
+SO-202103-0010,10687,2021-03-14,2021,South,Wholesale,Paper Products,Notebook,25,3.5,87.5,Credit Card
+SO-202103-0011,10688,2021-03-15,2021,North,Online Customer,Writing Supplies,Pencils Pack,5,4,20,Cash
+SO-202103-0012,10689,2021-03-15,2021,South,Wholesale,Desk Supplies,Scissors,41,7,287,Cash
+SO-202103-0013,10690,2021-03-15,2021,Central,Wholesale,Writing Supplies,Pencils Pack,49,4,196,Cash
+SO-202103-0014,10691,2021-03-16,2021,East,Wholesale,Paper Products,Notebook,31,3.5,108.5,E-Wallet
+SO-202103-0015,10692,2021-03-18,2021,East,Retail Customer,School Bags,Backpack,15,28,420,Credit Card
+SO-202103-0016,10693,2021-03-18,2021,East,Retail Customer,School Bags,Backpack,5,28,140,Credit Card
+SO-202103-0017,10694,2021-03-25,2021,South,Wholesale,Art Supplies,Glue Sticks,28,4.5,126,Credit Card
+SO-202103-0018,10695,2021-03-27,2021,East,Online Customer,Writing Supplies,Whiteboard Markers,1,8,8,Credit Card
+SO-202103-0019,10696,2021-03-28,2021,West,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Cash
+SO-202103-0020,10697,2021-03-29,2021,South,Online Customer,School Bags,Backpack,2,28,56,Cash
+SO-202103-0021,10698,2021-03-31,2021,North,Retail Customer,Paper Products,Notebook,17,3.5,59.5,Cash
+SO-202104-0001,10699,2021-04-03,2021,Central,Retail Customer,Desk Supplies,Scissors,5,7,35,Credit Card
+SO-202104-0002,10700,2021-04-03,2021,Central,Retail Customer,Desk Supplies,Scissors,9,7,63,Credit Card
+SO-202104-0003,10701,2021-04-04,2021,East,Online Customer,Paper Products,Notebook,10,3.5,35,E-Wallet
+SO-202104-0004,10702,2021-04-04,2021,East,Retail Customer,Paper Products,Notebook,16,3.5,56,E-Wallet
+SO-202104-0005,10703,2021-04-06,2021,North,Wholesale,School Bags,Backpack,39,28,1092,Credit Card
+SO-202104-0006,10704,2021-04-09,2021,West,Online Customer,Art Supplies,Glue Sticks,10,4.5,45,E-Wallet
+SO-202104-0007,10705,2021-04-09,2021,West,Retail Customer,School Bags,Backpack,16,28,448,Cash
+SO-202104-0008,10706,2021-04-10,2021,North,Wholesale,School Bags,Backpack,29,28,812,E-Wallet
+SO-202104-0009,10707,2021-04-10,2021,North,Wholesale,Desk Supplies,Stapler,67,9.5,636.5,Cash
+SO-202104-0010,10708,2021-04-11,2021,South,Online Customer,Writing Supplies,Highlighters,8,6.5,52,E-Wallet
+SO-202104-0011,10709,2021-04-12,2021,North,Retail Customer,School Bags,Backpack,19,28,532,E-Wallet
+SO-202104-0012,10710,2021-04-14,2021,South,Wholesale,Paper Products,Notebook,53,3.5,185.5,Credit Card
+SO-202104-0013,10711,2021-04-14,2021,North,Online Customer,Paper Products,Notebook,8,3.5,28,Credit Card
+SO-202104-0014,10712,2021-04-15,2021,South,Retail Customer,Writing Supplies,Erasers Pack,12,3,36,Cash
+SO-202104-0015,10713,2021-04-16,2021,South,Online Customer,Art Supplies,Glue Sticks,9,4.5,40.5,Cash
+SO-202104-0016,10714,2021-04-20,2021,Central,Retail Customer,Writing Supplies,Pencils Pack,15,4,60,E-Wallet
+SO-202104-0017,10715,2021-04-21,2021,Central,Retail Customer,Desk Supplies,Stapler,6,9.5,57,Credit Card
+SO-202104-0018,10716,2021-04-27,2021,Central,Online Customer,Desk Supplies,Stapler,8,9.5,76,E-Wallet
+SO-202104-0019,10717,2021-04-29,2021,South,Online Customer,Writing Supplies,Erasers Pack,1,3,3,Cash
+SO-202105-0001,10718,2021-05-01,2021,South,Wholesale,Writing Supplies,Highlighters,77,6.5,500.5,Credit Card
+SO-202105-0002,10719,2021-05-01,2021,South,Retail Customer,Paper Products,Notebook,18,3.5,63,Cash
+SO-202105-0003,10720,2021-05-02,2021,North,Retail Customer,Paper Products,Notebook,5,3.5,17.5,E-Wallet
+SO-202105-0004,10721,2021-05-02,2021,North,Online Customer,Writing Supplies,Ballpoint Pens,4,5,20,Cash
+SO-202105-0005,10722,2021-05-02,2021,North,Retail Customer,Writing Supplies,Erasers Pack,14,3,42,Cash
+SO-202105-0006,10723,2021-05-03,2021,North,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Cash
+SO-202105-0007,10724,2021-05-03,2021,North,Online Customer,Desk Supplies,Stapler,5,9.5,47.5,Credit Card
+SO-202105-0008,10725,2021-05-05,2021,Central,Retail Customer,Writing Supplies,Pencils Pack,7,4,28,Cash
+SO-202105-0009,10726,2021-05-09,2021,Central,Retail Customer,Desk Supplies,Scissors,12,7,84,Credit Card
+SO-202105-0010,10727,2021-05-10,2021,North,Wholesale,Writing Supplies,Ballpoint Pens,49,5,245,Cash
+SO-202105-0011,10728,2021-05-12,2021,South,Online Customer,Writing Supplies,Whiteboard Markers,10,8,80,Credit Card
+SO-202105-0012,10729,2021-05-12,2021,West,Online Customer,Writing Supplies,Highlighters,2,6.5,13,E-Wallet
+SO-202105-0013,10730,2021-05-12,2021,North,Retail Customer,Writing Supplies,Whiteboard Markers,11,8,88,E-Wallet
+SO-202105-0014,10731,2021-05-13,2021,West,Online Customer,Art Supplies,Glue Sticks,4,4.5,18,E-Wallet
+SO-202105-0015,10732,2021-05-13,2021,South,Retail Customer,Writing Supplies,Highlighters,15,6.5,97.5,Credit Card
+SO-202105-0016,10733,2021-05-14,2021,East,Retail Customer,Writing Supplies,Pencils Pack,18,4,72,E-Wallet
+SO-202105-0017,10734,2021-05-16,2021,South,Wholesale,Desk Supplies,Stapler,33,9.5,313.5,Cash
+SO-202105-0018,10735,2021-05-17,2021,Central,Wholesale,Writing Supplies,Highlighters,64,6.5,416,Cash
+SO-202105-0019,10736,2021-05-17,2021,Central,Retail Customer,Paper Products,Notebook,10,3.5,35,Cash
+SO-202105-0020,10737,2021-05-17,2021,South,Wholesale,Writing Supplies,Highlighters,38,6.5,247,Credit Card
+SO-202105-0021,10738,2021-05-17,2021,West,Wholesale,Writing Supplies,Ballpoint Pens,68,5,340,Cash
+SO-202105-0022,10739,2021-05-19,2021,East,Wholesale,Writing Supplies,Ballpoint Pens,49,5,245,Credit Card
+SO-202105-0023,10740,2021-05-19,2021,Central,Online Customer,Writing Supplies,Pencils Pack,3,4,12,E-Wallet
+SO-202105-0024,10741,2021-05-20,2021,North,Wholesale,Writing Supplies,Ballpoint Pens,61,5,305,Cash
+SO-202105-0025,10742,2021-05-21,2021,West,Wholesale,Writing Supplies,Pencils Pack,48,4,192,Cash
+SO-202105-0026,10743,2021-05-23,2021,East,Online Customer,Writing Supplies,Highlighters,2,6.5,13,Cash
+SO-202105-0027,10744,2021-05-25,2021,North,Wholesale,Writing Supplies,Whiteboard Markers,39,8,312,Credit Card
+SO-202105-0028,10745,2021-05-25,2021,East,Retail Customer,Writing Supplies,Whiteboard Markers,14,8,112,Credit Card
+SO-202105-0029,10746,2021-05-28,2021,East,Online Customer,Desk Supplies,Scissors,10,7,70,Cash
+SO-202106-0001,10747,2021-06-01,2021,South,Online Customer,Desk Supplies,Stapler,3,9.5,28.5,Credit Card
+SO-202106-0002,10748,2021-06-01,2021,Central,Online Customer,School Bags,Backpack,8,28,224,Cash
+SO-202106-0003,10749,2021-06-02,2021,West,Wholesale,Writing Supplies,Ballpoint Pens,26,5,130,E-Wallet
+SO-202106-0004,10750,2021-06-02,2021,East,Online Customer,Paper Products,Notebook,1,3.5,3.5,Credit Card
+SO-202106-0005,10751,2021-06-02,2021,Central,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Cash
+SO-202106-0006,10752,2021-06-02,2021,South,Retail Customer,Desk Supplies,Stapler,20,9.5,190,Credit Card
+SO-202106-0007,10753,2021-06-05,2021,West,Retail Customer,Desk Supplies,Stapler,16,9.5,152,Credit Card
+SO-202106-0008,10754,2021-06-08,2021,West,Retail Customer,Writing Supplies,Pencils Pack,8,4,32,E-Wallet
+SO-202106-0009,10755,2021-06-09,2021,East,Retail Customer,Desk Supplies,Scissors,15,7,105,E-Wallet
+SO-202106-0010,10756,2021-06-09,2021,East,Online Customer,Paper Products,Notebook,3,3.5,10.5,Credit Card
+SO-202106-0011,10757,2021-06-12,2021,East,Wholesale,Paper Products,Notebook,57,3.5,199.5,Credit Card
+SO-202106-0012,10758,2021-06-13,2021,East,Online Customer,Writing Supplies,Pencils Pack,2,4,8,Credit Card
+SO-202106-0013,10759,2021-06-13,2021,Central,Wholesale,Writing Supplies,Erasers Pack,61,3,183,E-Wallet
+SO-202106-0014,10760,2021-06-15,2021,North,Retail Customer,School Bags,Backpack,15,28,420,Cash
+SO-202106-0015,10761,2021-06-18,2021,South,Retail Customer,Writing Supplies,Highlighters,6,6.5,39,Credit Card
+SO-202106-0016,10762,2021-06-19,2021,South,Retail Customer,Art Supplies,Glue Sticks,20,4.5,90,Credit Card
+SO-202106-0017,10763,2021-06-20,2021,West,Wholesale,Writing Supplies,Erasers Pack,46,3,138,E-Wallet
+SO-202106-0018,10764,2021-06-21,2021,West,Wholesale,Desk Supplies,Stapler,42,9.5,399,E-Wallet
+SO-202106-0019,10765,2021-06-22,2021,West,Wholesale,Desk Supplies,Stapler,63,9.5,598.5,Credit Card
+SO-202106-0020,10766,2021-06-22,2021,North,Wholesale,Writing Supplies,Erasers Pack,79,3,237,Cash
+SO-202106-0021,10767,2021-06-23,2021,West,Wholesale,Writing Supplies,Highlighters,77,6.5,500.5,E-Wallet
+SO-202106-0022,10768,2021-06-26,2021,Central,Retail Customer,Writing Supplies,Erasers Pack,14,3,42,Cash
+SO-202106-0023,10769,2021-06-26,2021,East,Wholesale,Desk Supplies,Scissors,72,7,504,Cash
+SO-202106-0024,10770,2021-06-27,2021,West,Wholesale,Desk Supplies,Stapler,52,9.5,494,E-Wallet
+SO-202106-0025,10771,2021-06-27,2021,North,Retail Customer,Art Supplies,Glue Sticks,6,4.5,27,Credit Card
+SO-202106-0026,10772,2021-06-28,2021,South,Online Customer,School Bags,Backpack,9,28,252,Credit Card
+SO-202106-0027,10773,2021-06-29,2021,North,Online Customer,School Bags,Backpack,5,28,140,Cash
+SO-202106-0028,10774,2021-06-30,2021,West,Retail Customer,Desk Supplies,Stapler,7,9.5,66.5,Cash
+SO-202107-0001,10775,2021-07-03,2021,Central,Retail Customer,Paper Products,Notebook,7,3.5,24.5,Cash
+SO-202107-0002,10776,2021-07-03,2021,Central,Retail Customer,Paper Products,Notebook,14,3.5,49,Credit Card
+SO-202107-0003,10777,2021-07-09,2021,North,Online Customer,Art Supplies,Glue Sticks,9,4.5,40.5,Credit Card
+SO-202107-0004,10778,2021-07-10,2021,West,Wholesale,Writing Supplies,Highlighters,34,6.5,221,Cash
+SO-202107-0005,10779,2021-07-10,2021,North,Retail Customer,Writing Supplies,Whiteboard Markers,17,8,136,Cash
+SO-202107-0006,10780,2021-07-12,2021,North,Wholesale,Desk Supplies,Stapler,65,9.5,617.5,Credit Card
+SO-202107-0007,10781,2021-07-13,2021,East,Online Customer,Writing Supplies,Pencils Pack,5,4,20,Cash
+SO-202107-0008,10782,2021-07-13,2021,East,Wholesale,School Bags,Backpack,50,28,1400,Cash
+SO-202107-0009,10783,2021-07-15,2021,West,Wholesale,Paper Products,Notebook,36,3.5,126,Cash
+SO-202107-0010,10784,2021-07-17,2021,West,Online Customer,Desk Supplies,Stapler,10,9.5,95,Credit Card
+SO-202107-0011,10785,2021-07-17,2021,North,Retail Customer,Writing Supplies,Ballpoint Pens,15,5,75,E-Wallet
+SO-202107-0012,10786,2021-07-19,2021,East,Retail Customer,Paper Products,Notebook,6,3.5,21,Credit Card
+SO-202107-0013,10787,2021-07-20,2021,South,Retail Customer,School Bags,Backpack,15,28,420,Credit Card
+SO-202107-0014,10788,2021-07-20,2021,North,Retail Customer,Writing Supplies,Ballpoint Pens,20,5,100,Credit Card
+SO-202107-0015,10789,2021-07-21,2021,West,Wholesale,Desk Supplies,Stapler,46,9.5,437,Credit Card
+SO-202107-0016,10790,2021-07-22,2021,North,Wholesale,Desk Supplies,Stapler,74,9.5,703,E-Wallet
+SO-202107-0017,10791,2021-07-25,2021,South,Retail Customer,Desk Supplies,Scissors,16,7,112,Cash
+SO-202107-0018,10792,2021-07-26,2021,South,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,Credit Card
+SO-202107-0019,10793,2021-07-28,2021,Central,Online Customer,Desk Supplies,Stapler,6,9.5,57,Credit Card
+SO-202107-0020,10794,2021-07-30,2021,Central,Wholesale,School Bags,Backpack,62,28,1736,Credit Card
+SO-202107-0021,10795,2021-07-30,2021,West,Retail Customer,School Bags,Backpack,13,28,364,Cash
+SO-202107-0022,10796,2021-07-30,2021,Central,Retail Customer,Writing Supplies,Highlighters,18,6.5,117,E-Wallet
+SO-202108-0001,10797,2021-08-01,2021,Central,Wholesale,Art Supplies,Glue Sticks,40,4.5,180,Credit Card
+SO-202108-0002,10798,2021-08-04,2021,West,Retail Customer,Writing Supplies,Ballpoint Pens,20,5,100,E-Wallet
+SO-202108-0003,10799,2021-08-04,2021,Central,Online Customer,Paper Products,Notebook,4,3.5,14,Cash
+SO-202108-0004,10800,2021-08-04,2021,South,Retail Customer,Desk Supplies,Stapler,12,9.5,114,Cash
+SO-202108-0005,10801,2021-08-07,2021,North,Online Customer,Writing Supplies,Whiteboard Markers,1,8,8,E-Wallet
+SO-202108-0006,10802,2021-08-07,2021,South,Wholesale,School Bags,Backpack,66,28,1848,Cash
+SO-202108-0007,10803,2021-08-08,2021,North,Retail Customer,Writing Supplies,Pencils Pack,20,4,80,Cash
+SO-202108-0008,10804,2021-08-11,2021,Central,Online Customer,Desk Supplies,Scissors,9,7,63,E-Wallet
+SO-202108-0009,10805,2021-08-13,2021,Central,Wholesale,School Bags,Backpack,24,28,672,E-Wallet
+SO-202108-0010,10806,2021-08-14,2021,Central,Online Customer,Art Supplies,Glue Sticks,5,4.5,22.5,E-Wallet
+SO-202108-0011,10807,2021-08-16,2021,North,Wholesale,Writing Supplies,Whiteboard Markers,26,8,208,Cash
+SO-202108-0012,10808,2021-08-16,2021,West,Retail Customer,Writing Supplies,Pencils Pack,16,4,64,E-Wallet
+SO-202108-0013,10809,2021-08-19,2021,South,Online Customer,Writing Supplies,Erasers Pack,5,3,15,E-Wallet
+SO-202108-0014,10810,2021-08-20,2021,West,Wholesale,Art Supplies,Glue Sticks,22,4.5,99,Credit Card
+SO-202108-0015,10811,2021-08-21,2021,East,Retail Customer,Writing Supplies,Erasers Pack,15,3,45,Cash
+SO-202108-0016,10812,2021-08-21,2021,East,Wholesale,Paper Products,Notebook,49,3.5,171.5,E-Wallet
+SO-202108-0017,10813,2021-08-21,2021,Central,Retail Customer,Writing Supplies,Erasers Pack,9,3,27,E-Wallet
+SO-202108-0018,10814,2021-08-21,2021,North,Retail Customer,Desk Supplies,Stapler,14,9.5,133,Cash
+SO-202108-0019,10815,2021-08-23,2021,South,Online Customer,Writing Supplies,Ballpoint Pens,4,5,20,E-Wallet
+SO-202108-0020,10816,2021-08-26,2021,West,Retail Customer,School Bags,Backpack,12,28,336,Credit Card
+SO-202108-0021,10817,2021-08-27,2021,Central,Retail Customer,Writing Supplies,Pencils Pack,16,4,64,Credit Card
+SO-202108-0022,10818,2021-08-28,2021,East,Retail Customer,Writing Supplies,Erasers Pack,9,3,27,E-Wallet
+SO-202108-0023,10819,2021-08-28,2021,South,Online Customer,Desk Supplies,Stapler,10,9.5,95,E-Wallet
+SO-202108-0024,10820,2021-08-29,2021,North,Wholesale,Writing Supplies,Ballpoint Pens,49,5,245,Cash
+SO-202108-0025,10821,2021-08-29,2021,South,Online Customer,Writing Supplies,Ballpoint Pens,5,5,25,Credit Card
+SO-202108-0026,10822,2021-08-31,2021,South,Online Customer,Desk Supplies,Scissors,5,7,35,Credit Card
+SO-202108-0027,10823,2021-08-31,2021,East,Wholesale,Writing Supplies,Pencils Pack,75,4,300,E-Wallet
+SO-202109-0001,10824,2021-09-01,2021,North,Wholesale,Writing Supplies,Erasers Pack,74,3,222,E-Wallet
+SO-202109-0002,10825,2021-09-01,2021,Central,Retail Customer,Writing Supplies,Erasers Pack,12,3,36,E-Wallet
+SO-202109-0003,10826,2021-09-01,2021,North,Online Customer,Writing Supplies,Erasers Pack,8,3,24,Cash
+SO-202109-0004,10827,2021-09-01,2021,East,Online Customer,Writing Supplies,Whiteboard Markers,6,8,48,Credit Card
+SO-202109-0005,10828,2021-09-03,2021,South,Online Customer,Writing Supplies,Erasers Pack,9,3,27,E-Wallet
+SO-202109-0006,10829,2021-09-04,2021,East,Online Customer,Paper Products,Notebook,5,3.5,17.5,E-Wallet
+SO-202109-0007,10830,2021-09-06,2021,West,Online Customer,School Bags,Backpack,8,28,224,E-Wallet
+SO-202109-0008,10831,2021-09-07,2021,North,Online Customer,Paper Products,Notebook,8,3.5,28,E-Wallet
+SO-202109-0009,10832,2021-09-08,2021,South,Wholesale,Paper Products,Notebook,75,3.5,262.5,E-Wallet
+SO-202109-0010,10833,2021-09-08,2021,East,Online Customer,Desk Supplies,Scissors,3,7,21,E-Wallet
+SO-202109-0011,10834,2021-09-09,2021,North,Wholesale,Writing Supplies,Whiteboard Markers,43,8,344,E-Wallet
+SO-202109-0012,10835,2021-09-10,2021,West,Wholesale,Desk Supplies,Scissors,51,7,357,Credit Card
+SO-202109-0013,10836,2021-09-12,2021,South,Retail Customer,School Bags,Backpack,20,28,560,E-Wallet
+SO-202109-0014,10837,2021-09-13,2021,West,Wholesale,Paper Products,Notebook,68,3.5,238,Cash
+SO-202109-0015,10838,2021-09-14,2021,South,Online Customer,Writing Supplies,Pencils Pack,9,4,36,Cash
+SO-202109-0016,10839,2021-09-15,2021,Central,Retail Customer,School Bags,Backpack,5,28,140,E-Wallet
+SO-202109-0017,10840,2021-09-18,2021,North,Retail Customer,School Bags,Backpack,7,28,196,Cash
+SO-202109-0018,10841,2021-09-20,2021,North,Wholesale,Desk Supplies,Stapler,71,9.5,674.5,E-Wallet
+SO-202109-0019,10842,2021-09-20,2021,North,Wholesale,School Bags,Backpack,53,28,1484,Cash
+SO-202109-0020,10843,2021-09-20,2021,Central,Retail Customer,Writing Supplies,Ballpoint Pens,13,5,65,Cash
+SO-202109-0021,10844,2021-09-22,2021,West,Online Customer,Desk Supplies,Scissors,3,7,21,E-Wallet
+SO-202109-0022,10845,2021-09-22,2021,East,Wholesale,Desk Supplies,Stapler,56,9.5,532,Credit Card
+SO-202109-0023,10846,2021-09-24,2021,North,Online Customer,Writing Supplies,Ballpoint Pens,10,5,50,E-Wallet
+SO-202109-0024,10847,2021-09-25,2021,North,Retail Customer,School Bags,Backpack,14,28,392,Cash
+SO-202109-0025,10848,2021-09-25,2021,West,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,Credit Card
+SO-202109-0026,10849,2021-09-28,2021,South,Retail Customer,School Bags,Backpack,5,28,140,Cash
+SO-202109-0027,10850,2021-09-28,2021,East,Retail Customer,Desk Supplies,Scissors,8,7,56,E-Wallet
+SO-202109-0028,10851,2021-09-28,2021,South,Wholesale,Writing Supplies,Ballpoint Pens,66,5,330,Credit Card
+SO-202109-0029,10852,2021-09-28,2021,North,Wholesale,Writing Supplies,Ballpoint Pens,50,5,250,E-Wallet
+SO-202109-0030,10853,2021-09-28,2021,North,Online Customer,Writing Supplies,Pencils Pack,3,4,12,E-Wallet
+SO-202109-0031,10854,2021-09-30,2021,South,Retail Customer,Writing Supplies,Whiteboard Markers,5,8,40,Credit Card
+SO-202109-0032,10855,2021-09-30,2021,North,Online Customer,Writing Supplies,Highlighters,7,6.5,45.5,E-Wallet
+SO-202110-0001,10856,2021-10-01,2021,North,Retail Customer,Writing Supplies,Highlighters,19,6.5,123.5,E-Wallet
+SO-202110-0002,10857,2021-10-01,2021,West,Online Customer,Writing Supplies,Erasers Pack,7,3,21,E-Wallet
+SO-202110-0003,10858,2021-10-04,2021,North,Retail Customer,Desk Supplies,Stapler,5,9.5,47.5,E-Wallet
+SO-202110-0004,10859,2021-10-04,2021,Central,Retail Customer,Writing Supplies,Ballpoint Pens,17,5,85,Cash
+SO-202110-0005,10860,2021-10-04,2021,North,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,Credit Card
+SO-202110-0006,10861,2021-10-08,2021,West,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,Cash
+SO-202110-0007,10862,2021-10-08,2021,Central,Retail Customer,Writing Supplies,Whiteboard Markers,7,8,56,Cash
+SO-202110-0008,10863,2021-10-10,2021,East,Retail Customer,Writing Supplies,Pencils Pack,18,4,72,E-Wallet
+SO-202110-0009,10864,2021-10-10,2021,North,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,E-Wallet
+SO-202110-0010,10865,2021-10-11,2021,Central,Wholesale,School Bags,Backpack,40,28,1120,Cash
+SO-202110-0011,10866,2021-10-11,2021,Central,Wholesale,Desk Supplies,Stapler,69,9.5,655.5,E-Wallet
+SO-202110-0012,10867,2021-10-13,2021,West,Retail Customer,Paper Products,Notebook,14,3.5,49,Credit Card
+SO-202110-0013,10868,2021-10-14,2021,South,Wholesale,Paper Products,Notebook,78,3.5,273,Cash
+SO-202110-0014,10869,2021-10-14,2021,West,Online Customer,Desk Supplies,Stapler,5,9.5,47.5,Cash
+SO-202110-0015,10870,2021-10-14,2021,Central,Wholesale,Desk Supplies,Scissors,29,7,203,E-Wallet
+SO-202110-0016,10871,2021-10-14,2021,Central,Retail Customer,Desk Supplies,Scissors,17,7,119,E-Wallet
+SO-202110-0017,10872,2021-10-17,2021,West,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,Credit Card
+SO-202110-0018,10873,2021-10-17,2021,South,Online Customer,Paper Products,Notebook,7,3.5,24.5,Cash
+SO-202110-0019,10874,2021-10-18,2021,Central,Wholesale,Paper Products,Notebook,57,3.5,199.5,E-Wallet
+SO-202110-0020,10875,2021-10-18,2021,East,Retail Customer,Writing Supplies,Erasers Pack,12,3,36,Cash
+SO-202110-0021,10876,2021-10-19,2021,North,Retail Customer,Writing Supplies,Whiteboard Markers,20,8,160,Cash
+SO-202110-0022,10877,2021-10-19,2021,East,Online Customer,Writing Supplies,Highlighters,1,6.5,6.5,Credit Card
+SO-202110-0023,10878,2021-10-20,2021,North,Wholesale,Writing Supplies,Ballpoint Pens,60,5,300,Cash
+SO-202110-0024,10879,2021-10-20,2021,West,Retail Customer,Desk Supplies,Stapler,16,9.5,152,E-Wallet
+SO-202110-0025,10880,2021-10-22,2021,South,Online Customer,Desk Supplies,Scissors,5,7,35,Credit Card
+SO-202110-0026,10881,2021-10-22,2021,North,Online Customer,Art Supplies,Glue Sticks,2,4.5,9,E-Wallet
+SO-202110-0027,10882,2021-10-23,2021,East,Retail Customer,Writing Supplies,Whiteboard Markers,15,8,120,E-Wallet
+SO-202110-0028,10883,2021-10-24,2021,North,Wholesale,Writing Supplies,Pencils Pack,66,4,264,E-Wallet
+SO-202110-0029,10884,2021-10-26,2021,West,Retail Customer,Writing Supplies,Erasers Pack,19,3,57,Credit Card
+SO-202110-0030,10885,2021-10-28,2021,East,Online Customer,Writing Supplies,Erasers Pack,2,3,6,E-Wallet
+SO-202110-0031,10886,2021-10-29,2021,Central,Online Customer,Desk Supplies,Stapler,5,9.5,47.5,Credit Card
+SO-202110-0032,10887,2021-10-30,2021,Central,Retail Customer,Writing Supplies,Erasers Pack,13,3,39,E-Wallet
+SO-202111-0001,10888,2021-11-01,2021,East,Online Customer,School Bags,Backpack,6,28,168,Cash
+SO-202111-0002,10889,2021-11-02,2021,South,Wholesale,Art Supplies,Glue Sticks,76,4.5,342,E-Wallet
+SO-202111-0003,10890,2021-11-02,2021,South,Wholesale,Writing Supplies,Pencils Pack,60,4,240,Cash
+SO-202111-0004,10891,2021-11-03,2021,Central,Online Customer,Paper Products,Notebook,3,3.5,10.5,E-Wallet
+SO-202111-0005,10892,2021-11-08,2021,West,Retail Customer,Desk Supplies,Scissors,18,7,126,Credit Card
+SO-202111-0006,10893,2021-11-08,2021,West,Wholesale,Writing Supplies,Ballpoint Pens,68,5,340,Credit Card
+SO-202111-0007,10894,2021-11-10,2021,East,Online Customer,Writing Supplies,Pencils Pack,4,4,16,Cash
+SO-202111-0008,10895,2021-11-10,2021,West,Retail Customer,Writing Supplies,Pencils Pack,15,4,60,E-Wallet
+SO-202111-0009,10896,2021-11-11,2021,Central,Wholesale,Writing Supplies,Pencils Pack,58,4,232,E-Wallet
+SO-202111-0010,10897,2021-11-14,2021,East,Online Customer,Writing Supplies,Erasers Pack,3,3,9,E-Wallet
+SO-202111-0011,10898,2021-11-14,2021,Central,Wholesale,Writing Supplies,Erasers Pack,76,3,228,Credit Card
+SO-202111-0012,10899,2021-11-15,2021,South,Online Customer,Writing Supplies,Erasers Pack,6,3,18,Cash
+SO-202111-0013,10900,2021-11-16,2021,East,Online Customer,Writing Supplies,Pencils Pack,5,4,20,Cash
+SO-202111-0014,10901,2021-11-17,2021,North,Online Customer,Desk Supplies,Stapler,3,9.5,28.5,E-Wallet
+SO-202111-0015,10902,2021-11-18,2021,West,Online Customer,Art Supplies,Glue Sticks,8,4.5,36,Cash
+SO-202111-0016,10903,2021-11-18,2021,East,Online Customer,Paper Products,Notebook,9,3.5,31.5,Cash
+SO-202111-0017,10904,2021-11-18,2021,East,Retail Customer,Desk Supplies,Scissors,15,7,105,Credit Card
+SO-202111-0018,10905,2021-11-20,2021,South,Wholesale,Paper Products,Notebook,79,3.5,276.5,Cash
+SO-202111-0019,10906,2021-11-20,2021,South,Retail Customer,Art Supplies,Glue Sticks,19,4.5,85.5,E-Wallet
+SO-202111-0020,10907,2021-11-20,2021,West,Retail Customer,Writing Supplies,Pencils Pack,5,4,20,E-Wallet
+SO-202111-0021,10908,2021-11-21,2021,Central,Retail Customer,Paper Products,Notebook,5,3.5,17.5,Credit Card
+SO-202111-0022,10909,2021-11-22,2021,East,Retail Customer,Writing Supplies,Whiteboard Markers,12,8,96,E-Wallet
+SO-202111-0023,10910,2021-11-27,2021,South,Retail Customer,Desk Supplies,Stapler,11,9.5,104.5,E-Wallet
+SO-202111-0024,10911,2021-11-28,2021,Central,Wholesale,Art Supplies,Glue Sticks,50,4.5,225,Cash
+SO-202111-0025,10912,2021-11-28,2021,West,Online Customer,School Bags,Backpack,3,28,84,E-Wallet
+SO-202111-0026,10913,2021-11-29,2021,North,Wholesale,Desk Supplies,Stapler,31,9.5,294.5,Credit Card
+SO-202111-0027,10914,2021-11-30,2021,Central,Wholesale,Paper Products,Notebook,78,3.5,273,E-Wallet
+SO-202111-0028,10915,2021-11-30,2021,South,Online Customer,Writing Supplies,Erasers Pack,1,3,3,Cash
+SO-202112-0001,10916,2021-12-04,2021,Central,Wholesale,Desk Supplies,Stapler,75,9.5,712.5,Credit Card
+SO-202112-0002,10917,2021-12-05,2021,North,Online Customer,Art Supplies,Glue Sticks,6,4.5,27,Cash
+SO-202112-0003,10918,2021-12-05,2021,Central,Online Customer,Desk Supplies,Stapler,8,9.5,76,Credit Card
+SO-202112-0004,10919,2021-12-06,2021,North,Retail Customer,Writing Supplies,Pencils Pack,5,4,20,Cash
+SO-202112-0005,10920,2021-12-08,2021,East,Wholesale,Art Supplies,Glue Sticks,77,4.5,346.5,Credit Card
+SO-202112-0006,10921,2021-12-10,2021,North,Wholesale,Desk Supplies,Scissors,73,7,511,Cash
+SO-202112-0007,10922,2021-12-11,2021,East,Online Customer,Desk Supplies,Scissors,1,7,7,Credit Card
+SO-202112-0008,10923,2021-12-13,2021,East,Online Customer,Writing Supplies,Erasers Pack,7,3,21,Cash
+SO-202112-0009,10924,2021-12-15,2021,South,Retail Customer,Writing Supplies,Erasers Pack,8,3,24,Credit Card
+SO-202112-0010,10925,2021-12-19,2021,West,Wholesale,Paper Products,Notebook,74,3.5,259,Credit Card
+SO-202112-0011,10926,2021-12-21,2021,South,Wholesale,Writing Supplies,Erasers Pack,45,3,135,Cash
+SO-202112-0012,10927,2021-12-22,2021,East,Online Customer,Writing Supplies,Pencils Pack,5,4,20,E-Wallet
+SO-202112-0013,10928,2021-12-22,2021,South,Wholesale,School Bags,Backpack,59,28,1652,E-Wallet
+SO-202112-0014,10929,2021-12-23,2021,West,Retail Customer,Art Supplies,Glue Sticks,20,4.5,90,E-Wallet
+SO-202112-0015,10930,2021-12-25,2021,North,Wholesale,Writing Supplies,Ballpoint Pens,58,5,290,Credit Card
+SO-202112-0016,10931,2021-12-25,2021,West,Online Customer,Paper Products,Notebook,6,3.5,21,Credit Card
+SO-202112-0017,10932,2021-12-25,2021,Central,Wholesale,Writing Supplies,Whiteboard Markers,40,8,320,Cash
+SO-202112-0018,10933,2021-12-28,2021,West,Retail Customer,Writing Supplies,Pencils Pack,19,4,76,E-Wallet
+SO-202112-0019,10934,2021-12-29,2021,South,Online Customer,Writing Supplies,Erasers Pack,8,3,24,Credit Card
+SO-202112-0020,10935,2021-12-29,2021,East,Online Customer,Desk Supplies,Stapler,5,9.5,47.5,Credit Card
+SO-202112-0021,10936,2021-12-30,2021,East,Wholesale,Art Supplies,Glue Sticks,42,4.5,189,Cash
+SO-202112-0022,10937,2021-12-30,2021,West,Wholesale,Writing Supplies,Whiteboard Markers,52,8,416,E-Wallet
+SO-202201-0001,10938,2022-01-03,2022,West,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,E-Wallet
+SO-202201-0002,10939,2022-01-07,2022,South,Wholesale,Art Supplies,Glue Sticks,33,4.5,148.5,E-Wallet
+SO-202201-0003,10940,2022-01-08,2022,North,Retail Customer,Paper Products,Notebook,16,3.5,56,Credit Card
+SO-202201-0004,10941,2022-01-08,2022,South,Retail Customer,School Bags,Backpack,18,28,504,E-Wallet
+SO-202201-0005,10942,2022-01-09,2022,Central,Online Customer,Writing Supplies,Pencils Pack,8,4,32,Credit Card
+SO-202201-0006,10943,2022-01-09,2022,South,Wholesale,Writing Supplies,Pencils Pack,33,4,132,E-Wallet
+SO-202201-0007,10944,2022-01-11,2022,East,Online Customer,Writing Supplies,Whiteboard Markers,10,8,80,Credit Card
+SO-202201-0008,10945,2022-01-18,2022,Central,Retail Customer,Desk Supplies,Scissors,17,7,119,Cash
+SO-202201-0009,10946,2022-01-18,2022,North,Wholesale,Paper Products,Notebook,20,3.5,70,Credit Card
+SO-202201-0010,10947,2022-01-19,2022,Central,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Credit Card
+SO-202201-0011,10948,2022-01-20,2022,West,Retail Customer,Writing Supplies,Whiteboard Markers,18,8,144,Credit Card
+SO-202201-0012,10949,2022-01-21,2022,West,Online Customer,Desk Supplies,Scissors,2,7,14,E-Wallet
+SO-202201-0013,10950,2022-01-21,2022,East,Wholesale,Art Supplies,Glue Sticks,74,4.5,333,Cash
+SO-202201-0014,10951,2022-01-21,2022,East,Retail Customer,Writing Supplies,Pencils Pack,13,4,52,E-Wallet
+SO-202201-0015,10952,2022-01-23,2022,North,Online Customer,Writing Supplies,Highlighters,6,6.5,39,Credit Card
+SO-202201-0016,10953,2022-01-24,2022,North,Online Customer,Desk Supplies,Stapler,6,9.5,57,E-Wallet
+SO-202201-0017,10954,2022-01-28,2022,East,Retail Customer,Writing Supplies,Whiteboard Markers,5,8,40,Cash
+SO-202201-0018,10955,2022-01-31,2022,South,Wholesale,School Bags,Backpack,39,28,1092,Credit Card
+SO-202202-0001,10956,2022-02-03,2022,West,Retail Customer,Paper Products,Notebook,7,3.5,24.5,E-Wallet
+SO-202202-0002,10957,2022-02-03,2022,West,Wholesale,Writing Supplies,Pencils Pack,36,4,144,Cash
+SO-202202-0003,10958,2022-02-04,2022,South,Online Customer,Writing Supplies,Pencils Pack,3,4,12,E-Wallet
+SO-202202-0004,10959,2022-02-05,2022,North,Wholesale,Writing Supplies,Erasers Pack,28,3,84,Cash
+SO-202202-0005,10960,2022-02-05,2022,South,Retail Customer,Writing Supplies,Whiteboard Markers,13,8,104,E-Wallet
+SO-202202-0006,10961,2022-02-05,2022,East,Wholesale,Writing Supplies,Pencils Pack,29,4,116,E-Wallet
+SO-202202-0007,10962,2022-02-05,2022,East,Retail Customer,Desk Supplies,Stapler,6,9.5,57,Credit Card
+SO-202202-0008,10963,2022-02-05,2022,West,Online Customer,School Bags,Backpack,4,28,112,E-Wallet
+SO-202202-0009,10964,2022-02-08,2022,Central,Retail Customer,Paper Products,Notebook,9,3.5,31.5,Cash
+SO-202202-0010,10965,2022-02-09,2022,West,Wholesale,Paper Products,Notebook,27,3.5,94.5,E-Wallet
+SO-202202-0011,10966,2022-02-11,2022,North,Retail Customer,Art Supplies,Glue Sticks,20,4.5,90,Cash
+SO-202202-0012,10967,2022-02-14,2022,Central,Online Customer,Desk Supplies,Scissors,4,7,28,Cash
+SO-202202-0013,10968,2022-02-16,2022,South,Retail Customer,Writing Supplies,Pencils Pack,7,4,28,Cash
+SO-202202-0014,10969,2022-02-19,2022,Central,Wholesale,Desk Supplies,Stapler,60,9.5,570,Credit Card
+SO-202202-0015,10970,2022-02-20,2022,North,Wholesale,Desk Supplies,Stapler,36,9.5,342,E-Wallet
+SO-202202-0016,10971,2022-02-21,2022,Central,Retail Customer,School Bags,Backpack,16,28,448,E-Wallet
+SO-202202-0017,10972,2022-02-22,2022,South,Online Customer,Writing Supplies,Erasers Pack,7,3,21,Credit Card
+SO-202202-0018,10973,2022-02-22,2022,West,Online Customer,Desk Supplies,Stapler,1,9.5,9.5,Credit Card
+SO-202202-0019,10974,2022-02-25,2022,East,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,Credit Card
+SO-202202-0020,10975,2022-02-25,2022,West,Retail Customer,Writing Supplies,Ballpoint Pens,9,5,45,Credit Card
+SO-202202-0021,10976,2022-02-26,2022,Central,Wholesale,Writing Supplies,Ballpoint Pens,55,5,275,E-Wallet
+SO-202202-0022,10977,2022-02-26,2022,North,Wholesale,Art Supplies,Glue Sticks,29,4.5,130.5,Cash
+SO-202203-0001,10978,2022-03-02,2022,East,Online Customer,School Bags,Backpack,10,28,280,E-Wallet
+SO-202203-0002,10979,2022-03-03,2022,North,Wholesale,School Bags,Backpack,64,28,1792,Credit Card
+SO-202203-0003,10980,2022-03-05,2022,South,Online Customer,Writing Supplies,Whiteboard Markers,6,8,48,Credit Card
+SO-202203-0004,10981,2022-03-06,2022,North,Online Customer,Paper Products,Notebook,10,3.5,35,Cash
+SO-202203-0005,10982,2022-03-07,2022,Central,Online Customer,Writing Supplies,Whiteboard Markers,2,8,16,Cash
+SO-202203-0006,10983,2022-03-09,2022,North,Retail Customer,Art Supplies,Glue Sticks,19,4.5,85.5,Credit Card
+SO-202203-0007,10984,2022-03-13,2022,South,Wholesale,Writing Supplies,Highlighters,80,6.5,520,E-Wallet
+SO-202203-0008,10985,2022-03-13,2022,East,Wholesale,Desk Supplies,Stapler,38,9.5,361,Credit Card
+SO-202203-0009,10986,2022-03-15,2022,West,Retail Customer,Writing Supplies,Whiteboard Markers,10,8,80,Credit Card
+SO-202203-0010,10987,2022-03-15,2022,North,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,Credit Card
+SO-202203-0011,10988,2022-03-17,2022,North,Wholesale,Paper Products,Notebook,39,3.5,136.5,E-Wallet
+SO-202203-0012,10989,2022-03-18,2022,East,Online Customer,Art Supplies,Glue Sticks,10,4.5,45,Cash
+SO-202203-0013,10990,2022-03-20,2022,South,Retail Customer,Writing Supplies,Erasers Pack,8,3,24,E-Wallet
+SO-202203-0014,10991,2022-03-22,2022,East,Online Customer,Desk Supplies,Scissors,10,7,70,Cash
+SO-202203-0015,10992,2022-03-22,2022,Central,Online Customer,Paper Products,Notebook,6,3.5,21,Credit Card
+SO-202203-0016,10993,2022-03-23,2022,East,Wholesale,Writing Supplies,Ballpoint Pens,57,5,285,Credit Card
+SO-202203-0017,10994,2022-03-24,2022,South,Online Customer,Desk Supplies,Scissors,8,7,56,E-Wallet
+SO-202203-0018,10995,2022-03-24,2022,Central,Online Customer,Writing Supplies,Ballpoint Pens,6,5,30,Cash
+SO-202203-0019,10996,2022-03-26,2022,South,Retail Customer,Writing Supplies,Pencils Pack,5,4,20,Credit Card
+SO-202203-0020,10997,2022-03-27,2022,East,Online Customer,Writing Supplies,Pencils Pack,7,4,28,Credit Card
+SO-202203-0021,10998,2022-03-28,2022,North,Retail Customer,Writing Supplies,Whiteboard Markers,6,8,48,Credit Card
+SO-202203-0022,10999,2022-03-28,2022,West,Retail Customer,Writing Supplies,Erasers Pack,16,3,48,Cash
+SO-202203-0023,11000,2022-03-28,2022,Central,Wholesale,Art Supplies,Glue Sticks,65,4.5,292.5,Credit Card
+SO-202203-0024,11001,2022-03-30,2022,East,Retail Customer,Desk Supplies,Scissors,20,7,140,Credit Card
+SO-202203-0025,11002,2022-03-30,2022,West,Wholesale,Writing Supplies,Pencils Pack,34,4,136,Cash
+SO-202203-0026,11003,2022-03-30,2022,Central,Online Customer,Desk Supplies,Scissors,3,7,21,Cash
+SO-202204-0001,11004,2022-04-02,2022,West,Wholesale,Desk Supplies,Scissors,52,7,364,Cash
+SO-202204-0002,11005,2022-04-04,2022,Central,Wholesale,Desk Supplies,Stapler,41,9.5,389.5,Credit Card
+SO-202204-0003,11006,2022-04-05,2022,West,Retail Customer,Art Supplies,Glue Sticks,14,4.5,63,E-Wallet
+SO-202204-0004,11007,2022-04-07,2022,Central,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,Cash
+SO-202204-0005,11008,2022-04-08,2022,Central,Online Customer,Writing Supplies,Highlighters,7,6.5,45.5,Credit Card
+SO-202204-0006,11009,2022-04-08,2022,South,Retail Customer,Desk Supplies,Scissors,16,7,112,E-Wallet
+SO-202204-0007,11010,2022-04-10,2022,Central,Wholesale,Writing Supplies,Whiteboard Markers,21,8,168,Cash
+SO-202204-0008,11011,2022-04-10,2022,West,Retail Customer,Writing Supplies,Highlighters,15,6.5,97.5,Credit Card
+SO-202204-0009,11012,2022-04-11,2022,Central,Online Customer,Desk Supplies,Scissors,8,7,56,Cash
+SO-202204-0010,11013,2022-04-12,2022,Central,Wholesale,Art Supplies,Glue Sticks,39,4.5,175.5,E-Wallet
+SO-202204-0011,11014,2022-04-12,2022,West,Online Customer,Paper Products,Notebook,2,3.5,7,Cash
+SO-202204-0012,11015,2022-04-13,2022,East,Wholesale,Desk Supplies,Scissors,23,7,161,Cash
+SO-202204-0013,11016,2022-04-13,2022,North,Online Customer,Writing Supplies,Pencils Pack,1,4,4,Cash
+SO-202204-0014,11017,2022-04-13,2022,West,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,E-Wallet
+SO-202204-0015,11018,2022-04-14,2022,South,Retail Customer,Writing Supplies,Erasers Pack,14,3,42,Credit Card
+SO-202204-0016,11019,2022-04-14,2022,East,Retail Customer,Writing Supplies,Ballpoint Pens,20,5,100,Credit Card
+SO-202204-0017,11020,2022-04-15,2022,North,Wholesale,Writing Supplies,Highlighters,64,6.5,416,Cash
+SO-202204-0018,11021,2022-04-16,2022,North,Wholesale,Art Supplies,Glue Sticks,67,4.5,301.5,Cash
+SO-202204-0019,11022,2022-04-17,2022,West,Online Customer,Writing Supplies,Ballpoint Pens,6,5,30,Credit Card
+SO-202204-0020,11023,2022-04-18,2022,West,Retail Customer,Art Supplies,Glue Sticks,16,4.5,72,Credit Card
+SO-202204-0021,11024,2022-04-19,2022,West,Wholesale,Paper Products,Notebook,79,3.5,276.5,Credit Card
+SO-202204-0022,11025,2022-04-20,2022,Central,Online Customer,Writing Supplies,Erasers Pack,6,3,18,Credit Card
+SO-202204-0023,11026,2022-04-20,2022,South,Online Customer,Writing Supplies,Erasers Pack,4,3,12,Cash
+SO-202204-0024,11027,2022-04-22,2022,North,Online Customer,Writing Supplies,Pencils Pack,6,4,24,Credit Card
+SO-202204-0025,11028,2022-04-24,2022,Central,Wholesale,Writing Supplies,Ballpoint Pens,47,5,235,Credit Card
+SO-202204-0026,11029,2022-04-29,2022,South,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,Credit Card
+SO-202204-0027,11030,2022-04-29,2022,West,Retail Customer,Writing Supplies,Erasers Pack,16,3,48,E-Wallet
+SO-202204-0028,11031,2022-04-30,2022,West,Wholesale,Writing Supplies,Ballpoint Pens,52,5,260,E-Wallet
+SO-202205-0001,11032,2022-05-03,2022,North,Retail Customer,Writing Supplies,Erasers Pack,6,3,18,Cash
+SO-202205-0002,11033,2022-05-03,2022,West,Online Customer,Art Supplies,Glue Sticks,8,4.5,36,Credit Card
+SO-202205-0003,11034,2022-05-11,2022,North,Online Customer,School Bags,Backpack,10,28,280,Credit Card
+SO-202205-0004,11035,2022-05-12,2022,East,Wholesale,Writing Supplies,Pencils Pack,43,4,172,E-Wallet
+SO-202205-0005,11036,2022-05-14,2022,Central,Online Customer,School Bags,Backpack,5,28,140,Credit Card
+SO-202205-0006,11037,2022-05-14,2022,East,Retail Customer,Writing Supplies,Ballpoint Pens,19,5,95,Cash
+SO-202205-0007,11038,2022-05-15,2022,Central,Online Customer,School Bags,Backpack,1,28,28,Cash
+SO-202205-0008,11039,2022-05-15,2022,West,Retail Customer,Writing Supplies,Whiteboard Markers,7,8,56,E-Wallet
+SO-202205-0009,11040,2022-05-16,2022,South,Wholesale,Writing Supplies,Pencils Pack,80,4,320,Credit Card
+SO-202205-0010,11041,2022-05-18,2022,South,Retail Customer,Desk Supplies,Scissors,9,7,63,Cash
+SO-202205-0011,11042,2022-05-19,2022,East,Online Customer,Writing Supplies,Pencils Pack,8,4,32,Cash
+SO-202205-0012,11043,2022-05-21,2022,South,Wholesale,Art Supplies,Glue Sticks,71,4.5,319.5,Credit Card
+SO-202205-0013,11044,2022-05-21,2022,West,Retail Customer,School Bags,Backpack,6,28,168,Cash
+SO-202205-0014,11045,2022-05-21,2022,North,Online Customer,Writing Supplies,Ballpoint Pens,6,5,30,Cash
+SO-202205-0015,11046,2022-05-21,2022,South,Online Customer,Writing Supplies,Ballpoint Pens,1,5,5,Cash
+SO-202205-0016,11047,2022-05-23,2022,North,Online Customer,Writing Supplies,Pencils Pack,8,4,32,Cash
+SO-202205-0017,11048,2022-05-25,2022,East,Online Customer,Desk Supplies,Scissors,2,7,14,E-Wallet
+SO-202205-0018,11049,2022-05-25,2022,Central,Wholesale,Writing Supplies,Erasers Pack,51,3,153,Credit Card
+SO-202205-0019,11050,2022-05-25,2022,South,Retail Customer,Writing Supplies,Pencils Pack,7,4,28,Cash
+SO-202205-0020,11051,2022-05-28,2022,East,Retail Customer,School Bags,Backpack,20,28,560,Credit Card
+SO-202205-0021,11052,2022-05-28,2022,Central,Retail Customer,Writing Supplies,Erasers Pack,6,3,18,Credit Card
+SO-202205-0022,11053,2022-05-29,2022,South,Online Customer,Paper Products,Notebook,5,3.5,17.5,Cash
+SO-202205-0023,11054,2022-05-29,2022,Central,Online Customer,Writing Supplies,Highlighters,6,6.5,39,E-Wallet
+SO-202205-0024,11055,2022-05-30,2022,South,Online Customer,Writing Supplies,Highlighters,10,6.5,65,E-Wallet
+SO-202206-0001,11056,2022-06-03,2022,Central,Online Customer,Desk Supplies,Scissors,7,7,49,E-Wallet
+SO-202206-0002,11057,2022-06-03,2022,Central,Wholesale,Writing Supplies,Erasers Pack,67,3,201,Credit Card
+SO-202206-0003,11058,2022-06-04,2022,East,Online Customer,School Bags,Backpack,8,28,224,E-Wallet
+SO-202206-0004,11059,2022-06-05,2022,North,Online Customer,Writing Supplies,Highlighters,1,6.5,6.5,Cash
+SO-202206-0005,11060,2022-06-05,2022,West,Online Customer,School Bags,Backpack,2,28,56,E-Wallet
+SO-202206-0006,11061,2022-06-06,2022,South,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,Cash
+SO-202206-0007,11062,2022-06-07,2022,North,Online Customer,Art Supplies,Glue Sticks,8,4.5,36,E-Wallet
+SO-202206-0008,11063,2022-06-10,2022,North,Wholesale,Art Supplies,Glue Sticks,34,4.5,153,Cash
+SO-202206-0009,11064,2022-06-10,2022,South,Retail Customer,Writing Supplies,Highlighters,20,6.5,130,Cash
+SO-202206-0010,11065,2022-06-11,2022,North,Retail Customer,Writing Supplies,Erasers Pack,10,3,30,Cash
+SO-202206-0011,11066,2022-06-13,2022,West,Online Customer,Desk Supplies,Stapler,10,9.5,95,E-Wallet
+SO-202206-0012,11067,2022-06-13,2022,West,Online Customer,Writing Supplies,Whiteboard Markers,3,8,24,E-Wallet
+SO-202206-0013,11068,2022-06-14,2022,West,Wholesale,Writing Supplies,Erasers Pack,50,3,150,Cash
+SO-202206-0014,11069,2022-06-14,2022,West,Wholesale,Writing Supplies,Pencils Pack,20,4,80,E-Wallet
+SO-202206-0015,11070,2022-06-18,2022,South,Online Customer,Art Supplies,Glue Sticks,4,4.5,18,Cash
+SO-202206-0016,11071,2022-06-18,2022,South,Wholesale,Writing Supplies,Whiteboard Markers,27,8,216,E-Wallet
+SO-202206-0017,11072,2022-06-18,2022,South,Wholesale,Desk Supplies,Scissors,26,7,182,E-Wallet
+SO-202206-0018,11073,2022-06-19,2022,West,Online Customer,Writing Supplies,Highlighters,4,6.5,26,Cash
+SO-202206-0019,11074,2022-06-19,2022,South,Wholesale,Art Supplies,Glue Sticks,80,4.5,360,E-Wallet
+SO-202206-0020,11075,2022-06-19,2022,Central,Online Customer,Desk Supplies,Stapler,8,9.5,76,Credit Card
+SO-202206-0021,11076,2022-06-20,2022,East,Retail Customer,Writing Supplies,Pencils Pack,5,4,20,Credit Card
+SO-202206-0022,11077,2022-06-21,2022,North,Wholesale,Writing Supplies,Whiteboard Markers,50,8,400,Cash
+SO-202206-0023,11078,2022-06-21,2022,North,Online Customer,Paper Products,Notebook,3,3.5,10.5,Cash
+SO-202206-0024,11079,2022-06-21,2022,East,Retail Customer,Writing Supplies,Pencils Pack,15,4,60,Cash
+SO-202206-0025,11080,2022-06-22,2022,West,Retail Customer,Writing Supplies,Ballpoint Pens,8,5,40,Credit Card
+SO-202206-0026,11081,2022-06-22,2022,North,Retail Customer,Writing Supplies,Erasers Pack,20,3,60,Credit Card
+SO-202206-0027,11082,2022-06-23,2022,North,Wholesale,Desk Supplies,Stapler,48,9.5,456,Cash
+SO-202206-0028,11083,2022-06-23,2022,Central,Online Customer,Writing Supplies,Whiteboard Markers,2,8,16,Credit Card
+SO-202206-0029,11084,2022-06-23,2022,East,Wholesale,School Bags,Backpack,64,28,1792,Cash
+SO-202206-0030,11085,2022-06-23,2022,South,Retail Customer,Desk Supplies,Stapler,19,9.5,180.5,Credit Card
+SO-202206-0031,11086,2022-06-24,2022,Central,Retail Customer,Paper Products,Notebook,18,3.5,63,Cash
+SO-202206-0032,11087,2022-06-24,2022,North,Wholesale,Desk Supplies,Stapler,72,9.5,684,Credit Card
+SO-202206-0033,11088,2022-06-24,2022,Central,Retail Customer,Desk Supplies,Stapler,19,9.5,180.5,Cash
+SO-202206-0034,11089,2022-06-24,2022,South,Wholesale,Art Supplies,Glue Sticks,75,4.5,337.5,Cash
+SO-202206-0035,11090,2022-06-28,2022,East,Retail Customer,Desk Supplies,Stapler,9,9.5,85.5,Cash
+SO-202207-0001,11091,2022-07-01,2022,West,Online Customer,Desk Supplies,Scissors,7,7,49,E-Wallet
+SO-202207-0002,11092,2022-07-01,2022,West,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,E-Wallet
+SO-202207-0003,11093,2022-07-01,2022,North,Retail Customer,School Bags,Backpack,14,28,392,Credit Card
+SO-202207-0004,11094,2022-07-02,2022,North,Online Customer,Desk Supplies,Stapler,3,9.5,28.5,Credit Card
+SO-202207-0005,11095,2022-07-03,2022,Central,Online Customer,Desk Supplies,Scissors,6,7,42,Cash
+SO-202207-0006,11096,2022-07-03,2022,South,Wholesale,Paper Products,Notebook,77,3.5,269.5,E-Wallet
+SO-202207-0007,11097,2022-07-03,2022,East,Wholesale,Art Supplies,Glue Sticks,58,4.5,261,Cash
+SO-202207-0008,11098,2022-07-04,2022,North,Wholesale,Writing Supplies,Ballpoint Pens,46,5,230,Cash
+SO-202207-0009,11099,2022-07-06,2022,West,Retail Customer,Desk Supplies,Stapler,16,9.5,152,E-Wallet
+SO-202207-0010,11100,2022-07-07,2022,West,Retail Customer,Writing Supplies,Whiteboard Markers,5,8,40,Credit Card
+SO-202207-0011,11101,2022-07-07,2022,West,Online Customer,School Bags,Backpack,7,28,196,Credit Card
+SO-202207-0012,11102,2022-07-10,2022,West,Retail Customer,Desk Supplies,Scissors,16,7,112,E-Wallet
+SO-202207-0013,11103,2022-07-12,2022,East,Retail Customer,Desk Supplies,Stapler,8,9.5,76,E-Wallet
+SO-202207-0014,11104,2022-07-13,2022,North,Retail Customer,Desk Supplies,Stapler,17,9.5,161.5,Credit Card
+SO-202207-0015,11105,2022-07-13,2022,West,Wholesale,Writing Supplies,Pencils Pack,32,4,128,E-Wallet
+SO-202207-0016,11106,2022-07-13,2022,West,Retail Customer,Writing Supplies,Whiteboard Markers,15,8,120,Cash
+SO-202207-0017,11107,2022-07-18,2022,Central,Wholesale,Paper Products,Notebook,77,3.5,269.5,Credit Card
+SO-202207-0018,11108,2022-07-21,2022,East,Retail Customer,Writing Supplies,Whiteboard Markers,16,8,128,Credit Card
+SO-202207-0019,11109,2022-07-21,2022,North,Wholesale,Writing Supplies,Highlighters,30,6.5,195,E-Wallet
+SO-202207-0020,11110,2022-07-23,2022,North,Online Customer,Writing Supplies,Ballpoint Pens,10,5,50,Credit Card
+SO-202207-0021,11111,2022-07-23,2022,West,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Credit Card
+SO-202207-0022,11112,2022-07-24,2022,Central,Online Customer,School Bags,Backpack,8,28,224,Cash
+SO-202207-0023,11113,2022-07-25,2022,Central,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,Credit Card
+SO-202207-0024,11114,2022-07-25,2022,West,Retail Customer,Desk Supplies,Stapler,17,9.5,161.5,Credit Card
+SO-202207-0025,11115,2022-07-28,2022,East,Wholesale,Writing Supplies,Ballpoint Pens,59,5,295,Cash
+SO-202207-0026,11116,2022-07-28,2022,Central,Wholesale,Writing Supplies,Whiteboard Markers,28,8,224,Cash
+SO-202207-0027,11117,2022-07-29,2022,North,Wholesale,Writing Supplies,Pencils Pack,76,4,304,Cash
+SO-202207-0028,11118,2022-07-29,2022,West,Wholesale,Writing Supplies,Whiteboard Markers,49,8,392,Cash
+SO-202208-0001,11119,2022-08-01,2022,Central,Retail Customer,Writing Supplies,Highlighters,17,6.5,110.5,Cash
+SO-202208-0002,11120,2022-08-04,2022,Central,Wholesale,Art Supplies,Glue Sticks,70,4.5,315,Credit Card
+SO-202208-0003,11121,2022-08-04,2022,Central,Retail Customer,Writing Supplies,Ballpoint Pens,11,5,55,E-Wallet
+SO-202208-0004,11122,2022-08-04,2022,Central,Wholesale,Writing Supplies,Pencils Pack,30,4,120,E-Wallet
+SO-202208-0005,11123,2022-08-05,2022,East,Retail Customer,Writing Supplies,Ballpoint Pens,9,5,45,E-Wallet
+SO-202208-0006,11124,2022-08-07,2022,Central,Retail Customer,Paper Products,Notebook,20,3.5,70,Cash
+SO-202208-0007,11125,2022-08-10,2022,East,Retail Customer,Paper Products,Notebook,17,3.5,59.5,Credit Card
+SO-202208-0008,11126,2022-08-10,2022,South,Retail Customer,School Bags,Backpack,5,28,140,Credit Card
+SO-202208-0009,11127,2022-08-11,2022,East,Retail Customer,Desk Supplies,Stapler,13,9.5,123.5,E-Wallet
+SO-202208-0010,11128,2022-08-12,2022,North,Wholesale,Desk Supplies,Scissors,46,7,322,E-Wallet
+SO-202208-0011,11129,2022-08-13,2022,East,Wholesale,Writing Supplies,Erasers Pack,61,3,183,Cash
+SO-202208-0012,11130,2022-08-15,2022,East,Wholesale,Art Supplies,Glue Sticks,37,4.5,166.5,E-Wallet
+SO-202208-0013,11131,2022-08-15,2022,North,Online Customer,Desk Supplies,Scissors,1,7,7,Credit Card
+SO-202208-0014,11132,2022-08-17,2022,East,Retail Customer,Writing Supplies,Highlighters,13,6.5,84.5,Credit Card
+SO-202208-0015,11133,2022-08-17,2022,West,Online Customer,Writing Supplies,Pencils Pack,4,4,16,Credit Card
+SO-202208-0016,11134,2022-08-18,2022,South,Wholesale,Writing Supplies,Pencils Pack,46,4,184,Cash
+SO-202208-0017,11135,2022-08-20,2022,Central,Online Customer,School Bags,Backpack,10,28,280,Credit Card
+SO-202208-0018,11136,2022-08-20,2022,North,Retail Customer,Desk Supplies,Stapler,20,9.5,190,E-Wallet
+SO-202208-0019,11137,2022-08-20,2022,West,Retail Customer,Writing Supplies,Highlighters,20,6.5,130,Cash
+SO-202208-0020,11138,2022-08-22,2022,East,Retail Customer,Writing Supplies,Ballpoint Pens,6,5,30,Cash
+SO-202208-0021,11139,2022-08-25,2022,East,Retail Customer,Desk Supplies,Scissors,5,7,35,Cash
+SO-202208-0022,11140,2022-08-27,2022,Central,Wholesale,Desk Supplies,Scissors,75,7,525,E-Wallet
+SO-202208-0023,11141,2022-08-28,2022,East,Wholesale,Art Supplies,Glue Sticks,36,4.5,162,Credit Card
+SO-202208-0024,11142,2022-08-29,2022,West,Retail Customer,Desk Supplies,Scissors,11,7,77,E-Wallet
+SO-202208-0025,11143,2022-08-29,2022,Central,Online Customer,School Bags,Backpack,2,28,56,E-Wallet
+SO-202208-0026,11144,2022-08-30,2022,Central,Online Customer,Writing Supplies,Pencils Pack,7,4,28,Credit Card
+SO-202208-0027,11145,2022-08-31,2022,West,Wholesale,Writing Supplies,Ballpoint Pens,66,5,330,Cash
+SO-202209-0001,11146,2022-09-01,2022,East,Online Customer,Writing Supplies,Pencils Pack,10,4,40,Credit Card
+SO-202209-0002,11147,2022-09-04,2022,South,Online Customer,Desk Supplies,Stapler,4,9.5,38,Cash
+SO-202209-0003,11148,2022-09-04,2022,South,Online Customer,Desk Supplies,Scissors,8,7,56,Cash
+SO-202209-0004,11149,2022-09-04,2022,West,Wholesale,Desk Supplies,Stapler,37,9.5,351.5,Cash
+SO-202209-0005,11150,2022-09-06,2022,East,Online Customer,Writing Supplies,Pencils Pack,5,4,20,Credit Card
+SO-202209-0006,11151,2022-09-09,2022,South,Wholesale,Writing Supplies,Erasers Pack,47,3,141,Cash
+SO-202209-0007,11152,2022-09-10,2022,South,Wholesale,Desk Supplies,Scissors,25,7,175,E-Wallet
+SO-202209-0008,11153,2022-09-11,2022,South,Retail Customer,Writing Supplies,Highlighters,10,6.5,65,Cash
+SO-202209-0009,11154,2022-09-12,2022,North,Online Customer,Desk Supplies,Stapler,4,9.5,38,Cash
+SO-202209-0010,11155,2022-09-13,2022,Central,Wholesale,Writing Supplies,Ballpoint Pens,65,5,325,E-Wallet
+SO-202209-0011,11156,2022-09-14,2022,West,Retail Customer,Art Supplies,Glue Sticks,8,4.5,36,Cash
+SO-202209-0012,11157,2022-09-16,2022,West,Online Customer,School Bags,Backpack,6,28,168,Cash
+SO-202209-0013,11158,2022-09-16,2022,East,Wholesale,Writing Supplies,Highlighters,36,6.5,234,E-Wallet
+SO-202209-0014,11159,2022-09-17,2022,South,Retail Customer,Desk Supplies,Stapler,19,9.5,180.5,Credit Card
+SO-202209-0015,11160,2022-09-18,2022,East,Wholesale,Paper Products,Notebook,66,3.5,231,Cash
+SO-202209-0016,11161,2022-09-18,2022,Central,Wholesale,School Bags,Backpack,24,28,672,E-Wallet
+SO-202209-0017,11162,2022-09-20,2022,East,Online Customer,Paper Products,Notebook,2,3.5,7,Cash
+SO-202209-0018,11163,2022-09-23,2022,South,Retail Customer,Desk Supplies,Scissors,20,7,140,Cash
+SO-202209-0019,11164,2022-09-23,2022,Central,Retail Customer,Paper Products,Notebook,17,3.5,59.5,Credit Card
+SO-202209-0020,11165,2022-09-25,2022,Central,Retail Customer,School Bags,Backpack,10,28,280,Cash
+SO-202209-0021,11166,2022-09-25,2022,Central,Online Customer,Writing Supplies,Pencils Pack,2,4,8,E-Wallet
+SO-202209-0022,11167,2022-09-26,2022,Central,Wholesale,Writing Supplies,Whiteboard Markers,68,8,544,Credit Card
+SO-202209-0023,11168,2022-09-26,2022,Central,Retail Customer,Desk Supplies,Stapler,12,9.5,114,Credit Card
+SO-202209-0024,11169,2022-09-27,2022,West,Retail Customer,Desk Supplies,Stapler,16,9.5,152,Cash
+SO-202209-0025,11170,2022-09-28,2022,East,Wholesale,Art Supplies,Glue Sticks,67,4.5,301.5,Cash
+SO-202209-0026,11171,2022-09-30,2022,East,Wholesale,Desk Supplies,Scissors,73,7,511,Cash
+SO-202210-0001,11172,2022-10-01,2022,North,Retail Customer,Writing Supplies,Highlighters,14,6.5,91,E-Wallet
+SO-202210-0002,11173,2022-10-02,2022,South,Wholesale,Paper Products,Notebook,40,3.5,140,Cash
+SO-202210-0003,11174,2022-10-03,2022,Central,Retail Customer,Writing Supplies,Pencils Pack,6,4,24,Cash
+SO-202210-0004,11175,2022-10-05,2022,West,Retail Customer,Writing Supplies,Highlighters,19,6.5,123.5,Cash
+SO-202210-0005,11176,2022-10-05,2022,Central,Retail Customer,Writing Supplies,Erasers Pack,11,3,33,E-Wallet
+SO-202210-0006,11177,2022-10-06,2022,North,Wholesale,Paper Products,Notebook,77,3.5,269.5,Cash
+SO-202210-0007,11178,2022-10-07,2022,South,Online Customer,Writing Supplies,Erasers Pack,6,3,18,E-Wallet
+SO-202210-0008,11179,2022-10-11,2022,North,Retail Customer,Writing Supplies,Highlighters,14,6.5,91,Cash
+SO-202210-0009,11180,2022-10-11,2022,Central,Retail Customer,Writing Supplies,Pencils Pack,14,4,56,E-Wallet
+SO-202210-0010,11181,2022-10-11,2022,North,Wholesale,Writing Supplies,Pencils Pack,41,4,164,E-Wallet
+SO-202210-0011,11182,2022-10-11,2022,South,Online Customer,Writing Supplies,Highlighters,9,6.5,58.5,Credit Card
+SO-202210-0012,11183,2022-10-12,2022,Central,Online Customer,Desk Supplies,Stapler,6,9.5,57,Credit Card
+SO-202210-0013,11184,2022-10-13,2022,East,Retail Customer,Writing Supplies,Highlighters,9,6.5,58.5,E-Wallet
+SO-202210-0014,11185,2022-10-14,2022,Central,Online Customer,Writing Supplies,Erasers Pack,8,3,24,E-Wallet
+SO-202210-0015,11186,2022-10-16,2022,West,Retail Customer,Desk Supplies,Stapler,8,9.5,76,Credit Card
+SO-202210-0016,11187,2022-10-17,2022,South,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,E-Wallet
+SO-202210-0017,11188,2022-10-17,2022,South,Wholesale,Art Supplies,Glue Sticks,24,4.5,108,Credit Card
+SO-202210-0018,11189,2022-10-19,2022,Central,Online Customer,Paper Products,Notebook,10,3.5,35,Cash
+SO-202210-0019,11190,2022-10-19,2022,East,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,Credit Card
+SO-202210-0020,11191,2022-10-20,2022,Central,Wholesale,Writing Supplies,Whiteboard Markers,44,8,352,Cash
+SO-202210-0021,11192,2022-10-22,2022,West,Retail Customer,Writing Supplies,Ballpoint Pens,20,5,100,Credit Card
+SO-202210-0022,11193,2022-10-24,2022,West,Wholesale,Desk Supplies,Stapler,47,9.5,446.5,Cash
+SO-202210-0023,11194,2022-10-24,2022,North,Retail Customer,School Bags,Backpack,7,28,196,Cash
+SO-202210-0024,11195,2022-10-24,2022,North,Retail Customer,Writing Supplies,Highlighters,14,6.5,91,Cash
+SO-202210-0025,11196,2022-10-25,2022,West,Wholesale,Writing Supplies,Pencils Pack,54,4,216,E-Wallet
+SO-202210-0026,11197,2022-10-26,2022,South,Online Customer,Desk Supplies,Scissors,2,7,14,Credit Card
+SO-202210-0027,11198,2022-10-27,2022,West,Online Customer,Writing Supplies,Ballpoint Pens,2,5,10,Cash
+SO-202210-0028,11199,2022-10-31,2022,North,Online Customer,Desk Supplies,Scissors,5,7,35,Cash
+SO-202210-0029,11200,2022-10-31,2022,South,Online Customer,School Bags,Backpack,2,28,56,E-Wallet
+SO-202211-0001,11201,2022-11-03,2022,East,Online Customer,Writing Supplies,Highlighters,9,6.5,58.5,Credit Card
+SO-202211-0002,11202,2022-11-04,2022,North,Retail Customer,Paper Products,Notebook,15,3.5,52.5,Credit Card
+SO-202211-0003,11203,2022-11-04,2022,West,Wholesale,Art Supplies,Glue Sticks,74,4.5,333,E-Wallet
+SO-202211-0004,11204,2022-11-05,2022,West,Online Customer,Writing Supplies,Whiteboard Markers,3,8,24,Cash
+SO-202211-0005,11205,2022-11-05,2022,East,Online Customer,Desk Supplies,Stapler,6,9.5,57,Credit Card
+SO-202211-0006,11206,2022-11-05,2022,South,Online Customer,Writing Supplies,Ballpoint Pens,10,5,50,Credit Card
+SO-202211-0007,11207,2022-11-07,2022,East,Online Customer,Writing Supplies,Highlighters,10,6.5,65,Cash
+SO-202211-0008,11208,2022-11-07,2022,Central,Retail Customer,Writing Supplies,Erasers Pack,17,3,51,E-Wallet
+SO-202211-0009,11209,2022-11-08,2022,East,Retail Customer,Paper Products,Notebook,20,3.5,70,E-Wallet
+SO-202211-0010,11210,2022-11-12,2022,West,Online Customer,Writing Supplies,Erasers Pack,1,3,3,E-Wallet
+SO-202211-0011,11211,2022-11-13,2022,West,Online Customer,School Bags,Backpack,6,28,168,Credit Card
+SO-202211-0012,11212,2022-11-13,2022,South,Retail Customer,Art Supplies,Glue Sticks,12,4.5,54,Cash
+SO-202211-0013,11213,2022-11-14,2022,East,Online Customer,School Bags,Backpack,3,28,84,Cash
+SO-202211-0014,11214,2022-11-15,2022,North,Retail Customer,Art Supplies,Glue Sticks,18,4.5,81,Credit Card
+SO-202211-0015,11215,2022-11-18,2022,South,Wholesale,Writing Supplies,Ballpoint Pens,66,5,330,Credit Card
+SO-202211-0016,11216,2022-11-19,2022,Central,Online Customer,Desk Supplies,Scissors,5,7,35,E-Wallet
+SO-202211-0017,11217,2022-11-20,2022,East,Wholesale,Paper Products,Notebook,41,3.5,143.5,Cash
+SO-202211-0018,11218,2022-11-21,2022,East,Wholesale,Paper Products,Notebook,23,3.5,80.5,E-Wallet
+SO-202211-0019,11219,2022-11-21,2022,East,Retail Customer,Paper Products,Notebook,6,3.5,21,E-Wallet
+SO-202211-0020,11220,2022-11-23,2022,West,Retail Customer,Paper Products,Notebook,18,3.5,63,Credit Card
+SO-202211-0021,11221,2022-11-23,2022,Central,Online Customer,Writing Supplies,Ballpoint Pens,1,5,5,Credit Card
+SO-202211-0022,11222,2022-11-23,2022,South,Retail Customer,Writing Supplies,Whiteboard Markers,12,8,96,Cash
+SO-202211-0023,11223,2022-11-25,2022,East,Online Customer,Art Supplies,Glue Sticks,2,4.5,9,E-Wallet
+SO-202211-0024,11224,2022-11-26,2022,West,Online Customer,Desk Supplies,Scissors,10,7,70,Cash
+SO-202211-0025,11225,2022-11-26,2022,East,Wholesale,Writing Supplies,Highlighters,77,6.5,500.5,Credit Card
+SO-202211-0026,11226,2022-11-28,2022,Central,Retail Customer,Writing Supplies,Whiteboard Markers,19,8,152,Cash
+SO-202211-0027,11227,2022-11-30,2022,Central,Wholesale,Desk Supplies,Stapler,53,9.5,503.5,Cash
+SO-202211-0028,11228,2022-11-30,2022,West,Retail Customer,Writing Supplies,Erasers Pack,15,3,45,Credit Card
+SO-202212-0001,11229,2022-12-03,2022,East,Retail Customer,Writing Supplies,Ballpoint Pens,14,5,70,Cash
+SO-202212-0002,11230,2022-12-03,2022,North,Online Customer,Writing Supplies,Ballpoint Pens,5,5,25,E-Wallet
+SO-202212-0003,11231,2022-12-04,2022,Central,Online Customer,Writing Supplies,Erasers Pack,1,3,3,Cash
+SO-202212-0004,11232,2022-12-04,2022,Central,Wholesale,Paper Products,Notebook,62,3.5,217,Cash
+SO-202212-0005,11233,2022-12-06,2022,North,Wholesale,Writing Supplies,Highlighters,70,6.5,455,E-Wallet
+SO-202212-0006,11234,2022-12-08,2022,North,Retail Customer,Art Supplies,Glue Sticks,12,4.5,54,E-Wallet
+SO-202212-0007,11235,2022-12-08,2022,West,Retail Customer,Desk Supplies,Stapler,9,9.5,85.5,Cash
+SO-202212-0008,11236,2022-12-08,2022,North,Online Customer,Desk Supplies,Scissors,7,7,49,Credit Card
+SO-202212-0009,11237,2022-12-09,2022,Central,Retail Customer,Writing Supplies,Highlighters,15,6.5,97.5,E-Wallet
+SO-202212-0010,11238,2022-12-10,2022,West,Retail Customer,Writing Supplies,Pencils Pack,13,4,52,Cash
+SO-202212-0011,11239,2022-12-10,2022,Central,Retail Customer,School Bags,Backpack,9,28,252,Credit Card
+SO-202212-0012,11240,2022-12-15,2022,East,Wholesale,Writing Supplies,Highlighters,76,6.5,494,E-Wallet
+SO-202212-0013,11241,2022-12-15,2022,North,Retail Customer,Writing Supplies,Whiteboard Markers,10,8,80,Cash
+SO-202212-0014,11242,2022-12-16,2022,North,Online Customer,Writing Supplies,Ballpoint Pens,3,5,15,Credit Card
+SO-202212-0015,11243,2022-12-16,2022,Central,Online Customer,Writing Supplies,Whiteboard Markers,3,8,24,Cash
+SO-202212-0016,11244,2022-12-16,2022,West,Retail Customer,Paper Products,Notebook,13,3.5,45.5,Credit Card
+SO-202212-0017,11245,2022-12-17,2022,South,Retail Customer,Writing Supplies,Ballpoint Pens,14,5,70,Credit Card
+SO-202212-0018,11246,2022-12-17,2022,West,Wholesale,Writing Supplies,Erasers Pack,52,3,156,Cash
+SO-202212-0019,11247,2022-12-18,2022,East,Online Customer,Art Supplies,Glue Sticks,5,4.5,22.5,Cash
+SO-202212-0020,11248,2022-12-18,2022,West,Online Customer,Writing Supplies,Ballpoint Pens,1,5,5,Cash
+SO-202212-0021,11249,2022-12-19,2022,East,Wholesale,Writing Supplies,Pencils Pack,40,4,160,E-Wallet
+SO-202212-0022,11250,2022-12-19,2022,Central,Wholesale,Desk Supplies,Stapler,70,9.5,665,Cash
+SO-202212-0023,11251,2022-12-19,2022,East,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Cash
+SO-202212-0024,11252,2022-12-19,2022,East,Retail Customer,Writing Supplies,Pencils Pack,10,4,40,Cash
+SO-202212-0025,11253,2022-12-19,2022,North,Wholesale,Writing Supplies,Pencils Pack,69,4,276,Cash
+SO-202212-0026,11254,2022-12-20,2022,East,Online Customer,Paper Products,Notebook,1,3.5,3.5,Cash
+SO-202212-0027,11255,2022-12-24,2022,South,Wholesale,Desk Supplies,Scissors,39,7,273,E-Wallet
+SO-202212-0028,11256,2022-12-24,2022,Central,Retail Customer,Writing Supplies,Pencils Pack,5,4,20,E-Wallet
+SO-202212-0029,11257,2022-12-25,2022,East,Wholesale,Desk Supplies,Stapler,67,9.5,636.5,Credit Card
+SO-202212-0030,11258,2022-12-27,2022,West,Retail Customer,Art Supplies,Glue Sticks,13,4.5,58.5,Cash
+SO-202212-0031,11259,2022-12-27,2022,East,Retail Customer,Art Supplies,Glue Sticks,18,4.5,81,E-Wallet
+SO-202212-0032,11260,2022-12-28,2022,West,Online Customer,Writing Supplies,Erasers Pack,3,3,9,E-Wallet
+SO-202212-0033,11261,2022-12-30,2022,West,Wholesale,Writing Supplies,Pencils Pack,38,4,152,E-Wallet
+SO-202212-0034,11262,2022-12-31,2022,West,Retail Customer,Writing Supplies,Highlighters,16,6.5,104,E-Wallet
+SO-202301-0001,11263,2023-01-01,2023,Central,Wholesale,School Bags,Backpack,41,28,1148,E-Wallet
+SO-202301-0002,11264,2023-01-02,2023,West,Wholesale,Paper Products,Notebook,57,3.5,199.5,Cash
+SO-202301-0003,11265,2023-01-02,2023,West,Retail Customer,Writing Supplies,Erasers Pack,8,3,24,E-Wallet
+SO-202301-0004,11266,2023-01-06,2023,West,Retail Customer,Desk Supplies,Stapler,7,9.5,66.5,E-Wallet
+SO-202301-0005,11267,2023-01-07,2023,North,Wholesale,Writing Supplies,Pencils Pack,53,4,212,Credit Card
+SO-202301-0006,11268,2023-01-07,2023,North,Wholesale,Paper Products,Notebook,40,3.5,140,Credit Card
+SO-202301-0007,11269,2023-01-07,2023,South,Retail Customer,Desk Supplies,Stapler,11,9.5,104.5,Cash
+SO-202301-0008,11270,2023-01-08,2023,North,Online Customer,Writing Supplies,Erasers Pack,1,3,3,Credit Card
+SO-202301-0009,11271,2023-01-10,2023,Central,Wholesale,Writing Supplies,Highlighters,53,6.5,344.5,E-Wallet
+SO-202301-0010,11272,2023-01-11,2023,North,Retail Customer,Desk Supplies,Stapler,13,9.5,123.5,Cash
+SO-202301-0011,11273,2023-01-12,2023,North,Wholesale,Paper Products,Notebook,23,3.5,80.5,E-Wallet
+SO-202301-0012,11274,2023-01-16,2023,East,Online Customer,School Bags,Backpack,8,28,224,E-Wallet
+SO-202301-0013,11275,2023-01-18,2023,North,Retail Customer,Art Supplies,Glue Sticks,8,4.5,36,Credit Card
+SO-202301-0014,11276,2023-01-19,2023,South,Retail Customer,Writing Supplies,Erasers Pack,9,3,27,E-Wallet
+SO-202301-0015,11277,2023-01-19,2023,West,Retail Customer,Paper Products,Notebook,13,3.5,45.5,Cash
+SO-202301-0016,11278,2023-01-20,2023,West,Wholesale,Desk Supplies,Scissors,61,7,427,Cash
+SO-202301-0017,11279,2023-01-21,2023,East,Retail Customer,Writing Supplies,Ballpoint Pens,5,5,25,E-Wallet
+SO-202301-0018,11280,2023-01-21,2023,East,Retail Customer,Desk Supplies,Stapler,14,9.5,133,E-Wallet
+SO-202301-0019,11281,2023-01-21,2023,Central,Retail Customer,School Bags,Backpack,5,28,140,Credit Card
+SO-202301-0020,11282,2023-01-22,2023,North,Online Customer,Writing Supplies,Highlighters,1,6.5,6.5,E-Wallet
+SO-202301-0021,11283,2023-01-23,2023,East,Retail Customer,School Bags,Backpack,18,28,504,E-Wallet
+SO-202301-0022,11284,2023-01-23,2023,North,Online Customer,Desk Supplies,Scissors,4,7,28,Cash
+SO-202301-0023,11285,2023-01-24,2023,South,Wholesale,Writing Supplies,Erasers Pack,75,3,225,E-Wallet
+SO-202301-0024,11286,2023-01-26,2023,West,Wholesale,Writing Supplies,Whiteboard Markers,80,8,640,Credit Card
+SO-202301-0025,11287,2023-01-26,2023,West,Retail Customer,Writing Supplies,Whiteboard Markers,16,8,128,Cash
+SO-202301-0026,11288,2023-01-28,2023,South,Wholesale,Desk Supplies,Stapler,30,9.5,285,Cash
+SO-202301-0027,11289,2023-01-31,2023,South,Online Customer,Paper Products,Notebook,3,3.5,10.5,Cash
+SO-202302-0001,11290,2023-02-02,2023,Central,Wholesale,Writing Supplies,Ballpoint Pens,61,5,305,E-Wallet
+SO-202302-0002,11291,2023-02-03,2023,East,Wholesale,Writing Supplies,Pencils Pack,80,4,320,Cash
+SO-202302-0003,11292,2023-02-03,2023,North,Retail Customer,School Bags,Backpack,9,28,252,E-Wallet
+SO-202302-0004,11293,2023-02-05,2023,North,Online Customer,Desk Supplies,Scissors,3,7,21,Cash
+SO-202302-0005,11294,2023-02-08,2023,Central,Wholesale,Desk Supplies,Scissors,74,7,518,E-Wallet
+SO-202302-0006,11295,2023-02-08,2023,West,Wholesale,Writing Supplies,Ballpoint Pens,47,5,235,E-Wallet
+SO-202302-0007,11296,2023-02-09,2023,East,Retail Customer,Writing Supplies,Erasers Pack,18,3,54,Credit Card
+SO-202302-0008,11297,2023-02-13,2023,Central,Retail Customer,Writing Supplies,Highlighters,13,6.5,84.5,E-Wallet
+SO-202302-0009,11298,2023-02-13,2023,South,Retail Customer,Writing Supplies,Pencils Pack,19,4,76,Credit Card
+SO-202302-0010,11299,2023-02-14,2023,South,Online Customer,Writing Supplies,Whiteboard Markers,1,8,8,E-Wallet
+SO-202302-0011,11300,2023-02-15,2023,East,Retail Customer,Writing Supplies,Ballpoint Pens,17,5,85,Credit Card
+SO-202302-0012,11301,2023-02-15,2023,North,Retail Customer,School Bags,Backpack,11,28,308,Cash
+SO-202302-0013,11302,2023-02-16,2023,West,Retail Customer,Art Supplies,Glue Sticks,15,4.5,67.5,Cash
+SO-202302-0014,11303,2023-02-16,2023,West,Online Customer,Paper Products,Notebook,4,3.5,14,Cash
+SO-202302-0015,11304,2023-02-17,2023,West,Wholesale,Writing Supplies,Highlighters,29,6.5,188.5,Cash
+SO-202302-0016,11305,2023-02-18,2023,South,Online Customer,Paper Products,Notebook,1,3.5,3.5,E-Wallet
+SO-202302-0017,11306,2023-02-19,2023,West,Retail Customer,Paper Products,Notebook,6,3.5,21,E-Wallet
+SO-202302-0018,11307,2023-02-20,2023,South,Online Customer,Writing Supplies,Pencils Pack,1,4,4,Cash
+SO-202302-0019,11308,2023-02-20,2023,West,Wholesale,Desk Supplies,Stapler,33,9.5,313.5,E-Wallet
+SO-202302-0020,11309,2023-02-21,2023,Central,Wholesale,Writing Supplies,Pencils Pack,53,4,212,Credit Card
+SO-202302-0021,11310,2023-02-23,2023,West,Online Customer,Writing Supplies,Erasers Pack,7,3,21,E-Wallet
+SO-202303-0001,11311,2023-03-01,2023,East,Retail Customer,School Bags,Backpack,18,28,504,E-Wallet
+SO-202303-0002,11312,2023-03-02,2023,West,Retail Customer,Desk Supplies,Scissors,16,7,112,Cash
+SO-202303-0003,11313,2023-03-02,2023,North,Retail Customer,Writing Supplies,Whiteboard Markers,17,8,136,Credit Card
+SO-202303-0004,11314,2023-03-04,2023,West,Wholesale,School Bags,Backpack,61,28,1708,Cash
+SO-202303-0005,11315,2023-03-04,2023,North,Wholesale,Writing Supplies,Whiteboard Markers,56,8,448,Credit Card
+SO-202303-0006,11316,2023-03-05,2023,North,Wholesale,Paper Products,Notebook,39,3.5,136.5,Credit Card
+SO-202303-0007,11317,2023-03-08,2023,West,Wholesale,School Bags,Backpack,50,28,1400,Cash
+SO-202303-0008,11318,2023-03-08,2023,North,Online Customer,Paper Products,Notebook,10,3.5,35,E-Wallet
+SO-202303-0009,11319,2023-03-08,2023,South,Retail Customer,Desk Supplies,Scissors,8,7,56,E-Wallet
+SO-202303-0010,11320,2023-03-09,2023,East,Online Customer,Writing Supplies,Pencils Pack,6,4,24,E-Wallet
+SO-202303-0011,11321,2023-03-09,2023,East,Online Customer,Paper Products,Notebook,8,3.5,28,E-Wallet
+SO-202303-0012,11322,2023-03-10,2023,North,Retail Customer,Writing Supplies,Whiteboard Markers,12,8,96,E-Wallet
+SO-202303-0013,11323,2023-03-11,2023,Central,Wholesale,Writing Supplies,Ballpoint Pens,50,5,250,Credit Card
+SO-202303-0014,11324,2023-03-12,2023,North,Retail Customer,Paper Products,Notebook,7,3.5,24.5,Cash
+SO-202303-0015,11325,2023-03-13,2023,North,Wholesale,Writing Supplies,Pencils Pack,74,4,296,Cash
+SO-202303-0016,11326,2023-03-15,2023,Central,Online Customer,Writing Supplies,Erasers Pack,1,3,3,E-Wallet
+SO-202303-0017,11327,2023-03-15,2023,East,Wholesale,Desk Supplies,Stapler,51,9.5,484.5,Cash
+SO-202303-0018,11328,2023-03-15,2023,Central,Wholesale,Paper Products,Notebook,30,3.5,105,Cash
+SO-202303-0019,11329,2023-03-18,2023,North,Wholesale,Desk Supplies,Stapler,76,9.5,722,E-Wallet
+SO-202303-0020,11330,2023-03-19,2023,South,Online Customer,Paper Products,Notebook,2,3.5,7,Credit Card
+SO-202303-0021,11331,2023-03-19,2023,West,Wholesale,Paper Products,Notebook,32,3.5,112,Cash
+SO-202303-0022,11332,2023-03-19,2023,West,Online Customer,Paper Products,Notebook,6,3.5,21,Credit Card
+SO-202303-0023,11333,2023-03-24,2023,South,Wholesale,Art Supplies,Glue Sticks,47,4.5,211.5,E-Wallet
+SO-202303-0024,11334,2023-03-25,2023,North,Online Customer,Writing Supplies,Ballpoint Pens,6,5,30,Credit Card
+SO-202303-0025,11335,2023-03-26,2023,West,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,Cash
+SO-202303-0026,11336,2023-03-30,2023,Central,Online Customer,Writing Supplies,Highlighters,7,6.5,45.5,E-Wallet
+SO-202303-0027,11337,2023-03-30,2023,Central,Retail Customer,Paper Products,Notebook,5,3.5,17.5,Cash
+SO-202303-0028,11338,2023-03-30,2023,West,Retail Customer,Desk Supplies,Scissors,18,7,126,E-Wallet
+SO-202303-0029,11339,2023-03-30,2023,Central,Wholesale,Writing Supplies,Highlighters,23,6.5,149.5,E-Wallet
+SO-202303-0030,11340,2023-03-30,2023,East,Retail Customer,Writing Supplies,Highlighters,15,6.5,97.5,E-Wallet
+SO-202303-0031,11341,2023-03-31,2023,East,Online Customer,School Bags,Backpack,7,28,196,E-Wallet
+SO-202304-0001,11342,2023-04-02,2023,North,Online Customer,Paper Products,Notebook,10,3.5,35,Cash
+SO-202304-0002,11343,2023-04-03,2023,Central,Wholesale,Writing Supplies,Highlighters,59,6.5,383.5,E-Wallet
+SO-202304-0003,11344,2023-04-03,2023,Central,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,Cash
+SO-202304-0004,11345,2023-04-03,2023,Central,Retail Customer,Writing Supplies,Ballpoint Pens,13,5,65,E-Wallet
+SO-202304-0005,11346,2023-04-04,2023,West,Wholesale,Writing Supplies,Pencils Pack,41,4,164,Cash
+SO-202304-0006,11347,2023-04-05,2023,North,Wholesale,Writing Supplies,Whiteboard Markers,30,8,240,Credit Card
+SO-202304-0007,11348,2023-04-06,2023,West,Retail Customer,Writing Supplies,Erasers Pack,16,3,48,Credit Card
+SO-202304-0008,11349,2023-04-06,2023,South,Wholesale,School Bags,Backpack,47,28,1316,Credit Card
+SO-202304-0009,11350,2023-04-06,2023,North,Retail Customer,Writing Supplies,Ballpoint Pens,17,5,85,Cash
+SO-202304-0010,11351,2023-04-06,2023,North,Online Customer,Paper Products,Notebook,1,3.5,3.5,Credit Card
+SO-202304-0011,11352,2023-04-07,2023,East,Retail Customer,Desk Supplies,Scissors,18,7,126,Cash
+SO-202304-0012,11353,2023-04-11,2023,North,Retail Customer,Writing Supplies,Whiteboard Markers,18,8,144,E-Wallet
+SO-202304-0013,11354,2023-04-13,2023,West,Online Customer,Desk Supplies,Scissors,4,7,28,E-Wallet
+SO-202304-0014,11355,2023-04-13,2023,North,Online Customer,Writing Supplies,Ballpoint Pens,2,5,10,Credit Card
+SO-202304-0015,11356,2023-04-15,2023,South,Online Customer,Paper Products,Notebook,9,3.5,31.5,Cash
+SO-202304-0016,11357,2023-04-17,2023,East,Wholesale,Writing Supplies,Whiteboard Markers,26,8,208,E-Wallet
+SO-202304-0017,11358,2023-04-20,2023,West,Online Customer,Paper Products,Notebook,2,3.5,7,Credit Card
+SO-202304-0018,11359,2023-04-20,2023,North,Retail Customer,Writing Supplies,Pencils Pack,15,4,60,Cash
+SO-202304-0019,11360,2023-04-20,2023,South,Online Customer,Writing Supplies,Whiteboard Markers,5,8,40,E-Wallet
+SO-202304-0020,11361,2023-04-23,2023,North,Online Customer,Writing Supplies,Whiteboard Markers,1,8,8,Cash
+SO-202304-0021,11362,2023-04-23,2023,North,Wholesale,School Bags,Backpack,44,28,1232,Cash
+SO-202304-0022,11363,2023-04-23,2023,South,Online Customer,Writing Supplies,Pencils Pack,3,4,12,Cash
+SO-202304-0023,11364,2023-04-24,2023,West,Retail Customer,Desk Supplies,Stapler,15,9.5,142.5,E-Wallet
+SO-202304-0024,11365,2023-04-24,2023,West,Online Customer,Writing Supplies,Pencils Pack,1,4,4,Cash
+SO-202304-0025,11366,2023-04-25,2023,East,Wholesale,Writing Supplies,Erasers Pack,32,3,96,Credit Card
+SO-202304-0026,11367,2023-04-25,2023,Central,Retail Customer,Writing Supplies,Highlighters,11,6.5,71.5,Cash
+SO-202304-0027,11368,2023-04-29,2023,South,Retail Customer,Paper Products,Notebook,9,3.5,31.5,E-Wallet
+SO-202304-0028,11369,2023-04-29,2023,Central,Retail Customer,School Bags,Backpack,6,28,168,Credit Card
+SO-202304-0029,11370,2023-04-29,2023,Central,Wholesale,Desk Supplies,Scissors,78,7,546,Cash
+SO-202304-0030,11371,2023-04-30,2023,South,Online Customer,Paper Products,Notebook,7,3.5,24.5,Credit Card
+SO-202304-0031,11372,2023-04-30,2023,South,Retail Customer,Writing Supplies,Highlighters,8,6.5,52,E-Wallet
+SO-202305-0001,11373,2023-05-01,2023,South,Retail Customer,Desk Supplies,Scissors,11,7,77,E-Wallet
+SO-202305-0002,11374,2023-05-01,2023,East,Online Customer,Writing Supplies,Whiteboard Markers,1,8,8,E-Wallet
+SO-202305-0003,11375,2023-05-13,2023,West,Wholesale,Desk Supplies,Stapler,21,9.5,199.5,Credit Card
+SO-202305-0004,11376,2023-05-13,2023,North,Wholesale,Writing Supplies,Whiteboard Markers,46,8,368,Credit Card
+SO-202305-0005,11377,2023-05-15,2023,South,Wholesale,School Bags,Backpack,42,28,1176,E-Wallet
+SO-202305-0006,11378,2023-05-17,2023,West,Retail Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Credit Card
+SO-202305-0007,11379,2023-05-17,2023,North,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,E-Wallet
+SO-202305-0008,11380,2023-05-19,2023,North,Retail Customer,Writing Supplies,Ballpoint Pens,18,5,90,E-Wallet
+SO-202305-0009,11381,2023-05-20,2023,North,Wholesale,Paper Products,Notebook,42,3.5,147,Credit Card
+SO-202305-0010,11382,2023-05-20,2023,West,Online Customer,Paper Products,Notebook,9,3.5,31.5,E-Wallet
+SO-202305-0011,11383,2023-05-22,2023,East,Online Customer,Writing Supplies,Pencils Pack,5,4,20,Credit Card
+SO-202305-0012,11384,2023-05-23,2023,East,Online Customer,School Bags,Backpack,3,28,84,Credit Card
+SO-202305-0013,11385,2023-05-23,2023,South,Wholesale,School Bags,Backpack,38,28,1064,Cash
+SO-202305-0014,11386,2023-05-24,2023,North,Wholesale,Writing Supplies,Whiteboard Markers,61,8,488,Credit Card
+SO-202305-0015,11387,2023-05-26,2023,Central,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,Cash
+SO-202305-0016,11388,2023-05-27,2023,West,Wholesale,Writing Supplies,Erasers Pack,78,3,234,Credit Card
+SO-202305-0017,11389,2023-05-28,2023,West,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Credit Card
+SO-202305-0018,11390,2023-05-29,2023,West,Retail Customer,Desk Supplies,Stapler,5,9.5,47.5,Credit Card
+SO-202305-0019,11391,2023-05-29,2023,West,Online Customer,Writing Supplies,Whiteboard Markers,2,8,16,Credit Card
+SO-202305-0020,11392,2023-05-30,2023,South,Online Customer,Writing Supplies,Highlighters,8,6.5,52,E-Wallet
+SO-202305-0021,11393,2023-05-31,2023,East,Retail Customer,Writing Supplies,Highlighters,20,6.5,130,E-Wallet
+SO-202306-0001,11394,2023-06-01,2023,North,Wholesale,Writing Supplies,Ballpoint Pens,62,5,310,Credit Card
+SO-202306-0002,11395,2023-06-01,2023,North,Retail Customer,Desk Supplies,Stapler,5,9.5,47.5,Credit Card
+SO-202306-0003,11396,2023-06-01,2023,East,Online Customer,Writing Supplies,Erasers Pack,9,3,27,Credit Card
+SO-202306-0004,11397,2023-06-03,2023,West,Wholesale,Writing Supplies,Highlighters,26,6.5,169,E-Wallet
+SO-202306-0005,11398,2023-06-03,2023,West,Wholesale,Desk Supplies,Stapler,35,9.5,332.5,Cash
+SO-202306-0006,11399,2023-06-05,2023,West,Wholesale,Paper Products,Notebook,80,3.5,280,Credit Card
+SO-202306-0007,11400,2023-06-05,2023,West,Retail Customer,Art Supplies,Glue Sticks,17,4.5,76.5,E-Wallet
+SO-202306-0008,11401,2023-06-09,2023,Central,Retail Customer,Writing Supplies,Erasers Pack,10,3,30,Cash
+SO-202306-0009,11402,2023-06-10,2023,Central,Wholesale,Writing Supplies,Pencils Pack,52,4,208,E-Wallet
+SO-202306-0010,11403,2023-06-10,2023,West,Wholesale,Writing Supplies,Pencils Pack,53,4,212,Cash
+SO-202306-0011,11404,2023-06-11,2023,East,Retail Customer,Writing Supplies,Pencils Pack,14,4,56,Cash
+SO-202306-0012,11405,2023-06-11,2023,South,Online Customer,Writing Supplies,Highlighters,7,6.5,45.5,Credit Card
+SO-202306-0013,11406,2023-06-14,2023,South,Retail Customer,Writing Supplies,Whiteboard Markers,11,8,88,Cash
+SO-202306-0014,11407,2023-06-15,2023,East,Online Customer,Paper Products,Notebook,7,3.5,24.5,Cash
+SO-202306-0015,11408,2023-06-15,2023,South,Online Customer,Art Supplies,Glue Sticks,10,4.5,45,Cash
+SO-202306-0016,11409,2023-06-17,2023,Central,Retail Customer,Writing Supplies,Ballpoint Pens,7,5,35,Credit Card
+SO-202306-0017,11410,2023-06-18,2023,West,Wholesale,Writing Supplies,Highlighters,79,6.5,513.5,E-Wallet
+SO-202306-0018,11411,2023-06-18,2023,Central,Retail Customer,Art Supplies,Glue Sticks,10,4.5,45,Cash
+SO-202306-0019,11412,2023-06-18,2023,East,Online Customer,Writing Supplies,Pencils Pack,5,4,20,E-Wallet
+SO-202306-0020,11413,2023-06-19,2023,East,Wholesale,Writing Supplies,Whiteboard Markers,77,8,616,E-Wallet
+SO-202306-0021,11414,2023-06-19,2023,Central,Wholesale,Paper Products,Notebook,48,3.5,168,Credit Card
+SO-202306-0022,11415,2023-06-20,2023,Central,Wholesale,Writing Supplies,Ballpoint Pens,24,5,120,E-Wallet
+SO-202306-0023,11416,2023-06-21,2023,East,Retail Customer,Writing Supplies,Ballpoint Pens,6,5,30,Cash
+SO-202306-0024,11417,2023-06-21,2023,East,Online Customer,Writing Supplies,Whiteboard Markers,6,8,48,E-Wallet
+SO-202306-0025,11418,2023-06-22,2023,West,Wholesale,Writing Supplies,Highlighters,48,6.5,312,Credit Card
+SO-202306-0026,11419,2023-06-25,2023,North,Retail Customer,Writing Supplies,Whiteboard Markers,17,8,136,Cash
+SO-202306-0027,11420,2023-06-25,2023,North,Retail Customer,Writing Supplies,Pencils Pack,15,4,60,Cash
+SO-202306-0028,11421,2023-06-26,2023,East,Wholesale,Desk Supplies,Scissors,60,7,420,Cash
+SO-202306-0029,11422,2023-06-30,2023,Central,Online Customer,Writing Supplies,Whiteboard Markers,7,8,56,Credit Card
+SO-202306-0030,11423,2023-06-30,2023,North,Online Customer,Desk Supplies,Scissors,8,7,56,E-Wallet
+SO-202307-0001,11424,2023-07-01,2023,West,Wholesale,Writing Supplies,Whiteboard Markers,29,8,232,Credit Card
+SO-202307-0002,11425,2023-07-01,2023,North,Wholesale,Writing Supplies,Whiteboard Markers,64,8,512,Cash
+SO-202307-0003,11426,2023-07-03,2023,East,Retail Customer,Paper Products,Notebook,20,3.5,70,E-Wallet
+SO-202307-0004,11427,2023-07-06,2023,South,Online Customer,School Bags,Backpack,2,28,56,Cash
+SO-202307-0005,11428,2023-07-06,2023,South,Online Customer,Desk Supplies,Scissors,5,7,35,E-Wallet
+SO-202307-0006,11429,2023-07-06,2023,East,Wholesale,Writing Supplies,Ballpoint Pens,60,5,300,Credit Card
+SO-202307-0007,11430,2023-07-09,2023,North,Wholesale,Desk Supplies,Stapler,43,9.5,408.5,Credit Card
+SO-202307-0008,11431,2023-07-09,2023,North,Wholesale,Writing Supplies,Whiteboard Markers,28,8,224,E-Wallet
+SO-202307-0009,11432,2023-07-10,2023,South,Wholesale,School Bags,Backpack,23,28,644,Cash
+SO-202307-0010,11433,2023-07-10,2023,East,Online Customer,Writing Supplies,Erasers Pack,9,3,27,Cash
+SO-202307-0011,11434,2023-07-12,2023,East,Wholesale,Desk Supplies,Scissors,32,7,224,Cash
+SO-202307-0012,11435,2023-07-15,2023,West,Online Customer,Writing Supplies,Whiteboard Markers,1,8,8,Cash
+SO-202307-0013,11436,2023-07-15,2023,Central,Retail Customer,Desk Supplies,Scissors,18,7,126,Credit Card
+SO-202307-0014,11437,2023-07-16,2023,North,Retail Customer,Art Supplies,Glue Sticks,16,4.5,72,E-Wallet
+SO-202307-0015,11438,2023-07-16,2023,Central,Online Customer,Writing Supplies,Highlighters,8,6.5,52,Credit Card
+SO-202307-0016,11439,2023-07-17,2023,North,Retail Customer,Desk Supplies,Stapler,17,9.5,161.5,E-Wallet
+SO-202307-0017,11440,2023-07-17,2023,East,Wholesale,Writing Supplies,Pencils Pack,53,4,212,E-Wallet
+SO-202307-0018,11441,2023-07-18,2023,Central,Retail Customer,Writing Supplies,Ballpoint Pens,17,5,85,Credit Card
+SO-202307-0019,11442,2023-07-18,2023,South,Retail Customer,Writing Supplies,Whiteboard Markers,19,8,152,Cash
+SO-202307-0020,11443,2023-07-21,2023,East,Wholesale,Desk Supplies,Stapler,28,9.5,266,Credit Card
+SO-202307-0021,11444,2023-07-24,2023,North,Wholesale,Art Supplies,Glue Sticks,46,4.5,207,E-Wallet
+SO-202307-0022,11445,2023-07-26,2023,East,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Cash
+SO-202307-0023,11446,2023-07-28,2023,East,Retail Customer,Writing Supplies,Ballpoint Pens,13,5,65,Credit Card
+SO-202307-0024,11447,2023-07-29,2023,East,Retail Customer,School Bags,Backpack,14,28,392,Credit Card
+SO-202307-0025,11448,2023-07-29,2023,Central,Retail Customer,Art Supplies,Glue Sticks,8,4.5,36,Cash
+SO-202307-0026,11449,2023-07-30,2023,Central,Wholesale,Writing Supplies,Highlighters,47,6.5,305.5,E-Wallet
+SO-202307-0027,11450,2023-07-31,2023,Central,Online Customer,Writing Supplies,Pencils Pack,5,4,20,E-Wallet
+SO-202308-0001,11451,2023-08-01,2023,East,Wholesale,Writing Supplies,Highlighters,69,6.5,448.5,Cash
+SO-202308-0002,11452,2023-08-05,2023,Central,Retail Customer,Writing Supplies,Erasers Pack,5,3,15,Cash
+SO-202308-0003,11453,2023-08-06,2023,Central,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Credit Card
+SO-202308-0004,11454,2023-08-06,2023,West,Wholesale,Writing Supplies,Pencils Pack,70,4,280,Cash
+SO-202308-0005,11455,2023-08-07,2023,East,Retail Customer,School Bags,Backpack,6,28,168,E-Wallet
+SO-202308-0006,11456,2023-08-09,2023,North,Wholesale,Desk Supplies,Scissors,41,7,287,Credit Card
+SO-202308-0007,11457,2023-08-09,2023,North,Retail Customer,Paper Products,Notebook,11,3.5,38.5,E-Wallet
+SO-202308-0008,11458,2023-08-10,2023,West,Online Customer,School Bags,Backpack,3,28,84,E-Wallet
+SO-202308-0009,11459,2023-08-10,2023,East,Wholesale,School Bags,Backpack,59,28,1652,Cash
+SO-202308-0010,11460,2023-08-13,2023,West,Online Customer,Paper Products,Notebook,5,3.5,17.5,E-Wallet
+SO-202308-0011,11461,2023-08-17,2023,North,Online Customer,Writing Supplies,Whiteboard Markers,10,8,80,E-Wallet
+SO-202308-0012,11462,2023-08-18,2023,East,Online Customer,School Bags,Backpack,9,28,252,E-Wallet
+SO-202308-0013,11463,2023-08-19,2023,South,Online Customer,Writing Supplies,Erasers Pack,5,3,15,Cash
+SO-202308-0014,11464,2023-08-19,2023,West,Wholesale,Desk Supplies,Stapler,43,9.5,408.5,Credit Card
+SO-202308-0015,11465,2023-08-21,2023,East,Online Customer,Writing Supplies,Erasers Pack,1,3,3,E-Wallet
+SO-202308-0016,11466,2023-08-23,2023,South,Online Customer,Art Supplies,Glue Sticks,6,4.5,27,Cash
+SO-202308-0017,11467,2023-08-24,2023,West,Wholesale,Art Supplies,Glue Sticks,61,4.5,274.5,E-Wallet
+SO-202308-0018,11468,2023-08-25,2023,South,Retail Customer,Desk Supplies,Stapler,10,9.5,95,E-Wallet
+SO-202308-0019,11469,2023-08-27,2023,West,Online Customer,School Bags,Backpack,8,28,224,Cash
+SO-202308-0020,11470,2023-08-28,2023,South,Online Customer,Writing Supplies,Highlighters,6,6.5,39,Cash
+SO-202308-0021,11471,2023-08-28,2023,East,Online Customer,Writing Supplies,Whiteboard Markers,7,8,56,E-Wallet
+SO-202308-0022,11472,2023-08-28,2023,South,Wholesale,Writing Supplies,Pencils Pack,67,4,268,Credit Card
+SO-202308-0023,11473,2023-08-30,2023,North,Retail Customer,Desk Supplies,Scissors,13,7,91,Credit Card
+SO-202308-0024,11474,2023-08-30,2023,North,Online Customer,Desk Supplies,Stapler,2,9.5,19,Cash
+SO-202308-0025,11475,2023-08-31,2023,West,Retail Customer,Desk Supplies,Scissors,18,7,126,Credit Card
+SO-202309-0001,11476,2023-09-02,2023,West,Wholesale,Writing Supplies,Erasers Pack,42,3,126,Cash
+SO-202309-0002,11477,2023-09-03,2023,South,Online Customer,Paper Products,Notebook,3,3.5,10.5,Credit Card
+SO-202309-0003,11478,2023-09-04,2023,West,Online Customer,Desk Supplies,Scissors,2,7,14,Credit Card
+SO-202309-0004,11479,2023-09-04,2023,Central,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,Credit Card
+SO-202309-0005,11480,2023-09-06,2023,East,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,E-Wallet
+SO-202309-0006,11481,2023-09-12,2023,West,Wholesale,Writing Supplies,Ballpoint Pens,48,5,240,Credit Card
+SO-202309-0007,11482,2023-09-13,2023,West,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,Credit Card
+SO-202309-0008,11483,2023-09-13,2023,Central,Retail Customer,Writing Supplies,Pencils Pack,14,4,56,Cash
+SO-202309-0009,11484,2023-09-13,2023,Central,Retail Customer,Writing Supplies,Pencils Pack,17,4,68,Credit Card
+SO-202309-0010,11485,2023-09-15,2023,South,Retail Customer,School Bags,Backpack,10,28,280,Cash
+SO-202309-0011,11486,2023-09-15,2023,South,Retail Customer,Writing Supplies,Ballpoint Pens,6,5,30,Cash
+SO-202309-0012,11487,2023-09-16,2023,South,Retail Customer,Writing Supplies,Highlighters,17,6.5,110.5,Credit Card
+SO-202309-0013,11488,2023-09-19,2023,East,Wholesale,Writing Supplies,Highlighters,36,6.5,234,Credit Card
+SO-202309-0014,11489,2023-09-20,2023,North,Wholesale,Desk Supplies,Scissors,72,7,504,Cash
+SO-202309-0015,11490,2023-09-20,2023,East,Retail Customer,Desk Supplies,Scissors,12,7,84,E-Wallet
+SO-202309-0016,11491,2023-09-22,2023,West,Wholesale,Desk Supplies,Stapler,22,9.5,209,E-Wallet
+SO-202309-0017,11492,2023-09-24,2023,North,Wholesale,Writing Supplies,Ballpoint Pens,34,5,170,E-Wallet
+SO-202309-0018,11493,2023-09-24,2023,North,Online Customer,School Bags,Backpack,5,28,140,E-Wallet
+SO-202309-0019,11494,2023-09-26,2023,South,Retail Customer,Writing Supplies,Pencils Pack,6,4,24,Cash
+SO-202309-0020,11495,2023-09-26,2023,Central,Online Customer,Desk Supplies,Stapler,3,9.5,28.5,Credit Card
+SO-202309-0021,11496,2023-09-28,2023,South,Wholesale,Writing Supplies,Highlighters,32,6.5,208,Credit Card
+SO-202309-0022,11497,2023-09-30,2023,Central,Retail Customer,Writing Supplies,Highlighters,10,6.5,65,E-Wallet
+SO-202310-0001,11498,2023-10-01,2023,West,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,Cash
+SO-202310-0002,11499,2023-10-03,2023,South,Retail Customer,Art Supplies,Glue Sticks,13,4.5,58.5,Cash
+SO-202310-0003,11500,2023-10-04,2023,West,Retail Customer,Writing Supplies,Whiteboard Markers,10,8,80,E-Wallet
+SO-202310-0004,11501,2023-10-04,2023,North,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Cash
+SO-202310-0005,11502,2023-10-05,2023,East,Wholesale,Desk Supplies,Stapler,46,9.5,437,Cash
+SO-202310-0006,11503,2023-10-06,2023,West,Wholesale,Art Supplies,Glue Sticks,21,4.5,94.5,Cash
+SO-202310-0007,11504,2023-10-06,2023,Central,Online Customer,Writing Supplies,Erasers Pack,9,3,27,Cash
+SO-202310-0008,11505,2023-10-09,2023,Central,Online Customer,Writing Supplies,Erasers Pack,5,3,15,Credit Card
+SO-202310-0009,11506,2023-10-11,2023,East,Online Customer,Desk Supplies,Scissors,10,7,70,E-Wallet
+SO-202310-0010,11507,2023-10-12,2023,West,Retail Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Credit Card
+SO-202310-0011,11508,2023-10-15,2023,Central,Online Customer,Writing Supplies,Erasers Pack,5,3,15,Cash
+SO-202310-0012,11509,2023-10-15,2023,North,Wholesale,Writing Supplies,Erasers Pack,33,3,99,Credit Card
+SO-202310-0013,11510,2023-10-16,2023,West,Wholesale,Writing Supplies,Erasers Pack,66,3,198,E-Wallet
+SO-202310-0014,11511,2023-10-16,2023,Central,Wholesale,Writing Supplies,Pencils Pack,30,4,120,Cash
+SO-202310-0015,11512,2023-10-16,2023,West,Online Customer,Paper Products,Notebook,9,3.5,31.5,Cash
+SO-202310-0016,11513,2023-10-17,2023,North,Retail Customer,Art Supplies,Glue Sticks,15,4.5,67.5,Cash
+SO-202310-0017,11514,2023-10-17,2023,South,Wholesale,Writing Supplies,Pencils Pack,35,4,140,E-Wallet
+SO-202310-0018,11515,2023-10-20,2023,North,Retail Customer,Writing Supplies,Pencils Pack,15,4,60,Credit Card
+SO-202310-0019,11516,2023-10-21,2023,North,Retail Customer,School Bags,Backpack,17,28,476,Cash
+SO-202310-0020,11517,2023-10-21,2023,West,Wholesale,Writing Supplies,Ballpoint Pens,24,5,120,Cash
+SO-202310-0021,11518,2023-10-21,2023,South,Retail Customer,Desk Supplies,Stapler,17,9.5,161.5,E-Wallet
+SO-202310-0022,11519,2023-10-23,2023,North,Retail Customer,Writing Supplies,Pencils Pack,6,4,24,Credit Card
+SO-202310-0023,11520,2023-10-25,2023,Central,Wholesale,School Bags,Backpack,78,28,2184,Cash
+SO-202310-0024,11521,2023-10-27,2023,East,Wholesale,Paper Products,Notebook,45,3.5,157.5,Cash
+SO-202310-0025,11522,2023-10-27,2023,North,Retail Customer,Writing Supplies,Whiteboard Markers,10,8,80,E-Wallet
+SO-202310-0026,11523,2023-10-29,2023,Central,Retail Customer,Desk Supplies,Scissors,17,7,119,Credit Card
+SO-202310-0027,11524,2023-10-29,2023,North,Retail Customer,Writing Supplies,Highlighters,18,6.5,117,Cash
+SO-202311-0001,11525,2023-11-01,2023,South,Online Customer,Writing Supplies,Erasers Pack,7,3,21,E-Wallet
+SO-202311-0002,11526,2023-11-05,2023,North,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Credit Card
+SO-202311-0003,11527,2023-11-05,2023,North,Online Customer,Paper Products,Notebook,3,3.5,10.5,E-Wallet
+SO-202311-0004,11528,2023-11-05,2023,East,Wholesale,Paper Products,Notebook,70,3.5,245,E-Wallet
+SO-202311-0005,11529,2023-11-05,2023,East,Wholesale,Desk Supplies,Scissors,61,7,427,E-Wallet
+SO-202311-0006,11530,2023-11-06,2023,East,Online Customer,Writing Supplies,Whiteboard Markers,4,8,32,Cash
+SO-202311-0007,11531,2023-11-08,2023,South,Retail Customer,Writing Supplies,Highlighters,6,6.5,39,Credit Card
+SO-202311-0008,11532,2023-11-10,2023,North,Wholesale,Writing Supplies,Whiteboard Markers,52,8,416,E-Wallet
+SO-202311-0009,11533,2023-11-12,2023,South,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,Cash
+SO-202311-0010,11534,2023-11-14,2023,East,Wholesale,Writing Supplies,Whiteboard Markers,21,8,168,Cash
+SO-202311-0011,11535,2023-11-15,2023,South,Retail Customer,Desk Supplies,Scissors,8,7,56,Cash
+SO-202311-0012,11536,2023-11-15,2023,North,Online Customer,Writing Supplies,Erasers Pack,1,3,3,Cash
+SO-202311-0013,11537,2023-11-18,2023,West,Online Customer,Paper Products,Notebook,7,3.5,24.5,E-Wallet
+SO-202311-0014,11538,2023-11-19,2023,Central,Online Customer,Writing Supplies,Ballpoint Pens,1,5,5,Credit Card
+SO-202311-0015,11539,2023-11-19,2023,Central,Wholesale,Writing Supplies,Whiteboard Markers,32,8,256,Cash
+SO-202311-0016,11540,2023-11-23,2023,East,Retail Customer,Desk Supplies,Scissors,5,7,35,E-Wallet
+SO-202311-0017,11541,2023-11-23,2023,South,Retail Customer,Writing Supplies,Ballpoint Pens,11,5,55,E-Wallet
+SO-202311-0018,11542,2023-11-23,2023,West,Retail Customer,Writing Supplies,Erasers Pack,8,3,24,E-Wallet
+SO-202311-0019,11543,2023-11-24,2023,North,Online Customer,School Bags,Backpack,3,28,84,E-Wallet
+SO-202311-0020,11544,2023-11-25,2023,West,Retail Customer,School Bags,Backpack,14,28,392,E-Wallet
+SO-202311-0021,11545,2023-11-27,2023,North,Retail Customer,School Bags,Backpack,14,28,392,E-Wallet
+SO-202311-0022,11546,2023-11-27,2023,South,Online Customer,Paper Products,Notebook,1,3.5,3.5,E-Wallet
+SO-202311-0023,11547,2023-11-28,2023,West,Online Customer,Desk Supplies,Stapler,5,9.5,47.5,Credit Card
+SO-202311-0024,11548,2023-11-28,2023,East,Wholesale,Writing Supplies,Whiteboard Markers,29,8,232,Cash
+SO-202311-0025,11549,2023-11-28,2023,East,Retail Customer,Desk Supplies,Stapler,6,9.5,57,Credit Card
+SO-202311-0026,11550,2023-11-28,2023,West,Retail Customer,Art Supplies,Glue Sticks,19,4.5,85.5,Cash
+SO-202312-0001,11551,2023-12-03,2023,West,Online Customer,Desk Supplies,Scissors,5,7,35,E-Wallet
+SO-202312-0002,11552,2023-12-04,2023,North,Wholesale,Desk Supplies,Stapler,21,9.5,199.5,E-Wallet
+SO-202312-0003,11553,2023-12-04,2023,Central,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,E-Wallet
+SO-202312-0004,11554,2023-12-06,2023,West,Online Customer,Writing Supplies,Highlighters,7,6.5,45.5,E-Wallet
+SO-202312-0005,11555,2023-12-06,2023,Central,Retail Customer,School Bags,Backpack,16,28,448,E-Wallet
+SO-202312-0006,11556,2023-12-06,2023,South,Retail Customer,Writing Supplies,Highlighters,8,6.5,52,Cash
+SO-202312-0007,11557,2023-12-06,2023,West,Online Customer,Art Supplies,Glue Sticks,7,4.5,31.5,E-Wallet
+SO-202312-0008,11558,2023-12-08,2023,South,Retail Customer,Writing Supplies,Highlighters,6,6.5,39,E-Wallet
+SO-202312-0009,11559,2023-12-09,2023,North,Online Customer,Paper Products,Notebook,3,3.5,10.5,Credit Card
+SO-202312-0010,11560,2023-12-09,2023,South,Retail Customer,Art Supplies,Glue Sticks,18,4.5,81,Credit Card
+SO-202312-0011,11561,2023-12-10,2023,North,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,Cash
+SO-202312-0012,11562,2023-12-11,2023,North,Online Customer,Writing Supplies,Ballpoint Pens,2,5,10,E-Wallet
+SO-202312-0013,11563,2023-12-12,2023,South,Online Customer,School Bags,Backpack,8,28,224,Cash
+SO-202312-0014,11564,2023-12-12,2023,North,Online Customer,Writing Supplies,Pencils Pack,8,4,32,Credit Card
+SO-202312-0015,11565,2023-12-13,2023,Central,Wholesale,Art Supplies,Glue Sticks,71,4.5,319.5,E-Wallet
+SO-202312-0016,11566,2023-12-13,2023,West,Online Customer,Art Supplies,Glue Sticks,4,4.5,18,E-Wallet
+SO-202312-0017,11567,2023-12-15,2023,South,Online Customer,Desk Supplies,Scissors,9,7,63,Credit Card
+SO-202312-0018,11568,2023-12-17,2023,West,Retail Customer,Writing Supplies,Whiteboard Markers,8,8,64,Cash
+SO-202312-0019,11569,2023-12-18,2023,South,Retail Customer,School Bags,Backpack,5,28,140,Cash
+SO-202312-0020,11570,2023-12-18,2023,South,Retail Customer,Writing Supplies,Erasers Pack,12,3,36,Credit Card
+SO-202312-0021,11571,2023-12-19,2023,East,Online Customer,Desk Supplies,Scissors,9,7,63,Cash
+SO-202312-0022,11572,2023-12-19,2023,East,Retail Customer,Writing Supplies,Whiteboard Markers,5,8,40,E-Wallet
+SO-202312-0023,11573,2023-12-20,2023,West,Retail Customer,Writing Supplies,Erasers Pack,18,3,54,E-Wallet
+SO-202312-0024,11574,2023-12-20,2023,Central,Online Customer,Writing Supplies,Erasers Pack,6,3,18,E-Wallet
+SO-202312-0025,11575,2023-12-20,2023,South,Wholesale,School Bags,Backpack,21,28,588,Credit Card
+SO-202312-0026,11576,2023-12-22,2023,South,Wholesale,Art Supplies,Glue Sticks,50,4.5,225,Cash
+SO-202312-0027,11577,2023-12-22,2023,South,Wholesale,Desk Supplies,Scissors,23,7,161,E-Wallet
+SO-202312-0028,11578,2023-12-22,2023,Central,Wholesale,Desk Supplies,Scissors,39,7,273,E-Wallet
+SO-202312-0029,11579,2023-12-23,2023,East,Online Customer,Desk Supplies,Scissors,1,7,7,E-Wallet
+SO-202312-0030,11580,2023-12-25,2023,East,Online Customer,Writing Supplies,Pencils Pack,9,4,36,Credit Card
+SO-202312-0031,11581,2023-12-26,2023,West,Retail Customer,Writing Supplies,Highlighters,6,6.5,39,Credit Card
+SO-202312-0032,11582,2023-12-30,2023,East,Wholesale,Writing Supplies,Pencils Pack,42,4,168,E-Wallet
+SO-202312-0033,11583,2023-12-31,2023,North,Wholesale,Writing Supplies,Erasers Pack,62,3,186,E-Wallet
+SO-202401-0001,11584,2024-01-01,2024,North,Retail Customer,Writing Supplies,Pencils Pack,10,4,40,E-Wallet
+SO-202401-0002,11585,2024-01-01,2024,East,Wholesale,Desk Supplies,Stapler,52,9.5,494,Cash
+SO-202401-0003,11586,2024-01-04,2024,North,Retail Customer,Writing Supplies,Erasers Pack,12,3,36,E-Wallet
+SO-202401-0004,11587,2024-01-04,2024,North,Online Customer,Art Supplies,Glue Sticks,5,4.5,22.5,E-Wallet
+SO-202401-0005,11588,2024-01-05,2024,North,Retail Customer,Writing Supplies,Ballpoint Pens,20,5,100,E-Wallet
+SO-202401-0006,11589,2024-01-06,2024,South,Retail Customer,Writing Supplies,Pencils Pack,12,4,48,E-Wallet
+SO-202401-0007,11590,2024-01-06,2024,West,Retail Customer,Art Supplies,Glue Sticks,12,4.5,54,E-Wallet
+SO-202401-0008,11591,2024-01-07,2024,Central,Wholesale,Desk Supplies,Stapler,76,9.5,722,E-Wallet
+SO-202401-0009,11592,2024-01-09,2024,Central,Retail Customer,Writing Supplies,Highlighters,20,6.5,130,Credit Card
+SO-202401-0010,11593,2024-01-10,2024,South,Wholesale,Writing Supplies,Whiteboard Markers,25,8,200,E-Wallet
+SO-202401-0011,11594,2024-01-12,2024,Central,Wholesale,Writing Supplies,Pencils Pack,63,4,252,Cash
+SO-202401-0012,11595,2024-01-15,2024,North,Wholesale,Paper Products,Notebook,38,3.5,133,Cash
+SO-202401-0013,11596,2024-01-18,2024,West,Retail Customer,School Bags,Backpack,8,28,224,Credit Card
+SO-202401-0014,11597,2024-01-18,2024,South,Online Customer,Art Supplies,Glue Sticks,5,4.5,22.5,Cash
+SO-202401-0015,11598,2024-01-19,2024,Central,Wholesale,Writing Supplies,Whiteboard Markers,45,8,360,Cash
+SO-202401-0016,11599,2024-01-19,2024,South,Wholesale,School Bags,Backpack,60,28,1680,E-Wallet
+SO-202401-0017,11600,2024-01-23,2024,West,Online Customer,Desk Supplies,Scissors,4,7,28,Credit Card
+SO-202401-0018,11601,2024-01-24,2024,South,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,Cash
+SO-202401-0019,11602,2024-01-28,2024,West,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,E-Wallet
+SO-202401-0020,11603,2024-01-29,2024,West,Retail Customer,School Bags,Backpack,14,28,392,Credit Card
+SO-202401-0021,11604,2024-01-29,2024,South,Retail Customer,Writing Supplies,Erasers Pack,19,3,57,Cash
+SO-202401-0022,11605,2024-01-29,2024,Central,Wholesale,Writing Supplies,Highlighters,45,6.5,292.5,Credit Card
+SO-202401-0023,11606,2024-01-30,2024,South,Retail Customer,Writing Supplies,Highlighters,14,6.5,91,Cash
+SO-202401-0024,11607,2024-01-30,2024,South,Online Customer,Art Supplies,Glue Sticks,5,4.5,22.5,E-Wallet
+SO-202402-0001,11608,2024-02-03,2024,East,Online Customer,Writing Supplies,Ballpoint Pens,1,5,5,Credit Card
+SO-202402-0002,11609,2024-02-05,2024,East,Online Customer,Paper Products,Notebook,2,3.5,7,Cash
+SO-202402-0003,11610,2024-02-06,2024,South,Online Customer,Writing Supplies,Ballpoint Pens,6,5,30,Credit Card
+SO-202402-0004,11611,2024-02-09,2024,Central,Wholesale,Desk Supplies,Stapler,29,9.5,275.5,Credit Card
+SO-202402-0005,11612,2024-02-09,2024,South,Wholesale,Art Supplies,Glue Sticks,78,4.5,351,Credit Card
+SO-202402-0006,11613,2024-02-10,2024,Central,Wholesale,School Bags,Backpack,28,28,784,E-Wallet
+SO-202402-0007,11614,2024-02-13,2024,South,Wholesale,Desk Supplies,Stapler,56,9.5,532,Credit Card
+SO-202402-0008,11615,2024-02-13,2024,East,Retail Customer,Desk Supplies,Stapler,11,9.5,104.5,Cash
+SO-202402-0009,11616,2024-02-14,2024,West,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Cash
+SO-202402-0010,11617,2024-02-14,2024,North,Online Customer,School Bags,Backpack,10,28,280,Cash
+SO-202402-0011,11618,2024-02-14,2024,West,Online Customer,Desk Supplies,Scissors,3,7,21,Cash
+SO-202402-0012,11619,2024-02-14,2024,South,Retail Customer,Desk Supplies,Scissors,7,7,49,Cash
+SO-202402-0013,11620,2024-02-16,2024,West,Retail Customer,Writing Supplies,Erasers Pack,18,3,54,E-Wallet
+SO-202402-0014,11621,2024-02-16,2024,Central,Online Customer,Writing Supplies,Highlighters,1,6.5,6.5,Cash
+SO-202402-0015,11622,2024-02-18,2024,West,Retail Customer,Desk Supplies,Scissors,6,7,42,E-Wallet
+SO-202402-0016,11623,2024-02-19,2024,West,Retail Customer,Writing Supplies,Highlighters,10,6.5,65,E-Wallet
+SO-202402-0017,11624,2024-02-19,2024,Central,Wholesale,Writing Supplies,Erasers Pack,65,3,195,E-Wallet
+SO-202402-0018,11625,2024-02-19,2024,East,Retail Customer,Desk Supplies,Stapler,12,9.5,114,Cash
+SO-202402-0019,11626,2024-02-21,2024,East,Online Customer,Writing Supplies,Ballpoint Pens,3,5,15,Credit Card
+SO-202402-0020,11627,2024-02-22,2024,East,Online Customer,Desk Supplies,Scissors,5,7,35,E-Wallet
+SO-202402-0021,11628,2024-02-22,2024,Central,Online Customer,Writing Supplies,Pencils Pack,3,4,12,E-Wallet
+SO-202402-0022,11629,2024-02-23,2024,Central,Wholesale,Writing Supplies,Erasers Pack,28,3,84,Credit Card
+SO-202402-0023,11630,2024-02-25,2024,South,Online Customer,Paper Products,Notebook,6,3.5,21,Credit Card
+SO-202402-0024,11631,2024-02-26,2024,Central,Online Customer,Writing Supplies,Erasers Pack,5,3,15,E-Wallet
+SO-202402-0025,11632,2024-02-28,2024,East,Online Customer,Writing Supplies,Erasers Pack,5,3,15,Credit Card
+SO-202402-0026,11633,2024-02-29,2024,East,Retail Customer,Writing Supplies,Highlighters,19,6.5,123.5,Cash
+SO-202403-0001,11634,2024-03-04,2024,South,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,Cash
+SO-202403-0002,11635,2024-03-05,2024,North,Retail Customer,Writing Supplies,Whiteboard Markers,9,8,72,Cash
+SO-202403-0003,11636,2024-03-07,2024,North,Wholesale,Writing Supplies,Highlighters,51,6.5,331.5,Cash
+SO-202403-0004,11637,2024-03-08,2024,North,Online Customer,Writing Supplies,Highlighters,5,6.5,32.5,E-Wallet
+SO-202403-0005,11638,2024-03-08,2024,South,Online Customer,Writing Supplies,Highlighters,9,6.5,58.5,Credit Card
+SO-202403-0006,11639,2024-03-10,2024,East,Online Customer,Desk Supplies,Scissors,8,7,56,E-Wallet
+SO-202403-0007,11640,2024-03-11,2024,East,Retail Customer,Writing Supplies,Whiteboard Markers,20,8,160,E-Wallet
+SO-202403-0008,11641,2024-03-12,2024,West,Retail Customer,School Bags,Backpack,6,28,168,Credit Card
+SO-202403-0009,11642,2024-03-12,2024,West,Online Customer,School Bags,Backpack,3,28,84,E-Wallet
+SO-202403-0010,11643,2024-03-14,2024,South,Online Customer,Desk Supplies,Stapler,2,9.5,19,Credit Card
+SO-202403-0011,11644,2024-03-15,2024,North,Retail Customer,Art Supplies,Glue Sticks,20,4.5,90,Cash
+SO-202403-0012,11645,2024-03-16,2024,North,Wholesale,Desk Supplies,Stapler,34,9.5,323,Credit Card
+SO-202403-0013,11646,2024-03-18,2024,West,Wholesale,Paper Products,Notebook,46,3.5,161,Credit Card
+SO-202403-0014,11647,2024-03-19,2024,North,Retail Customer,Desk Supplies,Scissors,16,7,112,Credit Card
+SO-202403-0015,11648,2024-03-20,2024,Central,Wholesale,Desk Supplies,Stapler,76,9.5,722,E-Wallet
+SO-202403-0016,11649,2024-03-21,2024,Central,Retail Customer,Writing Supplies,Whiteboard Markers,17,8,136,Cash
+SO-202403-0017,11650,2024-03-21,2024,East,Wholesale,Art Supplies,Glue Sticks,62,4.5,279,E-Wallet
+SO-202403-0018,11651,2024-03-21,2024,East,Retail Customer,Paper Products,Notebook,17,3.5,59.5,Credit Card
+SO-202403-0019,11652,2024-03-22,2024,Central,Retail Customer,Art Supplies,Glue Sticks,9,4.5,40.5,Credit Card
+SO-202403-0020,11653,2024-03-23,2024,Central,Online Customer,Writing Supplies,Highlighters,8,6.5,52,E-Wallet
+SO-202403-0021,11654,2024-03-25,2024,East,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,Credit Card
+SO-202403-0022,11655,2024-03-25,2024,North,Retail Customer,Writing Supplies,Erasers Pack,20,3,60,E-Wallet
+SO-202403-0023,11656,2024-03-28,2024,North,Retail Customer,Art Supplies,Glue Sticks,13,4.5,58.5,Cash
+SO-202403-0024,11657,2024-03-28,2024,South,Online Customer,Writing Supplies,Pencils Pack,6,4,24,Cash
+SO-202403-0025,11658,2024-03-29,2024,East,Wholesale,Writing Supplies,Ballpoint Pens,63,5,315,Cash
+SO-202403-0026,11659,2024-03-29,2024,East,Wholesale,Writing Supplies,Highlighters,46,6.5,299,Credit Card
+SO-202404-0001,11660,2024-04-01,2024,Central,Retail Customer,Writing Supplies,Pencils Pack,5,4,20,Cash
+SO-202404-0002,11661,2024-04-02,2024,South,Online Customer,Desk Supplies,Scissors,1,7,7,Credit Card
+SO-202404-0003,11662,2024-04-03,2024,West,Wholesale,Art Supplies,Glue Sticks,35,4.5,157.5,E-Wallet
+SO-202404-0004,11663,2024-04-03,2024,East,Retail Customer,Writing Supplies,Ballpoint Pens,10,5,50,Credit Card
+SO-202404-0005,11664,2024-04-04,2024,East,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,Cash
+SO-202404-0006,11665,2024-04-07,2024,North,Online Customer,Desk Supplies,Stapler,1,9.5,9.5,E-Wallet
+SO-202404-0007,11666,2024-04-08,2024,North,Wholesale,Desk Supplies,Scissors,50,7,350,E-Wallet
+SO-202404-0008,11667,2024-04-10,2024,East,Wholesale,Writing Supplies,Erasers Pack,63,3,189,Credit Card
+SO-202404-0009,11668,2024-04-11,2024,South,Retail Customer,School Bags,Backpack,5,28,140,E-Wallet
+SO-202404-0010,11669,2024-04-12,2024,East,Online Customer,Desk Supplies,Stapler,4,9.5,38,E-Wallet
+SO-202404-0011,11670,2024-04-13,2024,Central,Online Customer,Writing Supplies,Erasers Pack,9,3,27,Cash
+SO-202404-0012,11671,2024-04-14,2024,East,Retail Customer,Writing Supplies,Pencils Pack,10,4,40,Credit Card
+SO-202404-0013,11672,2024-04-17,2024,South,Wholesale,Art Supplies,Glue Sticks,62,4.5,279,Credit Card
+SO-202404-0014,11673,2024-04-18,2024,Central,Retail Customer,School Bags,Backpack,7,28,196,Credit Card
+SO-202404-0015,11674,2024-04-20,2024,West,Online Customer,Writing Supplies,Pencils Pack,10,4,40,Cash
+SO-202404-0016,11675,2024-04-22,2024,South,Wholesale,Desk Supplies,Scissors,77,7,539,E-Wallet
+SO-202404-0017,11676,2024-04-24,2024,South,Wholesale,Desk Supplies,Scissors,69,7,483,Credit Card
+SO-202404-0018,11677,2024-04-25,2024,West,Retail Customer,Art Supplies,Glue Sticks,7,4.5,31.5,Credit Card
+SO-202404-0019,11678,2024-04-26,2024,South,Retail Customer,School Bags,Backpack,18,28,504,Cash
+SO-202404-0020,11679,2024-04-27,2024,West,Online Customer,Art Supplies,Glue Sticks,8,4.5,36,Credit Card
+SO-202404-0021,11680,2024-04-28,2024,East,Wholesale,Desk Supplies,Scissors,69,7,483,Cash
+SO-202405-0001,11681,2024-05-01,2024,Central,Retail Customer,Paper Products,Notebook,8,3.5,28,E-Wallet
+SO-202405-0002,11682,2024-05-01,2024,East,Retail Customer,Desk Supplies,Stapler,8,9.5,76,Cash
+SO-202405-0003,11683,2024-05-03,2024,Central,Online Customer,Paper Products,Notebook,4,3.5,14,E-Wallet
+SO-202405-0004,11684,2024-05-04,2024,West,Wholesale,Writing Supplies,Whiteboard Markers,55,8,440,Credit Card
+SO-202405-0005,11685,2024-05-04,2024,Central,Wholesale,Writing Supplies,Erasers Pack,62,3,186,Credit Card
+SO-202405-0006,11686,2024-05-05,2024,East,Wholesale,Writing Supplies,Highlighters,58,6.5,377,Credit Card
+SO-202405-0007,11687,2024-05-05,2024,South,Online Customer,Writing Supplies,Whiteboard Markers,3,8,24,Credit Card
+SO-202405-0008,11688,2024-05-06,2024,North,Retail Customer,Art Supplies,Glue Sticks,12,4.5,54,Credit Card
+SO-202405-0009,11689,2024-05-06,2024,North,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,Cash
+SO-202405-0010,11690,2024-05-07,2024,East,Online Customer,Writing Supplies,Highlighters,10,6.5,65,Credit Card
+SO-202405-0011,11691,2024-05-08,2024,Central,Wholesale,Art Supplies,Glue Sticks,55,4.5,247.5,E-Wallet
+SO-202405-0012,11692,2024-05-09,2024,East,Wholesale,Art Supplies,Glue Sticks,74,4.5,333,E-Wallet
+SO-202405-0013,11693,2024-05-09,2024,Central,Wholesale,Desk Supplies,Stapler,31,9.5,294.5,Credit Card
+SO-202405-0014,11694,2024-05-09,2024,South,Online Customer,Writing Supplies,Whiteboard Markers,8,8,64,Cash
+SO-202405-0015,11695,2024-05-09,2024,East,Online Customer,Writing Supplies,Whiteboard Markers,5,8,40,Cash
+SO-202405-0016,11696,2024-05-10,2024,Central,Wholesale,Desk Supplies,Scissors,37,7,259,Credit Card
+SO-202405-0017,11697,2024-05-11,2024,Central,Online Customer,Writing Supplies,Highlighters,3,6.5,19.5,E-Wallet
+SO-202405-0018,11698,2024-05-12,2024,North,Retail Customer,Writing Supplies,Erasers Pack,13,3,39,Credit Card
+SO-202405-0019,11699,2024-05-13,2024,East,Online Customer,Desk Supplies,Scissors,7,7,49,Cash
+SO-202405-0020,11700,2024-05-13,2024,West,Wholesale,Art Supplies,Glue Sticks,32,4.5,144,E-Wallet
+SO-202405-0021,11701,2024-05-13,2024,Central,Online Customer,Writing Supplies,Highlighters,6,6.5,39,Cash
+SO-202405-0022,11702,2024-05-14,2024,East,Online Customer,Desk Supplies,Scissors,8,7,56,E-Wallet
+SO-202405-0023,11703,2024-05-15,2024,East,Wholesale,Writing Supplies,Highlighters,60,6.5,390,E-Wallet
+SO-202405-0024,11704,2024-05-15,2024,North,Wholesale,Writing Supplies,Erasers Pack,72,3,216,E-Wallet
+SO-202405-0025,11705,2024-05-15,2024,East,Retail Customer,Desk Supplies,Stapler,12,9.5,114,Credit Card
+SO-202405-0026,11706,2024-05-16,2024,West,Wholesale,Writing Supplies,Highlighters,72,6.5,468,E-Wallet
+SO-202405-0027,11707,2024-05-16,2024,West,Wholesale,Writing Supplies,Ballpoint Pens,55,5,275,Cash
+SO-202405-0028,11708,2024-05-18,2024,North,Online Customer,Writing Supplies,Whiteboard Markers,5,8,40,E-Wallet
+SO-202405-0029,11709,2024-05-23,2024,East,Wholesale,Writing Supplies,Erasers Pack,75,3,225,Credit Card
+SO-202405-0030,11710,2024-05-24,2024,Central,Wholesale,Writing Supplies,Erasers Pack,55,3,165,Credit Card
+SO-202405-0031,11711,2024-05-24,2024,North,Retail Customer,Desk Supplies,Stapler,18,9.5,171,E-Wallet
+SO-202405-0032,11712,2024-05-25,2024,West,Retail Customer,Writing Supplies,Ballpoint Pens,18,5,90,Credit Card
+SO-202405-0033,11713,2024-05-25,2024,East,Retail Customer,School Bags,Backpack,17,28,476,Credit Card
+SO-202405-0034,11714,2024-05-26,2024,West,Retail Customer,Writing Supplies,Highlighters,12,6.5,78,Credit Card
+SO-202405-0035,11715,2024-05-26,2024,Central,Online Customer,Writing Supplies,Highlighters,1,6.5,6.5,E-Wallet
+SO-202405-0036,11716,2024-05-26,2024,South,Wholesale,Writing Supplies,Erasers Pack,24,3,72,Credit Card
+SO-202405-0037,11717,2024-05-26,2024,East,Wholesale,Writing Supplies,Ballpoint Pens,77,5,385,E-Wallet
+SO-202405-0038,11718,2024-05-27,2024,East,Wholesale,School Bags,Backpack,25,28,700,Cash
+SO-202405-0039,11719,2024-05-29,2024,Central,Retail Customer,Writing Supplies,Ballpoint Pens,8,5,40,Credit Card
+SO-202405-0040,11720,2024-05-29,2024,South,Wholesale,Art Supplies,Glue Sticks,76,4.5,342,Cash
+SO-202405-0041,11721,2024-05-29,2024,North,Retail Customer,Art Supplies,Glue Sticks,6,4.5,27,E-Wallet
+SO-202405-0042,11722,2024-05-30,2024,East,Wholesale,Desk Supplies,Scissors,29,7,203,E-Wallet
+SO-202405-0043,11723,2024-05-31,2024,East,Online Customer,Writing Supplies,Erasers Pack,10,3,30,Cash
+SO-202405-0044,11724,2024-05-31,2024,Central,Online Customer,Writing Supplies,Ballpoint Pens,3,5,15,Cash
+SO-202405-0045,11725,2024-05-31,2024,North,Online Customer,Writing Supplies,Pencils Pack,7,4,28,Credit Card
+SO-202406-0001,11726,2024-06-03,2024,South,Wholesale,Art Supplies,Glue Sticks,79,4.5,355.5,Cash
+SO-202406-0002,11727,2024-06-04,2024,North,Wholesale,Desk Supplies,Scissors,65,7,455,E-Wallet
+SO-202406-0003,11728,2024-06-06,2024,North,Retail Customer,Writing Supplies,Ballpoint Pens,13,5,65,Cash
+SO-202406-0004,11729,2024-06-08,2024,Central,Online Customer,Paper Products,Notebook,4,3.5,14,Credit Card
+SO-202406-0005,11730,2024-06-08,2024,South,Online Customer,Art Supplies,Glue Sticks,6,4.5,27,Credit Card
+SO-202406-0006,11731,2024-06-09,2024,Central,Retail Customer,Paper Products,Notebook,19,3.5,66.5,E-Wallet
+SO-202406-0007,11732,2024-06-10,2024,West,Online Customer,Writing Supplies,Highlighters,3,6.5,19.5,Credit Card
+SO-202406-0008,11733,2024-06-11,2024,South,Retail Customer,Writing Supplies,Erasers Pack,10,3,30,Cash
+SO-202406-0009,11734,2024-06-11,2024,East,Wholesale,Writing Supplies,Ballpoint Pens,79,5,395,E-Wallet
+SO-202406-0010,11735,2024-06-11,2024,South,Retail Customer,Desk Supplies,Scissors,14,7,98,E-Wallet
+SO-202406-0011,11736,2024-06-13,2024,South,Retail Customer,Paper Products,Notebook,12,3.5,42,Cash
+SO-202406-0012,11737,2024-06-13,2024,East,Online Customer,Writing Supplies,Ballpoint Pens,1,5,5,E-Wallet
+SO-202406-0013,11738,2024-06-14,2024,Central,Retail Customer,Writing Supplies,Erasers Pack,16,3,48,Cash
+SO-202406-0014,11739,2024-06-16,2024,East,Retail Customer,School Bags,Backpack,20,28,560,Cash
+SO-202406-0015,11740,2024-06-18,2024,East,Wholesale,Desk Supplies,Scissors,22,7,154,E-Wallet
+SO-202406-0016,11741,2024-06-19,2024,Central,Online Customer,Writing Supplies,Erasers Pack,3,3,9,Credit Card
+SO-202406-0017,11742,2024-06-20,2024,West,Retail Customer,Writing Supplies,Whiteboard Markers,17,8,136,Credit Card
+SO-202406-0018,11743,2024-06-21,2024,North,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,E-Wallet
+SO-202406-0019,11744,2024-06-23,2024,West,Online Customer,School Bags,Backpack,9,28,252,Cash
+SO-202406-0020,11745,2024-06-23,2024,North,Retail Customer,Writing Supplies,Ballpoint Pens,16,5,80,Credit Card
+SO-202406-0021,11746,2024-06-23,2024,Central,Retail Customer,Desk Supplies,Scissors,11,7,77,Cash
+SO-202406-0022,11747,2024-06-23,2024,North,Retail Customer,Desk Supplies,Scissors,12,7,84,Credit Card
+SO-202406-0023,11748,2024-06-23,2024,North,Online Customer,School Bags,Backpack,5,28,140,Cash
+SO-202406-0024,11749,2024-06-25,2024,West,Wholesale,Writing Supplies,Erasers Pack,59,3,177,Cash
+SO-202406-0025,11750,2024-06-26,2024,North,Online Customer,Writing Supplies,Highlighters,2,6.5,13,Credit Card
+SO-202407-0001,11751,2024-07-01,2024,Central,Retail Customer,Writing Supplies,Whiteboard Markers,20,8,160,E-Wallet
+SO-202407-0002,11752,2024-07-02,2024,North,Online Customer,Writing Supplies,Ballpoint Pens,4,5,20,E-Wallet
+SO-202407-0003,11753,2024-07-02,2024,North,Online Customer,Writing Supplies,Highlighters,4,6.5,26,Credit Card
+SO-202407-0004,11754,2024-07-03,2024,North,Wholesale,Writing Supplies,Erasers Pack,80,3,240,Cash
+SO-202407-0005,11755,2024-07-04,2024,Central,Retail Customer,Writing Supplies,Ballpoint Pens,18,5,90,Cash
+SO-202407-0006,11756,2024-07-04,2024,Central,Online Customer,Writing Supplies,Erasers Pack,8,3,24,Cash
+SO-202407-0007,11757,2024-07-07,2024,Central,Wholesale,Writing Supplies,Ballpoint Pens,43,5,215,Credit Card
+SO-202407-0008,11758,2024-07-08,2024,South,Retail Customer,Paper Products,Notebook,12,3.5,42,Credit Card
+SO-202407-0009,11759,2024-07-09,2024,West,Wholesale,Writing Supplies,Ballpoint Pens,66,5,330,Cash
+SO-202407-0010,11760,2024-07-09,2024,Central,Wholesale,School Bags,Backpack,64,28,1792,Credit Card
+SO-202407-0011,11761,2024-07-10,2024,South,Wholesale,School Bags,Backpack,39,28,1092,E-Wallet
+SO-202407-0012,11762,2024-07-10,2024,East,Retail Customer,School Bags,Backpack,6,28,168,Credit Card
+SO-202407-0013,11763,2024-07-11,2024,West,Retail Customer,Paper Products,Notebook,14,3.5,49,E-Wallet
+SO-202407-0014,11764,2024-07-11,2024,West,Retail Customer,Writing Supplies,Whiteboard Markers,10,8,80,Credit Card
+SO-202407-0015,11765,2024-07-13,2024,East,Wholesale,Writing Supplies,Highlighters,52,6.5,338,Cash
+SO-202407-0016,11766,2024-07-16,2024,North,Online Customer,School Bags,Backpack,3,28,84,E-Wallet
+SO-202407-0017,11767,2024-07-16,2024,West,Online Customer,Writing Supplies,Whiteboard Markers,4,8,32,Credit Card
+SO-202407-0018,11768,2024-07-17,2024,South,Retail Customer,Writing Supplies,Highlighters,9,6.5,58.5,Cash
+SO-202407-0019,11769,2024-07-20,2024,East,Online Customer,Desk Supplies,Stapler,5,9.5,47.5,E-Wallet
+SO-202407-0020,11770,2024-07-21,2024,West,Online Customer,Writing Supplies,Ballpoint Pens,8,5,40,E-Wallet
+SO-202407-0021,11771,2024-07-23,2024,North,Wholesale,Art Supplies,Glue Sticks,20,4.5,90,Credit Card
+SO-202407-0022,11772,2024-07-24,2024,Central,Online Customer,Writing Supplies,Erasers Pack,8,3,24,E-Wallet
+SO-202407-0023,11773,2024-07-28,2024,East,Wholesale,Paper Products,Notebook,53,3.5,185.5,E-Wallet
+SO-202407-0024,11774,2024-07-29,2024,South,Online Customer,Desk Supplies,Stapler,8,9.5,76,E-Wallet
+SO-202407-0025,11775,2024-07-31,2024,North,Online Customer,Paper Products,Notebook,1,3.5,3.5,Cash
+SO-202408-0001,11776,2024-08-01,2024,South,Retail Customer,Writing Supplies,Whiteboard Markers,11,8,88,Credit Card
+SO-202408-0002,11777,2024-08-04,2024,East,Online Customer,Paper Products,Notebook,4,3.5,14,Cash
+SO-202408-0003,11778,2024-08-05,2024,East,Retail Customer,School Bags,Backpack,11,28,308,Cash
+SO-202408-0004,11779,2024-08-05,2024,South,Online Customer,Writing Supplies,Highlighters,6,6.5,39,E-Wallet
+SO-202408-0005,11780,2024-08-06,2024,West,Online Customer,Art Supplies,Glue Sticks,4,4.5,18,Credit Card
+SO-202408-0006,11781,2024-08-07,2024,North,Online Customer,Writing Supplies,Highlighters,3,6.5,19.5,Credit Card
+SO-202408-0007,11782,2024-08-07,2024,West,Wholesale,Writing Supplies,Pencils Pack,72,4,288,E-Wallet
+SO-202408-0008,11783,2024-08-08,2024,North,Retail Customer,Desk Supplies,Scissors,18,7,126,E-Wallet
+SO-202408-0009,11784,2024-08-08,2024,East,Online Customer,Writing Supplies,Pencils Pack,10,4,40,Credit Card
+SO-202408-0010,11785,2024-08-11,2024,West,Wholesale,Paper Products,Notebook,27,3.5,94.5,Credit Card
+SO-202408-0011,11786,2024-08-12,2024,Central,Retail Customer,Paper Products,Notebook,7,3.5,24.5,E-Wallet
+SO-202408-0012,11787,2024-08-13,2024,North,Retail Customer,Desk Supplies,Stapler,10,9.5,95,Cash
+SO-202408-0013,11788,2024-08-15,2024,West,Retail Customer,Desk Supplies,Stapler,14,9.5,133,E-Wallet
+SO-202408-0014,11789,2024-08-16,2024,Central,Online Customer,Writing Supplies,Highlighters,10,6.5,65,E-Wallet
+SO-202408-0015,11790,2024-08-18,2024,South,Retail Customer,Writing Supplies,Erasers Pack,15,3,45,E-Wallet
+SO-202408-0016,11791,2024-08-18,2024,East,Retail Customer,Paper Products,Notebook,10,3.5,35,Credit Card
+SO-202408-0017,11792,2024-08-19,2024,Central,Wholesale,Paper Products,Notebook,77,3.5,269.5,E-Wallet
+SO-202408-0018,11793,2024-08-20,2024,North,Retail Customer,Writing Supplies,Ballpoint Pens,20,5,100,Cash
+SO-202408-0019,11794,2024-08-20,2024,North,Online Customer,Desk Supplies,Stapler,8,9.5,76,Cash
+SO-202408-0020,11795,2024-08-21,2024,West,Online Customer,Paper Products,Notebook,5,3.5,17.5,Cash
+SO-202408-0021,11796,2024-08-22,2024,Central,Online Customer,Writing Supplies,Whiteboard Markers,6,8,48,E-Wallet
+SO-202408-0022,11797,2024-08-23,2024,West,Online Customer,Art Supplies,Glue Sticks,10,4.5,45,E-Wallet
+SO-202408-0023,11798,2024-08-23,2024,Central,Retail Customer,School Bags,Backpack,13,28,364,Credit Card
+SO-202408-0024,11799,2024-08-25,2024,South,Online Customer,Art Supplies,Glue Sticks,8,4.5,36,Credit Card
+SO-202408-0025,11800,2024-08-25,2024,Central,Wholesale,Writing Supplies,Highlighters,76,6.5,494,E-Wallet
+SO-202408-0026,11801,2024-08-27,2024,North,Retail Customer,Writing Supplies,Pencils Pack,18,4,72,Credit Card
+SO-202408-0027,11802,2024-08-28,2024,North,Online Customer,Writing Supplies,Highlighters,9,6.5,58.5,Credit Card
+SO-202408-0028,11803,2024-08-31,2024,South,Wholesale,Desk Supplies,Scissors,41,7,287,E-Wallet
+SO-202409-0001,11804,2024-09-02,2024,East,Wholesale,Desk Supplies,Stapler,20,9.5,190,Credit Card
+SO-202409-0002,11805,2024-09-02,2024,West,Online Customer,Writing Supplies,Whiteboard Markers,5,8,40,Cash
+SO-202409-0003,11806,2024-09-04,2024,South,Wholesale,Desk Supplies,Stapler,20,9.5,190,Credit Card
+SO-202409-0004,11807,2024-09-05,2024,South,Retail Customer,Writing Supplies,Erasers Pack,19,3,57,E-Wallet
+SO-202409-0005,11808,2024-09-06,2024,East,Online Customer,Writing Supplies,Ballpoint Pens,7,5,35,E-Wallet
+SO-202409-0006,11809,2024-09-06,2024,North,Online Customer,Desk Supplies,Scissors,3,7,21,Credit Card
+SO-202409-0007,11810,2024-09-06,2024,South,Retail Customer,School Bags,Backpack,7,28,196,E-Wallet
+SO-202409-0008,11811,2024-09-06,2024,Central,Online Customer,Desk Supplies,Scissors,5,7,35,Cash
+SO-202409-0009,11812,2024-09-07,2024,West,Wholesale,School Bags,Backpack,30,28,840,E-Wallet
+SO-202409-0010,11813,2024-09-08,2024,West,Retail Customer,Writing Supplies,Pencils Pack,9,4,36,Credit Card
+SO-202409-0011,11814,2024-09-11,2024,South,Wholesale,Writing Supplies,Highlighters,63,6.5,409.5,Credit Card
+SO-202409-0012,11815,2024-09-11,2024,West,Online Customer,Writing Supplies,Erasers Pack,1,3,3,Credit Card
+SO-202409-0013,11816,2024-09-11,2024,East,Online Customer,Paper Products,Notebook,1,3.5,3.5,E-Wallet
+SO-202409-0014,11817,2024-09-11,2024,West,Retail Customer,Writing Supplies,Pencils Pack,5,4,20,Credit Card
+SO-202409-0015,11818,2024-09-13,2024,West,Retail Customer,Desk Supplies,Stapler,9,9.5,85.5,Credit Card
+SO-202409-0016,11819,2024-09-13,2024,North,Wholesale,Desk Supplies,Scissors,24,7,168,Credit Card
+SO-202409-0017,11820,2024-09-13,2024,South,Online Customer,Writing Supplies,Erasers Pack,4,3,12,E-Wallet
+SO-202409-0018,11821,2024-09-15,2024,East,Wholesale,Writing Supplies,Highlighters,75,6.5,487.5,Cash
+SO-202409-0019,11822,2024-09-19,2024,South,Wholesale,Writing Supplies,Whiteboard Markers,36,8,288,Credit Card
+SO-202409-0020,11823,2024-09-20,2024,East,Online Customer,Art Supplies,Glue Sticks,4,4.5,18,Credit Card
+SO-202409-0021,11824,2024-09-21,2024,Central,Wholesale,School Bags,Backpack,55,28,1540,E-Wallet
+SO-202409-0022,11825,2024-09-22,2024,East,Wholesale,Art Supplies,Glue Sticks,64,4.5,288,Cash
+SO-202409-0023,11826,2024-09-22,2024,North,Retail Customer,Writing Supplies,Whiteboard Markers,7,8,56,Cash
+SO-202409-0024,11827,2024-09-24,2024,Central,Wholesale,Art Supplies,Glue Sticks,50,4.5,225,E-Wallet
+SO-202409-0025,11828,2024-09-25,2024,Central,Wholesale,Desk Supplies,Scissors,48,7,336,Credit Card
+SO-202409-0026,11829,2024-09-26,2024,Central,Online Customer,Writing Supplies,Pencils Pack,7,4,28,Credit Card
+SO-202409-0027,11830,2024-09-26,2024,North,Retail Customer,Desk Supplies,Scissors,16,7,112,E-Wallet
+SO-202409-0028,11831,2024-09-27,2024,North,Retail Customer,Writing Supplies,Erasers Pack,6,3,18,E-Wallet
+SO-202409-0029,11832,2024-09-29,2024,West,Online Customer,Writing Supplies,Erasers Pack,2,3,6,E-Wallet
+SO-202410-0001,11833,2024-10-05,2024,West,Online Customer,Writing Supplies,Highlighters,7,6.5,45.5,Credit Card
+SO-202410-0002,11834,2024-10-05,2024,West,Online Customer,Writing Supplies,Erasers Pack,3,3,9,E-Wallet
+SO-202410-0003,11835,2024-10-10,2024,Central,Online Customer,Writing Supplies,Erasers Pack,3,3,9,Credit Card
+SO-202410-0004,11836,2024-10-10,2024,East,Online Customer,School Bags,Backpack,1,28,28,Credit Card
+SO-202410-0005,11837,2024-10-11,2024,North,Wholesale,Paper Products,Notebook,73,3.5,255.5,Credit Card
+SO-202410-0006,11838,2024-10-14,2024,West,Retail Customer,School Bags,Backpack,15,28,420,E-Wallet
+SO-202410-0007,11839,2024-10-17,2024,East,Retail Customer,Writing Supplies,Whiteboard Markers,7,8,56,Credit Card
+SO-202410-0008,11840,2024-10-18,2024,Central,Wholesale,Desk Supplies,Stapler,38,9.5,361,Credit Card
+SO-202410-0009,11841,2024-10-19,2024,North,Wholesale,Paper Products,Notebook,75,3.5,262.5,E-Wallet
+SO-202410-0010,11842,2024-10-21,2024,East,Retail Customer,Writing Supplies,Whiteboard Markers,17,8,136,Credit Card
+SO-202410-0011,11843,2024-10-23,2024,East,Retail Customer,Writing Supplies,Highlighters,7,6.5,45.5,E-Wallet
+SO-202410-0012,11844,2024-10-24,2024,Central,Online Customer,Writing Supplies,Whiteboard Markers,3,8,24,Cash
+SO-202410-0013,11845,2024-10-24,2024,East,Online Customer,Writing Supplies,Highlighters,8,6.5,52,Credit Card
+SO-202410-0014,11846,2024-10-24,2024,West,Retail Customer,Desk Supplies,Stapler,8,9.5,76,Cash
+SO-202410-0015,11847,2024-10-29,2024,West,Wholesale,Writing Supplies,Erasers Pack,44,3,132,E-Wallet
+SO-202410-0016,11848,2024-10-30,2024,South,Wholesale,Paper Products,Notebook,30,3.5,105,Credit Card
+SO-202410-0017,11849,2024-10-30,2024,Central,Wholesale,Art Supplies,Glue Sticks,47,4.5,211.5,E-Wallet
+SO-202411-0001,11850,2024-11-02,2024,North,Wholesale,School Bags,Backpack,54,28,1512,E-Wallet
+SO-202411-0002,11851,2024-11-03,2024,Central,Wholesale,Writing Supplies,Erasers Pack,69,3,207,Cash
+SO-202411-0003,11852,2024-11-03,2024,South,Online Customer,Art Supplies,Glue Sticks,1,4.5,4.5,Cash
+SO-202411-0004,11853,2024-11-03,2024,East,Wholesale,Art Supplies,Glue Sticks,61,4.5,274.5,Cash
+SO-202411-0005,11854,2024-11-06,2024,North,Wholesale,Desk Supplies,Scissors,80,7,560,Credit Card
+SO-202411-0006,11855,2024-11-08,2024,Central,Wholesale,Writing Supplies,Whiteboard Markers,38,8,304,Credit Card
+SO-202411-0007,11856,2024-11-09,2024,West,Wholesale,Desk Supplies,Stapler,56,9.5,532,Cash
+SO-202411-0008,11857,2024-11-09,2024,Central,Retail Customer,Paper Products,Notebook,10,3.5,35,Credit Card
+SO-202411-0009,11858,2024-11-09,2024,East,Retail Customer,Desk Supplies,Scissors,17,7,119,Cash
+SO-202411-0010,11859,2024-11-09,2024,Central,Retail Customer,Writing Supplies,Whiteboard Markers,20,8,160,Cash
+SO-202411-0011,11860,2024-11-10,2024,East,Wholesale,Writing Supplies,Highlighters,69,6.5,448.5,E-Wallet
+SO-202411-0012,11861,2024-11-11,2024,West,Wholesale,Writing Supplies,Pencils Pack,80,4,320,Credit Card
+SO-202411-0013,11862,2024-11-12,2024,Central,Wholesale,Writing Supplies,Ballpoint Pens,23,5,115,Cash
+SO-202411-0014,11863,2024-11-12,2024,South,Wholesale,Paper Products,Notebook,29,3.5,101.5,Cash
+SO-202411-0015,11864,2024-11-13,2024,North,Retail Customer,Writing Supplies,Erasers Pack,19,3,57,Credit Card
+SO-202411-0016,11865,2024-11-14,2024,Central,Retail Customer,Writing Supplies,Whiteboard Markers,14,8,112,E-Wallet
+SO-202411-0017,11866,2024-11-14,2024,North,Wholesale,Paper Products,Notebook,60,3.5,210,Credit Card
+SO-202411-0018,11867,2024-11-15,2024,Central,Retail Customer,Desk Supplies,Scissors,10,7,70,Cash
+SO-202411-0019,11868,2024-11-16,2024,North,Retail Customer,Paper Products,Notebook,20,3.5,70,Cash
+SO-202411-0020,11869,2024-11-18,2024,North,Wholesale,Desk Supplies,Scissors,21,7,147,E-Wallet
+SO-202411-0021,11870,2024-11-18,2024,West,Wholesale,Writing Supplies,Ballpoint Pens,60,5,300,Credit Card
+SO-202411-0022,11871,2024-11-20,2024,West,Retail Customer,Writing Supplies,Ballpoint Pens,11,5,55,Credit Card
+SO-202411-0023,11872,2024-11-20,2024,North,Retail Customer,Writing Supplies,Whiteboard Markers,13,8,104,Cash
+SO-202411-0024,11873,2024-11-23,2024,West,Wholesale,Writing Supplies,Ballpoint Pens,68,5,340,E-Wallet
+SO-202411-0025,11874,2024-11-24,2024,South,Online Customer,Desk Supplies,Stapler,4,9.5,38,Cash
+SO-202411-0026,11875,2024-11-24,2024,North,Online Customer,Art Supplies,Glue Sticks,3,4.5,13.5,Cash
+SO-202411-0027,11876,2024-11-25,2024,Central,Wholesale,Desk Supplies,Scissors,25,7,175,E-Wallet
+SO-202411-0028,11877,2024-11-28,2024,Central,Retail Customer,Desk Supplies,Stapler,12,9.5,114,Credit Card
+SO-202411-0029,11878,2024-11-30,2024,Central,Online Customer,Writing Supplies,Erasers Pack,9,3,27,E-Wallet
+SO-202412-0001,11879,2024-12-01,2024,East,Wholesale,Art Supplies,Glue Sticks,42,4.5,189,Credit Card
+SO-202412-0002,11880,2024-12-02,2024,East,Wholesale,Desk Supplies,Stapler,39,9.5,370.5,E-Wallet
+SO-202412-0003,11881,2024-12-03,2024,Central,Wholesale,Writing Supplies,Highlighters,51,6.5,331.5,Credit Card
+SO-202412-0004,11882,2024-12-05,2024,South,Retail Customer,Desk Supplies,Stapler,16,9.5,152,E-Wallet
+SO-202412-0005,11883,2024-12-05,2024,North,Wholesale,School Bags,Backpack,55,28,1540,Credit Card
+SO-202412-0006,11884,2024-12-06,2024,South,Retail Customer,Writing Supplies,Highlighters,20,6.5,130,Credit Card
+SO-202412-0007,11885,2024-12-07,2024,Central,Wholesale,Writing Supplies,Pencils Pack,37,4,148,E-Wallet
+SO-202412-0008,11886,2024-12-09,2024,Central,Retail Customer,Writing Supplies,Whiteboard Markers,13,8,104,Credit Card
+SO-202412-0009,11887,2024-12-11,2024,East,Wholesale,Writing Supplies,Highlighters,40,6.5,260,Credit Card
+SO-202412-0010,11888,2024-12-13,2024,West,Online Customer,Desk Supplies,Scissors,4,7,28,Credit Card
+SO-202412-0011,11889,2024-12-14,2024,South,Wholesale,Desk Supplies,Stapler,42,9.5,399,Cash
+SO-202412-0012,11890,2024-12-19,2024,North,Retail Customer,Paper Products,Notebook,6,3.5,21,E-Wallet
+SO-202412-0013,11891,2024-12-20,2024,North,Retail Customer,Desk Supplies,Scissors,12,7,84,E-Wallet
+SO-202412-0014,11892,2024-12-20,2024,North,Online Customer,Writing Supplies,Erasers Pack,8,3,24,Cash
+SO-202412-0015,11893,2024-12-21,2024,East,Wholesale,Writing Supplies,Pencils Pack,42,4,168,Credit Card
+SO-202412-0016,11894,2024-12-22,2024,Central,Online Customer,School Bags,Backpack,2,28,56,Cash
+SO-202412-0017,11895,2024-12-24,2024,North,Retail Customer,Writing Supplies,Whiteboard Markers,8,8,64,Credit Card
+SO-202412-0018,11896,2024-12-25,2024,South,Wholesale,Writing Supplies,Highlighters,68,6.5,442,Credit Card
+SO-202412-0019,11897,2024-12-25,2024,East,Online Customer,School Bags,Backpack,4,28,112,Cash
+SO-202412-0020,11898,2024-12-26,2024,Central,Wholesale,Writing Supplies,Pencils Pack,71,4,284,Cash
+SO-202412-0021,11899,2024-12-27,2024,East,Online Customer,Writing Supplies,Whiteboard Markers,7,8,56,E-Wallet
+SO-202412-0022,11900,2024-12-29,2024,East,Online Customer,Desk Supplies,Scissors,8,7,56,Cash
+SO-202412-0023,11901,2024-12-30,2024,East,Retail Customer,Writing Supplies,Erasers Pack,7,3,21,Cash
